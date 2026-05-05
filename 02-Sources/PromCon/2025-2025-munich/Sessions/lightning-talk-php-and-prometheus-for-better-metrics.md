@@ -1,0 +1,46 @@
+---
+type: session
+event: "PromCon EU 2025"
+year: 2025
+kind: session
+youtube_url: "https://www.youtube.com/watch?v=upisjnxmw6k"
+youtube_id: "upisjnxmw6k"
+playlist: "PromCon EU 2025"
+playlist_id: "PLj6h78yzYM2P534LgwCVm3GQdxLcSt7We"
+playlist_index: 24
+speakers: ["Syed Usman Ahmad"]
+topics: ["Metrics", "Cost Optimization", "Kubernetes", "AI Observability"]
+keywords: ["prometheus", "metrics", "kubernetes", "wordpress", "definitely", "version", "little", "grafana", "docker", "minimal", "everything", "define", "exporter", "interested", "number", "comments", "exporters", "details", "alerting", "policies", "lightning", "better", "joining", "developer"]
+transcript_file: "_sources/transcripts/youtube-playlists/promcon-eu-2025/lightning-talk-php-and-prometheus-for-better-metrics/upisjnxmw6k.txt"
+transcript_chars: 3788
+status: "transcript-downloaded"
+match_score: 1.08
+---
+
+# Lightning Talk: PHP and Prometheus For better Metrics - Syed Usman Ahmad
+
+## Metadata
+
+- YouTube: https://www.youtube.com/watch?v=upisjnxmw6k
+- Playlist: PromCon EU 2025
+- Speakers: Syed Usman Ahmad
+- Topics: [[Metrics]], [[Cost Optimization]], [[Kubernetes]], [[AI Observability]]
+
+## Transcript
+
+Yeah, thanks uh for joining the session. So a little about me, my name is Usman and I work in Grafana Labs as a developer advocate and yeah I've been with the tech for like many years 15 years and using Linux I love Linux and yeah today's talk about my PHP which I used to work in the past um PHP has a very cool history if some of you may know it started from very basic then the docker some people use it and now we have even Kubernetes which is fun but not so fun And um one cool thing about PHP is that uh like one of the project was WordPress. I actually give this talk also in the Linux foundation event as well. So it's very minimal version of it. And we will see how we can use Prometheus with PHP. And you need to use it because when you talk about Kubernetes, you do not know what's going on where it doesn't matter how many you do uh scale up or whatever and think everything will be fine. There will be never something fine.
+
+So yeah and um the part which we will focus from the pillars of obsibility will be metrics um and yeah we will use prometheus for that. So um a very quick demo um so this is the page which you see if you run like a PHP info. So it gives you all those data or metrics and you can see a lot of information. But for for me the curious part was this part because on the same page um you can get all these metrics as well and they are live. So um you can definitely able to use Prometheus with PHP as well and uh here's an example from that sample web app um or from the page. So if I want to see the memory size uh I can um or bytes I can get it via Prometheus and I just define like a basic Prometheus exporter on the node and uh it it gets the job done and um if we go now like okay this was basic but if we go a little bit more advanced uh then we will talk about like for example if running something like a WordPress where you have like back end front end and things going on.
+
+So uh again yeah this is like full version but the minimal version which we can say like okay we interested in WordPress and we want to see the metrics of the back end via Prometheus we can use different things as well but yeah not today next time and um yeah so here is the demo so this is my WordPress deployed on docker and here's some page and uh if I go and type like word I have used WordPress exporter for this and for example I'm interested to get the number of count on the comments. I can see okay there are 10 comments which okay nice and can use girana to see in a more visualized format and can also gather other metrics like number of users media system health and so on. So definitely there is uh way to uh use these exporters and get all the details. Um also um I think without alerting there is nothing incomplete. So uh this is uh just uh to let you know that you should define policies when you're defining alerting because when I work with um or see issues from community users who are using uh either Prometheus or some other tool uh and say like hey this is our notification policies.
+
+So always try to structure in a way you you get as less noise as possible because those are costly. And yeah and um my final takeaway will be for both Prometheus uh and also for graphana is that you should use it definitely for your application like PHP as well. It's doesn't get that much love but it's there still and it is available in many flavors. Both the Prometheus and uh Grafana have a very rich community support. Uh a lot of uh community like Prometheus has many uh PHP exporters written by the community users. So you can definitely check it out and yes it's a complete stack for everything and I just put this final QR code. If you want to uh check out this uh uh project or the details you can scan it and uh try to view all of it. Yeah, that's all.
+
+
+## Related keywords
+
+[[prometheus]] [[metrics]] [[kubernetes]] [[wordpress]] [[definitely]] [[version]] [[little]] [[grafana]] [[docker]] [[minimal]] [[everything]] [[define]]
+
+## Notes
+
+- Raw note imported from CNCF YouTube playlist. Promote durable insights to topic notes under `03-Topics/`.

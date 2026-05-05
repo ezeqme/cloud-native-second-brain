@@ -1,0 +1,50 @@
+---
+type: session
+event: "Observability Day 2025 - NA"
+year: 2025
+kind: session
+youtube_url: "https://www.youtube.com/watch?v=MlNAcGKAqz8"
+youtube_id: "MlNAcGKAqz8"
+playlist: "Observability Day 2025 - NA"
+playlist_id: "PLj6h78yzYM2NupzP0zYgT3dLzARalT1By"
+playlist_index: 3
+speakers: []
+topics: ["Metrics", "Logging", "SLOs", "Cost Optimization", "AI Observability"]
+keywords: ["observability", "slos", "metrics", "cost", "log", "distraction", "telemetry", "better", "collect", "prioritize", "getting", "dashboards", "measure", "kronosphere", "talking", "drowning", "companies", "context", "switching", "drives", "productivity", "everything", "creating", "happens"]
+transcript_file: "_sources/transcripts/youtube-playlists/observability-day-2025-na/sponsored-keynote-the-distraction-tax-why-your-observability-stack-might-be-slowi-bill-hineline/MlNAcGKAqz8.txt"
+transcript_chars: 5101
+status: "transcript-downloaded"
+match_score: 1.08
+---
+
+# Sponsored Keynote: The Distraction Tax: Why Your Observability Stack Might Be Slowi... Bill Hineline
+
+## Metadata
+
+- YouTube: https://www.youtube.com/watch?v=MlNAcGKAqz8
+- Playlist: Observability Day 2025 - NA
+- Speakers: N/A
+- Topics: [[Metrics]], [[Logging]], [[SLOs]], [[Cost Optimization]], [[AI Observability]]
+
+## Transcript
+
+Good morning. Thanks. Sorry for the the brief technical distraction. Speaking of distraction tax. Uh so I'm Bill Heinline. I'm the field CTO at Kronosphere and I am looking forward to talking to you about a little idea that I have called the distraction tax and um we'll get into it. You know, we have observability teams and they have really come a long way with what they've done with observability. They're starting to do things like open telemetry. Uh they're getting a lot of the um really great value out of observability that we've hoped over the years like better MTR and that sort of thing. But we've built observability and I say we I'm guilty of it as well. We've built observability for people treating them as everyone's an S sur and that's not simply not the case. And so we've built these really big maps with a lot of great detail and we've given no direction. And so we spend a lot of time drowning in a lot of metrics and dashboards and a lot of things that take a lot of time away from what we really should be focused on which is innovating and making uh our companies that much better than our competitors.
+
+Right? So when I think about how we need to do this, I think about a few things. Um, first of all, your innovation is probably one of the most important things your engineers have to focus on. And when they can't because they're distracted by all of the the noise, then they're context switching constantly. And I did some research on this and the American Psychological Association says that the constant context switching that we all do drives a 40% loss in productivity in many cases. And that's a pretty big number. That is 40% of time that you could be building the next cool thing. But what causes that, right? Well, I talked to a lot of customers at a lot of different companies and as I talk to them, they're all drowning in telemetry because we all have subscribed for years to collect everything right and that's not working. What's doing is it's creating a lot of noise. It's creating a lot of cost and we're not getting the insights that we hoped out of it.
+
+You combine that with dashboard sprawl. How many people open a telemetry tool at one point or an observability tool at one time and you've got 300 dashboards and you have no idea where to look? I mean, show of hands. It happens all the time and it drives people crazy and they stop using observability and they go back to their their favorite log or favorite tool that came on before. And that's not helping your observability either. That's just adding to the distraction. And when that all happens, both of those combined turn it into a problem where you have organizational drift. Your teams walk away from observability because it's just not getting them the promises that they wanted. And so I say think about this from a more intentional perspective. Start with a purpose and and get out of the mode of designing your observability like an engineer. Think about why the services that you're instrumenting exist and what good looks like.
+
+Then measure that success. It's not enough to measure your payments and just say that yes, payment services are fast, but how does that affect your revenue? How does that affect conversion rates? Measure it from that. Design your telemetry collection around that. And then, you know, I've spent time in large organizations. I know that observability can be a monumental task. And sometimes you have to prioritize, but prioritize what's keeping you up at night. Prioritize what's causing revenue loss or prioritize where you really need to focus better customer productivity. And then so to wrap up, all we're doing here is suggesting that you refocus your outcome on and focus on outcomes and not output. The more dashboards and the more telemetry aren't necessarily better. Your observability should underpin your business objectives and you should be able to tell a story about how your technology is bolstering your business through observability.
+
+Um, don't collect everything. Collect the start with the basics. Start with the Google signals idea and build from there. And start with SLOs's. Don't wait till the end to build SLOs's. They can inform what you should collect. And then lastly, build a culture of observability. To do that, get everybody, assume everybody in your technology organization, even those not could benefit from observability to get people into that in the midst of crisis. So, I could talk way longer than five minutes about this and other observability topics. If you'd like to chat, I' I'd love to chat with you at any point in time and come see what we can do for you. Kronosphere has a booth both outside here talking about what we're doing with Fluent Bet and also uh what we have to announce as far as some really cool guided uh troubleshooting features that we're announcing this week. So, come see us. We're at booth 9:30 in the solution showcase.
+
+And if you haven't killed yourself by the end of the conference, we're having Cheers to Observability on Wednesday from 6:00 to 9:00. So love to see you there. Thank you.
+
+
+## Related keywords
+
+[[observability]] [[slos]] [[metrics]] [[cost]] [[log]] [[distraction]] [[telemetry]] [[better]] [[collect]] [[prioritize]] [[getting]] [[dashboards]]
+
+## Notes
+
+- Raw note imported from CNCF YouTube playlist. Promote durable insights to topic notes under `03-Topics/`.

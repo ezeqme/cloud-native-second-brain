@@ -1,0 +1,46 @@
+---
+type: session
+event: "PromCon EU 2025"
+year: 2025
+kind: session
+youtube_url: "https://www.youtube.com/watch?v=w9mOUPL6I8g"
+youtube_id: "w9mOUPL6I8g"
+playlist: "PromCon EU 2025"
+playlist_id: "PLj6h78yzYM2P534LgwCVm3GQdxLcSt7We"
+playlist_index: 27
+speakers: ["Aliaksandr Valialkin"]
+topics: ["Metrics", "AI Observability"]
+keywords: ["metric", "metrics", "prometheus", "zero", "unused", "matrix", "detect", "delete", "memory", "obviously", "stored", "series", "implement", "number", "occupy", "following", "victory", "extract", "graphana", "dashboards", "subtract", "automatically", "select", "remove"]
+transcript_file: "_sources/transcripts/youtube-playlists/promcon-eu-2025/lightning-talk-how-to-detect-and-delete-unused-metrics/w9mOUPL6I8g.txt"
+transcript_chars: 3338
+status: "transcript-downloaded"
+match_score: 1.08
+---
+
+# Lightning Talk: How to detect and delete unused metrics? - Aliaksandr Valialkin
+
+## Metadata
+
+- YouTube: https://www.youtube.com/watch?v=w9mOUPL6I8g
+- Playlist: PromCon EU 2025
+- Speakers: Aliaksandr Valialkin
+- Topics: [[Metrics]], [[AI Observability]]
+
+## Transcript
+
+How to detect and delete unused metrics? Uh how many of you know about this unused matrix problems in Prometheus? Yeah, I think uh there are a lot of users who stumble with this problem and uh let's uh see how how to solve this problem uh and why unused metrics are important. uh I think uh you know that they occupy a lot of this space and occupy a lot of memory uh and obviously they are never used then the question arises why we need to spend this space and memory for such metrics um okay how to detect unused metrics uh there are two ways the hard way uh is the following u the first step is you need to get a list of all the metric names from your Prometheus or from victory metrics uh like uh this example. Um then the next step is to uh inspect all your records and alerting rules uh and extract all the metric names from these rules. uh then go to your u graphana dashboards and extract all the metric names from from queries across all these dashboards and then uh subtract uh this found metrics metric names from the metric names obtained from uh this Prometheus API which returns metric names uh which are stored in Prometheus.
+
+That's this is the hard way. uh who tried this way? There are there are people who tried this way. Okay. And uh there is a simpler way uh I heard that uh mim tool has this analyze uh comment and uh it can perform something like this but automatically and but the only drawback it works only on for graphana is understood correctly. Um okay and the second way uh is the following uh you can track all the metric names which are stored uh into Prometheus or other uh database uh during data ingestion. Uh then you can track also metric names uh for all the quered metrics with all the query select uh time series selectors. um and then you cannot wait for some time for a day for example or for a longer time and then automatically subtract the query matrix from the stored matrix and get uh the set of unused metrics. Uh this is not so hard to implement. Uh and that's why um oh okay that's another step. Uh when uh you uh identify all the unused metrics um it is good to start removing uh the metrics which takes a lot the majority of memory and this space and how to detect this metrics and obviously you can use uh TSDB status information for this uh this primeus feature which shows you uh metric names with the biggest number of time series.
+
+So if uh you identified unused metric names in this list uh it's better to remove these metrics from this list and as I said uh it is not so hard to implement it that's why um okay I forgot and how deleted on metrics you can delete them at metric injection um with metric labeling configs like this one by enumerating this metric names or prefixes for suffixes with reg x and drop this metric names and victory matrix already implements this. Uh uh you can see here um metric names with the top number of time series and you can see here the uh number of requests for this matrix uh select requests and uh the last time this matrix uh has been queried. And if you see uh zero here in this row then obviously you can drop this metric or if you see some that the metric has been requested last time long time ago then probably it's also a good idea to remove this metric and uh the call to action is to let's implement it in Prometheus.
+
+>> Thank you.
+
+
+## Related keywords
+
+[[metric]] [[metrics]] [[prometheus]] [[zero]] [[unused]] [[matrix]] [[detect]] [[delete]] [[memory]] [[obviously]] [[stored]] [[series]]
+
+## Notes
+
+- Raw note imported from CNCF YouTube playlist. Promote durable insights to topic notes under `03-Topics/`.

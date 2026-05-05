@@ -1,0 +1,52 @@
+---
+type: session
+event: "Open Observability Summit + Otel Community Day NA 2025"
+year: 2025
+kind: session
+youtube_url: https://www.youtube.com/watch?v=hERRANApN5c
+youtube_id: hERRANApN5c
+playlist: "Open Observability Summit + Otel Community Day NA 2025"
+playlist_id: PLj6h78yzYM2NFT2PGItX2idBf7v8fHcy7
+playlist_index: 4
+speakers: ["Austin Parker", "Honeycomb"]
+topics: ["OpenTelemetry", "Collectors", "Logging", "Profiling", "Cost Optimization", "Kubernetes", "AI Observability"]
+keywords: ["kubernetes", "telemetry", "agents", "pipelines", "opentelemetry", "observability", "agent", "profiling", "logs", "semantic", "cost", "getting", "single", "source", "native", "saying", "future", "parker", "governance", "plumbing", "little", "container", "consolidated", "company"]
+transcript_file: _sources/transcripts/youtube-playlists/open-observability-summit-otel-community-day-na-2025/keynote-opentelemetry-and-the-future-of-open-source-observability/hERRANApN5c.txt
+transcript_chars: 7096
+status: transcript-downloaded
+---
+
+# Keynote: OpenTelemetry And The Future of Open Source Observability - Austin Parker, Honeycomb
+
+## Metadata
+
+- YouTube: https://www.youtube.com/watch?v=hERRANApN5c
+- Playlist: Open Observability Summit + Otel Community Day NA 2025
+- Speakers: Austin Parker, Honeycomb
+- Topics: [[OpenTelemetry]], [[Collectors]], [[Logging]], [[Profiling]], [[Cost Optimization]], [[Kubernetes]], [[AI Observability]]
+
+## Transcript
+
+So, as mentioned, I'm Austin Parker, director of open source at honeycom.io and a member of the open telemetry governance committee. Um, you can find me on blue sky at aparker.io. You can also find me on the internet at a parker.io. Convenient how that works. So, today I'm going to talk about how open telemetry is the new default plumbing for observability and what that means and what's coming next. So, let's start out with a little little show of hands. Any uh who's still running MSOS? Anyone? Docker Swarm? Any Oh, hey, cool. I did not expect anyone to raise their hand. Okay. Who's heard of this this little thing, right? Kubernetes. Yeah. Eight or nine years ago, this was bloody, right? Do you if who remembers like Docker Con, CubeCons with you know the titans of the industry swinging back and forth about container orchestration and about how we're going to run apps in the future. And here we are 9 years later and it is not even a question.
+
+Right? In a short amount of time, Kubernetes consolidated the entire space. And it makes sense why, right? Open standards tend to be good for people. If you are a company and you're building on cloud native, then you're kind of getting Kubernetes for free because of how ubiquous it is, right? You're getting not just, you know, pretty good container orchestrator, uh, a pretty good distributed database, and then also CD, but you're getting tooling, right? You're getting an ecosystem, you're getting experience, you're getting training and certification, and you're getting a huge access, you know, huge labor pool of people that know how to use Kubernetes, so they don't have to relearn everything over and over and over. And it's a pattern we've seen repeat itself in the tech industry over the past two decades. I'm sure there are people out there using Perforce maybe still. No, we're on Git. Who? Anyone still using material?
+
+Like yes, these still exist, but we've all mostly standardized on one thing. Um technologies and specs like OCI and CNI have consolidated container specifications, have consolidated network software defined networking. You know, a really cool thing if you pay attention to Apple news is, you know, they wrote a native containerization uh layer for their upcoming Mac OS release that just supports OCI containers, right? Like we're pushing all this stuff left and it's becoming more open, more ubiquous. And I think that's what is the the real moral of the story here. When everyone agrees about plumbing, we don't have to all go independently reinvent the pipes and we can just start building things, right? We can build bathrooms and houses and skyscrapers and observability has hit that same tipping point. Right? If you think about the world before, you know, six, seven years ago, it was a confusing mess.
+
+Incompatible proprietary formats, SDKs, instrumentation agents, duplicated efforts, redundancy in your data, silos for your data, huge learning curves. Even going from team to team at the same company, you'd have to relearn the entire observability stack. And then of course everyone's favorite thing, vendor lock in. Now we have a better way. We have a golden path to observability and it goes through open telemetry. A single spec, a single wire format, a single agent, a single way to define pipelines. It's becoming a native part of so much of what we use, right? Uh libraries, frameworks, application runtimes. Companies like OpenAI, Anthropic, Google, Microsoft are shipping applications today with open telemetry support built in. It is literally a environment variable away. So I think we can agree it's an idea whose time has come, right? And it's not just me up here saying this. Analysts have been saying this too.
+
+In 2022, Gartner predicted by 2025 we'd have 70% of, you know, new cloudnative monitoring being open- source. So, how do we do? Pretty good, I would say. Right? It's not just Graphana saying this. You know, I love Graphfana, but they have a vested interest. Um Gartner has gone back on that analysis last year at IOCS which is one of their conferences that one of their MQ analysts the magic quadrant analysts for observability and APM and also hey it's observability magic quadrant now not APM like we we are seeing things happen but they pointed out and I'm quoting open telemetry is an ubiquous observability standard embraced by developers and organizations worldwide when they're going through and they're looking at companies to put into the MQ hotel support is a huge part of that. It's a real differentiator. It's something that their customers, these enterprise customers are asking for. And it's not just Gardner.
+
+InfoQ has uh their latest, you know, trend report. You see open telemetry on the other side of the chasm. Anyone ever read Crossing the Chasm? Real fun story. Um who remembers what this looked like in 2019? Because in 2019, Kubernetes landed right there. And think about what that means for the next six years of open telemetry. Other reports from uh things like EMA, which is another enterprise management firm, they did a survey earlier this year for IT professionals. 48% and this is not like cloud native, right? 48% of people saying hotel were being used in production. 50% planning or evaluating new deployments. The data is clear. Open source and open tele open telemetry is the foundation for observability today and in the future. And investing in hotel isn't just about what you get today. You're investing what's coming next. New signals like continuous profiling, better support for events and structured logs, semantic conventions that normalize your metadata and provide schemadriven approaches to development.
+
+And finally, high quality data for AI co-pilots and agents for to do incident detection, remediation, cost analysis, and developer pairing. And you get this thanks to our contributors, our amazing group of contributors. We have thousands of people every month from hundreds of organizations. We're so proud of our vendor neutral SIG and governance structure, which protects both contributors and users from, you know, being rugpulled, which we're seeing unfortunately a lot more in the open source space these days. And so if you are a contributor, if you're a maintainer, I want you to raise your hand real quick. If you've ever made a PR, you've written a docs issue, everyone give give them a round of applause, right? Because we would not be here without them. It is an honor and a privilege to stand up here and talk about open telemetry. And it is thanks to you all. So the proof is in, right? We figured out the plumbing.
+
+It's time to build. Everyone is laying pipe. So what's next? It's time to build on open telemetry. It's time to build with open telemetry. If your agents, SDKs, and pipelines are dependent on a single vendor, a closed roadmap, or a single company governance structure, you are at risk. Open telemetry is here. It lives in the daylight. So, it's time to file issues. Open PRs. It's your standard. Come and help shape it. Let's all go build some skyscrapers together. Thank you very much.
+
+## Related keywords
+
+[[kubernetes]] [[telemetry]] [[agents]] [[pipelines]] [[opentelemetry]] [[observability]] [[agent]] [[profiling]] [[logs]] [[semantic]] [[cost]] [[getting]]
+
+## Notes
+
+- Raw note imported from CNCF YouTube playlist. Promote durable insights to topic notes under `03-Topics/`.

@@ -1,0 +1,54 @@
+---
+type: session
+event: "Open Observability Summit + Otel Community Day NA 2025"
+year: 2025
+kind: session
+youtube_url: https://www.youtube.com/watch?v=J_hHiwa_3QU
+youtube_id: J_hHiwa_3QU
+playlist: "Open Observability Summit + Otel Community Day NA 2025"
+playlist_id: PLj6h78yzYM2NFT2PGItX2idBf7v8fHcy7
+playlist_index: 6
+speakers: ["Margaret Dawson"]
+topics: ["SLOs", "Cost Optimization", "Kubernetes", "AI Observability", "Security"]
+keywords: ["security", "infrastructure", "kubernetes", "application", "cost", "hybrid", "organizations", "experience", "criteria", "developers", "observability", "workloads", "strategy", "business", "operations", "standards", "favorite", "always", "switch", "actually", "containerized", "reason", "innovation", "architecture"]
+transcript_file: _sources/transcripts/youtube-playlists/open-observability-summit-otel-community-day-na-2025/keynote-hybrid-cloud-architecture-making-big-bets-on-open-standards/J_hHiwa_3QU.txt
+transcript_chars: 8548
+status: transcript-downloaded
+---
+
+# Keynote: Hybrid Cloud Architecture: Making Big Bets on Open Standards - Margaret Dawson
+
+## Metadata
+
+- YouTube: https://www.youtube.com/watch?v=J_hHiwa_3QU
+- Playlist: Open Observability Summit + Otel Community Day NA 2025
+- Speakers: Margaret Dawson
+- Topics: [[SLOs]], [[Cost Optimization]], [[Kubernetes]], [[AI Observability]], [[Security]]
+
+## Transcript
+
+So I'm going to start at a high level and then we'll get more and more technical as the day goes on. And I'm very excited to be at our first open observability summit. So welcome and thank you. Um I'm going to talk about one of my favorite topics which is hybrid cloud architecture and how we build an open standards. Um and I always love to get grounded in data first. So let's get a baseline of where we are. If this is working okay we will one moment. switch out the USB here. All right, let's see if that works better. All right, awesome. Quick switch. So, let's get grounded in some data. So, I don't know if you still get asked this question, but I still do from companies, you know, what should I do? Should I put in the cloud? Should I keep it on prem? And the current data shows it's getting pretty balanced. We have what 34% of workloads on prem about 37% are at switch 37% in the public cloud. One thing to note that I think has been since the dawn of cloud is we are always more aspirational about how much we want to put in the cloud versus what we can actually achieve.
+
+Unless you're one of those wonderful digital natives that was 100% containerized in cloud from day one, which is a very small percentage of traditional enterprise. And cloud is continuing to grow. Analysts are predicting 38% increase in cloud spending this year alone, which is still very, very high and very strong. Nearly everybody has something in the cloud. No surprise there. And over 85% of organizations say they have a cloud first strategy, which you will learn is my least favorite word. Um, and we're still struggling a little bit. uh research says about 20 21% of organizations have brought back some portion of their workloads from public cloud back to onrem or to a colo and we're still seeing numbers 25 30% of cloud spend is wasted uh which is good news for all those phpops solutions and tools out there so I think that's why that's still doing well so the answer of course is hybrid it's not either or it's both and the vast majority of organizations say they are already actively managing hybrid infrastructure.
+
+Another 20% hope to plan to and I believe hybrid is here for a long long time and we should just stop that argument completely. The problem is hybrid is happening very non-strategically. It tends to be very ad hoc. And I see this a lot. In fact, often it's competitive, right? I don't know how many of you have seen this, but I've seen organizations where the cloud team is incentivized to put some huge percentage of workloads in the cloud and the data center team is incentivized in keeping workloads in the data center and uh that makes strange behavior across the organization. So 16% of responders of a really good state of cloud report by Flexera. I love this report. I read it every year. Rackspace has one too by the way. But they say that their cloud adoption is not integrated into their business strategy. That's good news. And less than 50% of operations and infrastructure leaders say they aren't really good at workload placement based on what is the best cost-effective or performing infrastructure.
+
+So what does it look like when we just had this ad hoc strategy around hybrid? It actually slows us down, which is ironic because the whole reason we went to the cloud in the first place was to accelerate productivity and innovation. Um, businesses, business units are usually misaligned, right? And as all of us feel pressure around AI investments, we're actually constraining our ability to fully implement and optimize that innovation when we're not taking a strategic approach. And I think it's because we continue to want to start with the destination and I love infrastructure. I mean I started my career in network security and networking and blinky lights. It makes me very very happy but we shouldn't start there and I think that is the key thing. So instead of this cloud first approach or cloud first strategy, let's start with the application or even better let's start with the experience that we want to create.
+
+So I think before we do anything with where we should put something or where we should build something, we should step back and look at these five areas. What is the purpose of this from a business perspective? Is this an application that drives revenue? Is this an internal app? What is the user experience we want to create? How do we want users to experience this? What is the application criteria? And I'm going to walk through this in a minute. Working with our stakeholders to really understand what is needed for that application. What are the dependencies? I don't know if you've experienced this is the number one issue I see in almost every organization I've ever worked with where they somehow think an application is on an island, you know, and there's nothing that's connected to it. they forget about all the data dependencies, other applications, policies, right? Let's capture those. And then of course our favorite security and compliance, is there data sovereignty issues?
+
+And after all of those areas, then we can look at okay, where's the right place to host this application? This is not an exhaustive list. Uh it's some of the areas that I've worked with organizations in the past that they've come up with. The important thing is who you put on this group to finalize the application criteria and how it is consistently applied. And I bring together everything from developers, platform engineers, obviously infrastructure operations, security, finance, the product owners, business owners and agree on what is going to be that consistent criteria. And you see observability is on here and that's because I truly believe we should be thinking about observability from the moment we start coding not after the application is done and it's like oh how do I you know do a good job with this. So whether we're lifting and shifting, modernizing, building a new application, whether it's containerized or not containerized, after going through all of that and agreeing on that criteria and looking at the outcome, then we align the workload to the right infrastructure.
+
+And what I love is to make that infrastructure really an abstraction layer because that's what developers want, right? Let us use the tools and frameworks and languages that we want to work in and let us be aware of the implications of the infrastructure. And I think we've over pivoted on this whole DevOps and DevSec Ops that somehow we think that means developers should become experts in operations and infrastructure. That's not what it means and that's the last thing we want our developers to be doing. But they do need infrastructure spun up. Remember the whole reason cloud was so good is because we got really tired waiting two months for, you know, a VM to spin up. Sorry, I didn't mean to drop the fab. So what's really exciting about this, especially if you're on the operations side, is that as you establish this criteria and you have a really great way of identifying where applications should go, you can start really looking at your infrastructure, especially what you own, but even in the cloud, and look at how to standardize some of those layers.
+
+And in my past life, I was kind of deep in the operating system and more at the Kubernetes layer. And I will tell you, I saw companies all the time just at the OS layer that had 40, 50 more versions of operating systems across Windows and Linux and just keeping the security updates well managed was a nightmare. Same thing at the Kubernetes like do you have one container management platform? Do you have multiple flavors? How are you managing that? And now of course with observability, I'm sure you've seen this and maybe it's your experience, right? Right? We have some legacy APM. We have multiple tools sometimes by telemetry type. So is there an opportunity to think about consolidation standardization so that our developers again have a greater experience? They can faster troubleshoot issues and we're making huge cost effectiveness. And as we standardize, the whole reason we're here is thinking about open.
+
+Where do we have those open standards? How do we leverage open source? And I always think of open in kind of some key pillars around transparency, of course, the visibility, our agility, our accelerating of innovation, and collaboration, which is the open culture, and why we're here together. And I look forward to meeting many of you and having a great day. So, thank you and we'll move it forward and back to
+
+## Related keywords
+
+[[security]] [[infrastructure]] [[kubernetes]] [[application]] [[cost]] [[hybrid]] [[organizations]] [[experience]] [[criteria]] [[developers]] [[observability]] [[workloads]]
+
+## Notes
+
+- Raw note imported from CNCF YouTube playlist. Promote durable insights to topic notes under `03-Topics/`.

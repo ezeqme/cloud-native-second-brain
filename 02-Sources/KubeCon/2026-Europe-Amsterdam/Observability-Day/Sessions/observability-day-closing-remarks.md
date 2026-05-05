@@ -5,12 +5,17 @@ year: 2026
 kind: remarks
 room: "Forum (Ground Floor)"
 sched_url: https://colocatedeventseu2026.sched.com/event/2DYNf/observability-day-closing-remarks
-youtube_url: https://www.youtube.com/watch?v=qUSBqhYIcVA
-youtube_id: qUSBqhYIcVA
-match_score: 1.0
+youtube_url: "https://www.youtube.com/watch?v=c8oRHbtj1QM"
+youtube_id: "c8oRHbtj1QM"
+match_score: 1.12
 speakers: []
-topics: ["Observability"]
-status: transcript-downloaded
+topics: ["OpenTelemetry", "AI Observability"]
+status: "transcript-downloaded"
+playlist: "Observability Day 2026 - Europe"
+playlist_id: "PLj6h78yzYM2OXd3i-CyZH4A1QMxLTsKEJ"
+playlist_index: 27
+keywords: ["otel", "observability", "america", "righty", "actually", "besides", "reception", "closing", "remarks", "another", "europe", "forward", "anybody", "european", "further", "events", "managed", "certainly", "looking", "recently", "unplugged", "fosdem", "summit", "though"]
+transcript_file: "_sources/transcripts/youtube-playlists/observability-day-2026-europe/observability-day-closing-remarks/c8oRHbtj1QM.txt"
 ---
 
 # Observability Day | Closing Remarks
@@ -18,15 +23,22 @@ status: transcript-downloaded
 ## Metadata
 
 - Schedule: https://colocatedeventseu2026.sched.com/event/2DYNf/observability-day-closing-remarks
-- YouTube: https://www.youtube.com/watch?v=qUSBqhYIcVA
+- YouTube: https://www.youtube.com/watch?v=c8oRHbtj1QM
 - Room: Forum (Ground Floor)
 - Speakers: N/A
-- Topics: [[Observability]]
+- Topics: [[OpenTelemetry]], [[AI Observability]]
 
 ## Transcript
 
-great well thank you very much Michael I'd just like to say a few words to adjourn the session today and conclude the first of two days of the Atlanta council's Global Food security Forum I was introduced earlier I'm Matthew krenig I'm the acting director of the scowcroft center for strategy and security at the Atlantic Council we lead the Atlanta council's work on food security because we do see it as a real security challenge it's been a pleasure joining you today for this Rich set of discussions on Global Food security challenges and opportunities I learned a lot I found it useful I hope you did as well we we talked about some of the challenges climate coveted conflict some of the solutions Global governance financing technology Michael did a brilliant job of summarizing those for us just a moment ago but this is just the first step as you know we're going to come back tomorrow for a large public conference we invite you all back here at 8 15 a.m Bali time 17 7 15 18 p.m Eastern Standard Time for the second day and we're going to continue to build on some of the solutions we've identified today so we have a terrific lineup for tomorrow experts and officials to appear include Indonesian defense minister prabowo subionto U.S Senate Majority Leader Chuck Schumer Ambassador Cindy McCain Desi Anwar from CNN International and many more so we hope to see you back here tomorrow let me again thank our Forum co-hosts the ministry of defense and coordinating Ministry of Maritime Affairs and investment of the Republic of Indonesia garav and Sharon srivastava thank you Sharon and grav for making this possible and thanks to the moderators of our session Michael and Adam who did a terrific job and thanks to all of you who came to to participate today thanks to all of you the hundreds of you watching online and um uh to those of you who are here in person uh you don't need to go home we're going to have a reception uh to immediately follow in the Cucina restaurant just downstairs so if you're interested in joining us uh just find the staff with the black lanyards and we can lead you to the reception we look forward to continuing the conversation um over drinks and and again to seeing you tomorrow so again thank you uh thank you very much and we'll see you back here bright and early tomorrow morning [Applause] [Music] thank you
+All righty, all righty. Well, yeah, we're done. Yeah, that's it. Go home. No, um thank you all for coming. This was another great observability day. Let's see, the CFP for the next one is probably open soon. It's already open. It's already open for Salt Lake if anyone wants to come visit us in America. There's actually two CFPs if you would like to do that. Uh and if not, well, we'll be back here doing this again next year in Europe. So, uh look forward to that. Anybody coming from the US here? Besides us. Besides us. All right, well, I hope to see all of you all at the next uh European Observability Day and also any further Observability events that we managed to do with the CNCF. We're certainly looking to do more um this coming year. We actually recently had OTel Unplugged next to FOSDEM. Is anyone from that? No? No. We have Observability Summit in May. Yeah, that's also in America though. Yeah, it's in America.
+
+Yeah. So, thanks everybody for coming to to this event and remember that we just getting started. KubeCon starts tomorrow. So, all maintainers, speakers that were here will be really happy to talk to you about your use cases and learn from you. Yeah. Um and now there's a reception. So, it is in Hall 3. I'm not sure where that is, but there's apparently a reception. So, feel free to go be received. Um Thank you all. Thank you. >> [applause] >> Yeah, yeah.
+
 
 ## Notes
 
 - Raw note. Promote durable insights to topic notes under `03-Topics/`.
+
+## Related keywords
+
+[[otel]] [[observability]] [[america]] [[righty]] [[actually]] [[besides]] [[reception]] [[closing]] [[remarks]] [[another]] [[europe]] [[forward]]

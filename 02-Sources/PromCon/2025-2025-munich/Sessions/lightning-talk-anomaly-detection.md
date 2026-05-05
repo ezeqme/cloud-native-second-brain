@@ -1,0 +1,48 @@
+---
+type: session
+event: "PromCon EU 2025"
+year: 2025
+kind: session
+youtube_url: "https://www.youtube.com/watch?v=wdYdRIDKDWA"
+youtube_id: "wdYdRIDKDWA"
+playlist: "PromCon EU 2025"
+playlist_id: "PLj6h78yzYM2P534LgwCVm3GQdxLcSt7We"
+playlist_index: 31
+speakers: ["Jorge Creixell"]
+topics: ["Metrics", "AI Observability"]
+keywords: ["metric", "median", "actually", "metrics", "second", "anomaly", "algorithm", "sustained", "middle", "looking", "robust", "calculate", "absolute", "outside", "delayed", "detection", "strategy", "mentioned", "previous", "function", "affected", "distance", "smooth", "nothing"]
+transcript_file: "_sources/transcripts/youtube-playlists/promcon-eu-2025/lightning-talk-anomaly-detection/wdYdRIDKDWA.txt"
+transcript_chars: 4519
+status: "transcript-downloaded"
+match_score: 1.08
+---
+
+# Lightning Talk: Anomaly Detection - Robust Strategy - Jorge Creixell
+
+## Metadata
+
+- YouTube: https://www.youtube.com/watch?v=wdYdRIDKDWA
+- Playlist: PromCon EU 2025
+- Speakers: Jorge Creixell
+- Topics: [[Metrics]], [[AI Observability]]
+
+## Transcript
+
+Um hi everyone I'm Jorge and uh I mentioned in a previous talk that uh we introduced a new anomaly detection robust strategy. Uh so I just wanted to talk a little bit about this. Uh remember the idea is that we want to uh you know display some bands around your metric and detect when you're off. So uh let's look at how it works. So first of all we need to calculate the median which is going to be the middle point for your bands. And we can do this by looking you know at a time window of one day and taking the median and we choose the median here because it's a robust uh um function right so it will be less affected by outliers. So once we do that we draw this line. This is the middle line for our bands. Uh the next step is to uh calculate the median absolute deviation also called uh math here. And a way to approximate that is to do um the absolute uh distance between the metric and the median. So you see the metric at the top.
+
+And you can see the the yellow one is the the well one second sorry. Uh so first you do the average uh the absolute value of the distance between your metric and the median and then you calculate the median of that and that gives you an approximation of the math. But I actually I just learned that there is an experimental function that is matt over time. So I guess uh we will be able to use that soon. Um and that will give you a measure of the persistence. And again it's over one day. And once you have these two things together, you just basically do the median. So the middle uh line and you add the math that you calculated times uh constant. In this case, I just chose two and you can draw this bound boundaries that you see on top of above and below. Um so that's not all. uh and that's something that it changed from the previous algorithm is that now we have a concept of level and a level is basically again the median one more time but this time is only over one hour and that means basically that I'll show you uh how this helps but basically this is basically smoothing your metric uh it's not just like we're not looking just at the metric and how it falls outside of the bands but actually we're looking at this specific uh level so this smooth person of of your metric so that uh we have more robustness there and this is how it behaves.
+
+So I run this overnight yesterday and I basically have a request rate that is more or less fixed and I simulated a short spike and a more sustained spike. And as you can see the first spike actually didn't trigger any anomaly. You can see because the the um the level right the the dotted line uh is didn't really move at all. And that's because the way the medium works, we're looking back one hour and it's the 50th percentile. So you actually need 30 minutes of of you know um sustained change so that this will even be affected. So nothing happened. Not nothing was fired. We just ignore this spike completely. In the second spike, it was more sustained and it was actually long enough that it actually, you know, pushed the level outside of the bands. And in that case, we actually fire an anomaly. And you can see it's a bit going behind of your metric. So it's have been you know delayed compared to your metric and it also fires for longer right until it goes down again.
+
+Um so let's compare with the algorithm that I presented last year which uh has been renamed to adaptive. So in the first algorithm the one on top you see that the short spike actually immediately uh you know we don't so we don't smooth the the middle line the sorry the level. So it immediately went outside of the bands and triggered an anomaly but also the bands adapted really quickly and became really wide. So you can see that the second u the second spike actually wasn't detected as an normally and that's undesirable for some people because this algorithm has been biased to uh reduce false positives but as you could see you could miss some uh some uh spikes. If you want to have something more sensitive this is really maybe not for you because it's been biased to reduce that. Uh the second algorithm as you can see the short spikes you know it doesn't even care about them. Uh the second one is delayed.
+
+So it fired way after the first one and um and then it just as I mentioned uh was sustained, you know, delayed but sustained after a while. And I think this could be better for some types of metrics. It really depends on on the type of metric that you have. Um and um yeah, I think that's all I had. Thank you. [Applause]
+
+
+## Related keywords
+
+[[metric]] [[median]] [[actually]] [[metrics]] [[second]] [[anomaly]] [[algorithm]] [[sustained]] [[middle]] [[looking]] [[robust]] [[calculate]]
+
+## Notes
+
+- Raw note imported from CNCF YouTube playlist. Promote durable insights to topic notes under `03-Topics/`.

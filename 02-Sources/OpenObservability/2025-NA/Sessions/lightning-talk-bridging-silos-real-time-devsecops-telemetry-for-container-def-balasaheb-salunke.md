@@ -1,0 +1,50 @@
+---
+type: session
+event: "Open Observability Summit + Otel Community Day NA 2025"
+year: 2025
+kind: session
+youtube_url: https://www.youtube.com/watch?v=1yokhf0vMmE
+youtube_id: 1yokhf0vMmE
+playlist: "Open Observability Summit + Otel Community Day NA 2025"
+playlist_id: PLj6h78yzYM2NFT2PGItX2idBf7v8fHcy7
+playlist_index: 28
+speakers: []
+topics: ["Collectors", "Metrics", "Tracing", "Logging", "SLOs", "Cost Optimization", "Kubernetes", "AI Observability", "Security"]
+keywords: ["security", "pipeline", "metrics", "kubernetes", "policy", "trace", "logs", "cost", "attack", "observability", "cryptojacking", "telemetry", "container", "application", "alerts", "organization", "crypto", "running", "bridging", "unified", "dashboard", "compliance", "getting", "malicious"]
+transcript_file: _sources/transcripts/youtube-playlists/open-observability-summit-otel-community-day-na-2025/lightning-talk-bridging-silos-real-time-devsecops-telemetry-for-container-def-balasaheb-salunke/1yokhf0vMmE.txt
+transcript_chars: 6253
+status: transcript-downloaded
+---
+
+# Lightning Talk: Bridging Silos: Real‑Time DevSecOps Telemetry for Container Def... Balasaheb Salunke
+
+## Metadata
+
+- YouTube: https://www.youtube.com/watch?v=1yokhf0vMmE
+- Playlist: Open Observability Summit + Otel Community Day NA 2025
+- Speakers: N/A
+- Topics: [[Collectors]], [[Metrics]], [[Tracing]], [[Logging]], [[SLOs]], [[Cost Optimization]], [[Kubernetes]], [[AI Observability]], [[Security]]
+
+## Transcript
+
+Hello everyone. Um good afternoon. Uh I hope everyone is awake. It's a second session after lunch. So um bear with me for next 10 15 minutes. Uh hi my name is Bala Salong. I work on a Kubernetes and container security. Uh I started uh my career in web application scanner and dash tool and passionate about supply chain security deck of automation and policy enforcement. Um apart from work I like uh enjoying uh swimming and reading books. So that's a short intro about me. Uh let me dive into the today's talk. So welcome and thank you for joining uh bridging silos the real time DevOps telemetry for container defense. So being from security uh more on the security side I was trying to explore how security and observability can work together and get basically securize the containerized workload. So in this session we will explore how to unite security signals and the traditional observability data such as trace logs and metrics to defend containerized application.
+
+The the goal is to break down the silos between ops and security. Hence bridging the silo by using realtime telemetry uh that benefits both the teams. I will also try to demonstrate how we can get the alerts from different um security uh systems and inject into the observability platform and uh basically that will help for a faster remediation and detection. So let's let's break it down what we are going to see today. So the the silo problem how ops and security team are drifted apart. why there is a even gap exist. Uh we'll we'll dive into one of the threat threat uh called cryptojacking. Uh then we will try to bridge this gap by building a unified pipeline and then benefits of this unified pipeline. Let's first acknowledge there is a gap uh between the ops and security and there are and there are reasons to have that gap right um ops primarily focusing on metrics dashboards right they want greener dashboard and faster velocity on the other side security more concerned about compliance risk triage And it's obvious to have different monitoring tools to be getting used for by these two different teams.
+
+And hence those two data points are always looked from a different lens. For an example, let's take a example of CPU spike on the on the dashboard, right? It could be a legit spike or it could be a malicious attack. But unless observability team knows there is some security events also happening, they will not be able to pinpoint whether it's a legitimate behavior or or a malicious attack. Meanwhile, security team, they have something called runtime events without knowing the application context. they could get multiple security alerts but they don't know its impact on the application performance at that moment. So, so that basically impacts on the slow detection of of an issue whether it's a legit issue or whether it's a malicious attack. Let's try to understand why the gap exists. Right? If you look at the the way ops and security team works, they work with a different character and KPIs. Ops primarily looking at uptime, SLA as I said right, release velocity security more on risk compliance and triage.
+
+So traditionally they are looking to solve a different problem. If you look at the the data volume for both of the t these teams is completely different on the upside on observability side it's a big big volume data for u for midterm analysis and uh they look at the data from the bird bird bird's eye view right they doesn't need to go in each and every event unless there is an issue however security is more uh critical because they want to find it out any attack possible attack happening and any compliance thing that could cause an issue to the to an organization that basically dictates how backends are also designed for observability and security and and of course I mean there is a difference in the skills and the and the tool diverge of folks more on more expertise on APM troubleshooting and whatnot and security teams more on the thread thread detections advisory and finding the attack patterns they they might look at the same event from a different perspective so I would say it's not about incompetence it's more about perspective how they look at the data to to to to ground this into concrete example.
+
+Let's talk about a attack which is basically quietly consuming and basically draining the cloud budgets for organization. Cryptojacking. Cryptojacking is is um is is a way attacker run crypto miners on your container uh which is unauthorized, right? And at a first glance you won't see this getting impacted because it doesn't t try to t your data right or it doesn't trouble your services running so it doesn't come on the ops dashboard everything looks green at least from the service perspective but internally it is getting used to make money for someone else whereas organizations are paying hefty cloud bills. So if you look at the stats only in around 2023 around 1 billion cryptojacking attempts had been done which is 700 raise from previous year and the real world cost is huge right organization are spending huge cloud bills because of crypto miners running in their environment. So s some of these examples where uh small organization had to pay more than 500k 300k on their cloud bills for the for the workload that they never used.
+
+I think we have to run out of I'm running out of time. Um I will try to uh go over the architecture of um what I was trying to present is basically a a a unified pipeline where we ingest the data from obserity uh pipeline the the existing pipeline and the and the security systems which generally triggers the alerts. Right. So this and yeah. So I I was planning to demo around um cryptojacking attack kind of thing on a open telemetry astronomy shop and for that thing the I had did modified small changes in the astronomy shop. Basically this is P code where I introduced the remote code execution just for to demonstrate right how crypto miners can be injected and launched for crypto mining. Maybe I can show one screenshot maybe that will give some idea about how observability data and security alerts can can put together. Here you see the CPU spike and the alert drop and new binary executed. I think I I'm running out of time so I had to stop.
+
+Thank you so
+
+## Related keywords
+
+[[security]] [[pipeline]] [[metrics]] [[kubernetes]] [[policy]] [[trace]] [[logs]] [[cost]] [[attack]] [[observability]] [[cryptojacking]] [[telemetry]]
+
+## Notes
+
+- Raw note imported from CNCF YouTube playlist. Promote durable insights to topic notes under `03-Topics/`.

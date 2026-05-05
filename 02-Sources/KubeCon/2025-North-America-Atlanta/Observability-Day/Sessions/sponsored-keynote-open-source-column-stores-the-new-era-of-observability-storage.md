@@ -1,0 +1,50 @@
+---
+type: session
+event: "Observability Day 2025 - NA"
+year: 2025
+kind: session
+youtube_url: "https://www.youtube.com/watch?v=BxKP4m_vNG0"
+youtube_id: "BxKP4m_vNG0"
+playlist: "Observability Day 2025 - NA"
+playlist_id: "PLj6h78yzYM2NupzP0zYgT3dLzARalT1By"
+playlist_index: 4
+speakers: ["Mike Shi"]
+topics: ["Metrics", "Logging", "Cost Optimization"]
+keywords: ["logs", "observability", "cost", "efficiency", "error", "prometheus", "log", "databases", "source", "storage", "properties", "single", "object", "actually", "column", "stores", "hyperdx", "having", "cardality", "commer", "columner", "database", "instead", "relatively"]
+transcript_file: "_sources/transcripts/youtube-playlists/observability-day-2025-na/sponsored-keynote-open-source-column-stores-the-new-era-of-observability-storage/BxKP4m_vNG0.txt"
+transcript_chars: 5830
+status: "transcript-downloaded"
+match_score: 1.08
+---
+
+# Sponsored Keynote: Open Source Column Stores: The New Era of Observability Storage - Mike Shi
+
+## Metadata
+
+- YouTube: https://www.youtube.com/watch?v=BxKP4m_vNG0
+- Playlist: Observability Day 2025 - NA
+- Speakers: Mike Shi
+- Topics: [[Metrics]], [[Logging]], [[Cost Optimization]]
+
+## Transcript
+
+Hey everyone. Uh, I'm Mike. I'm the co-founder of an open source observability tool called HyperDX and I currently lead the uh, ClickHouse observability product efforts uh, today as well. And today I'm going to talk about why colner databases are a pretty dang good fit for observability data in general. But before I get into that, I want to talk a little bit about the history of observability tools or at least a incredibly compressed version of that. Uh so I think the first observatory tool at least for software really starts with GP uh where you can go onto a single server back then grap your logs find the error that you're running into and you can solve your incident. But over time we started adding more servers beyond you know a single one and sshing into every one of them got a little bit difficult. So we had tools like Splunk centralized in one place you go to one place find all your logs and you're good to go.
+
+Then we kept adding more and more servers more and more logs applications got more complex. We added tools like elastic search made serving searching logs quite easy as well. At the same time though we started wanting to understand trends of data over time understanding you know uh how many errors are we are we occurring you know what's CPU usage etc etc uh introducing tools like graphite for you know that's really good at time series and then as we uh went into the cloud had more elasticity around our compute we weren't just having you know machines racked into our data centers anymore we needed more uh higher cardality prometheus came around with this dynamic labels which made that quite good and then cardality volume kept increasing and tools like Thanos came around to help with that as well. So, uh over over time it seemed like every time we increase cardality and volume, we need a new data store to help us with storing our observability data.
+
+So, the question is what's next? Uh what could be the next data store that'd be quite good for observability? Obviously, it kind of gave away at the beginning. Uh but we think that properties are things like uh being really cost efficient, really fast at searching, lightweight indices, great at aggregations as well. So you could find out trends of your data over time, not just you know finding individual events. Uh and it also should be built ideally on top of object storage. So that's really cheap and has like an infinite bucket of where you could put data into. And uh back when I was building you know hyperdx and observability tool um we looked around in terms of hey what are other companies doing today? uh and we found teams like Netflix and Anthropic using commer data stores actually for their next generation uh observability uh tooling uh click house in particular um because it is probably one of the most uh popular commer databases at least the open source columner databases today and why would they picker databases it's because uh columner databases uh have a lot of really interesting properties around them so if you're not familiar with a columner database uh instead of having your traditional row type database like if you use Postgress for instance we actually split different properties or columns into its own files effectively.
+
+Uh this is really helpful because generally when you're looking at your data you're only operating on a subset of properties. You're not trying to aggregate across every single field within your wide event. For example, you're only looking at specific fields like duration, host, region, etc. So this helps reduce I/IO. It also gives you a lot of compression benefits when you start sorting them. Uh and overall just makes your uh resource utilization a lot more efficient when you're querying this data. It also allows for really neat uh properties uh such as a sparse index. So instead of building a really dense index where you have, for example, every term mapped to every single document or line of log, uh you can actually build indices where you only uh point into every couple thousands of logs. And this allows you to build, you know, an index that instead of taking up, you know, terabytes or pabytes for an index, it actually only takes uh megabytes or gigabytes.
+
+Uh which is again quite good for efficiency. Uh last of all, a lot of these column column stores are relatively new and they're built generally on top of object storage or native on top of object storage as well. There's a ton of benefits to this. You know, object storage is relatively cheap. It's relatively infinite and it's also quite durable. So you kind of, you know, uh don't have to worry about durability of your system. Uh and you can kind of have, you know, stateless uh databases on top of it to be able to read and write data without having to worry about uh you know, maintaining disks that are local to the machine itself. Uh so you get a lot of cost efficiency and flexibility on top of database. Uh and of course on top of that a lot of these databases tend to be uh pretty good with integrations. Uh integrating with you know things like open telemetry of course visualization tools like you know graphana or my favorite of course hyperdx my own project.
+
+Uh but a lot of other tools as well are compatible with these databases and they also tend to be open source so they're quite extensible on top of that. And I know I only have a few minutes on stage today, but there's a ton of reasons I'd love to get into uh when it comes to commer source for observability data. Uh so uh if you do have a chance later today, please uh come say hi. We're right outside uh today and then later today later this week we're in booth 1:30 and later tonight we also have an event where we have free food um and drinks uh no talks so just you know good conversations with that. But thanks so much.
+
+
+## Related keywords
+
+[[logs]] [[observability]] [[cost]] [[efficiency]] [[error]] [[prometheus]] [[log]] [[databases]] [[source]] [[storage]] [[properties]] [[single]]
+
+## Notes
+
+- Raw note imported from CNCF YouTube playlist. Promote durable insights to topic notes under `03-Topics/`.

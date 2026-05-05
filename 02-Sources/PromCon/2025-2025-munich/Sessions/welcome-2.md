@@ -1,0 +1,48 @@
+---
+type: session
+event: "PromCon EU 2025"
+year: 2025
+kind: session
+youtube_url: "https://www.youtube.com/watch?v=A9i3HE3ZR6M"
+youtube_id: "A9i3HE3ZR6M"
+playlist: "PromCon EU 2025"
+playlist_id: "PLj6h78yzYM2P534LgwCVm3GQdxLcSt7We"
+playlist_index: 1
+speakers: ["Richard Hartmann"]
+topics: ["Metrics", "Cost Optimization", "AI Observability"]
+keywords: ["cost", "prometheus", "welcome", "better", "speaker", "anyway", "entrance", "sponsors", "conference", "corner", "whatever", "stream", "changed", "everything", "looking", "microphone", "little", "social", "follow", "shirts", "respectful", "question", "statement", "lightning"]
+transcript_file: "_sources/transcripts/youtube-playlists/promcon-eu-2025/welcome-2/A9i3HE3ZR6M.txt"
+transcript_chars: 4444
+status: "transcript-downloaded"
+match_score: 1.08
+---
+
+# Welcome - Richard Hartmann
+
+## Metadata
+
+- YouTube: https://www.youtube.com/watch?v=A9i3HE3ZR6M
+- Playlist: PromCon EU 2025
+- Speakers: Richard Hartmann
+- Topics: [[Metrics]], [[Cost Optimization]], [[AI Observability]]
+
+## Transcript
+
+So yeah, welcome to to PromCon 2025. >> I changed everything else. I even removed the masks mandatory. Um anyway, so uh welcome everyone. Um yeah, we're back at home. I would say some might disagree, but they're not looking at me. They're looking at their cell phone. Um, anyway, uh, if you need Wi-Fi and still haven't gotten the Wi-Fi yet, this is how you get Wi-Fi. Yes, >> it's also at the entrance. >> So, let me turn it out. Yeah, that's everyone. Okay, so thank you to our sponsors. Um, as per usual, the entrance fee for Pro one does not cover your food cost. And the only reason why we're able to make this happen is a course gives us for free and >> is this better? >> Okay, let me try the other thing again. Test test. Is this better? >> No. Yes. >> Is this better? Test test test. Is this better? >> Yeah, but I don't have a button to disable those. >> I mean, I have some some microphone stuff here, but I don't know.
+
+Is this better now? Test test test. No. this microphone. This is supposed to >> test test >> test. Can you scramble it somewhere? Thank you. So, while we're waiting, maybe as a as a little bit of an excuse, we didn't get access to this room yesterday as we normally would. So, we didn't have time to do to do the usual testing. Um, that sounds good. >> Okay, maybe I'll just step away from Oh, we can tape over those microphones. >> No. Yes. >> Okay. >> Welcome to community organized conference. So, is this better now? >> Yeah. >> Okay. So, again for the people in the in the far corners, you can hear me? You can also hear me? Yes. No, this corner is much more lively than this corner. Anyway, um so, uh welcome to Pomon 2025. Uh I changed everything except those. Um yeah, welcome. We had this Wi-Fi. We had this uh again. So, thank you to the sponsors. As per usual, the entrance fee to to promote does not even cover your food cost and this is very deliberate.
+
+We don't want to make a huge profit or anything. We just want to have a nice conference. So, without the sponsors, this would literally be impossible. Uh social venue is right around the corner. There is a QR code for how you get there or you just follow us at the end. Um if you're quick, you get the picture. Good. uh shirts, conference shirts over there. Take one for your respective size. Um and please only take one. Once we are basically towards the evening of tu day two, you can take uh another one. Uh but don't grab like 10. Uh be respectful about how many you grab. Um but basically we don't need them by end of tomorrow. Um speaker gifts to stay with the theme of food. Maybe to entice a few of you to speak in the future. This time it's lives. We had balls. We had uh spoons. We had plenty of food stuff because I believe in speaker gifts which you actually use long term if you're a speaker and don't have checkin luggage.
+
+Um I don't see the person I forgot to email you about this but whatever we are going to mail it to you. Uh there's a live stream which is kind of ironic for the people in this room but there is a live stream but also if you want to eat or something outside you can uh just keep watching the live stream. Um, if you have one of those, this is more of a question than a statement. Uh, we will most certainly have a little bit of a this is more us shutting you down immediately than you getting to to finish whatever you were about to say. Be respectful of the time of the speaker and everyone else. Only ask extra questions. Don't do grandstanding. Don't make statements. But we have a sign up for lightning talk. So if you really care, build a lightning talk. You have a day left. But don't just derail something through through asking a question with a statement. Uh we do follow the code of conduct of CNCF. We take it very seriously.
+
+There is again the QR code but most of you already saw us hopefully because you got it by email repeatedly. Um Prometheus team has orange names on the badges. So anything happens just find someone with an orange name uh and done. Photo type. So I'm going to take a photo of you. If you don't want to be on the photo, now is a great time to just look at your phone or do whatever. Ouch. Uh, I do read history, so I'm not on Twitter anymore. Uh, we are on on chaos social if you want or on. Um, I'm also going to post a photo of this on Macedon and nowhere else because blue sky blue sky also went dark. Uh, yeah, that's it. Be excellent to each other and over to Julius.
+
+
+## Related keywords
+
+[[cost]] [[prometheus]] [[welcome]] [[better]] [[speaker]] [[anyway]] [[entrance]] [[sponsors]] [[conference]] [[corner]] [[whatever]] [[stream]]
+
+## Notes
+
+- Raw note imported from CNCF YouTube playlist. Promote durable insights to topic notes under `03-Topics/`.

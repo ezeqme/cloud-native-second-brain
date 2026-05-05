@@ -1,0 +1,58 @@
+---
+type: session
+event: "Observability Day 2025 - NA"
+year: 2025
+kind: session
+youtube_url: "https://www.youtube.com/watch?v=ind6HSBrPn8"
+youtube_id: "ind6HSBrPn8"
+playlist: "Observability Day 2025 - NA"
+playlist_id: "PLj6h78yzYM2NupzP0zYgT3dLzARalT1By"
+playlist_index: 24
+speakers: []
+topics: ["Collectors", "Metrics", "Tracing", "Logging", "Cost Optimization", "Kubernetes", "AI Observability", "Security"]
+keywords: ["network", "cost", "latency", "security", "spans", "logs", "span", "pods", "gateways", "pod", "metric", "clusters", "across", "barriers", "applications", "replicate", "understand", "average", "groups", "talking", "performance", "actually", "closed", "running"]
+transcript_file: "_sources/transcripts/youtube-playlists/observability-day-2025-na/lightning-talk-identifying-isolated-islands-of-network-latencies-in-the-sea-of-yash-bhatnagar/ind6HSBrPn8.txt"
+transcript_chars: 9724
+status: "transcript-downloaded"
+match_score: 1.08
+---
+
+# Lightning Talk: Identifying Isolated Islands of Network Latencies in the Sea of... Yash Bhatnagar
+
+## Metadata
+
+- YouTube: https://www.youtube.com/watch?v=ind6HSBrPn8
+- Playlist: Observability Day 2025 - NA
+- Speakers: N/A
+- Topics: [[Collectors]], [[Metrics]], [[Tracing]], [[Logging]], [[Cost Optimization]], [[Kubernetes]], [[AI Observability]], [[Security]]
+
+## Transcript
+
+Hello everyone, welcome. I'm Yash. I work for the photos team at Google. And today I'll be talking about how do you identify barriers of latency in your microser systems and strategies to basically mitigate these. So back to the basics. So when you look at monoliths, you have one big application performing the entire request response flow. But in microservices there are several smaller services talking to each other and each of them being independent lightweight and most importantly reusable across different workflows. So the critical observation here is the large number of network calls and as you can imagine the performance of a system directly depends on how optimized these network calls actually are. So you definitely do not want to have something like this where even for a single flow your applications has have to basically interact across some kind of network barrier with high latency involved and in terms of the barriers what I'm talking about is you know something like maybe the obvious ones which are geographical regions zones and data center but other than that there are a lot of other highly prudent but invisible u barriers available as well.
+
+So for example you have firewalls maybe CDNs sometimes you have gateways protocols a lot of them basically are hard to account for but do impact performance. In fact one of my in one of my previous firms I remember there was a situation where we had basically security team has flagged some of the sources which were kind of high security risk. So we had to make them go through another round of oz and a n. So that was another kind of a network barrier which we generally don't see but it does impact your services a lot. So to avoid them basically we the general principle is to keep the applications closed. It could be either in terms of placement where you try to keep all your applications within a single that barrier we're talking about or the other option is basically to replicate you know you have all the services running in all the possible barriers which of course is costly but that is an option that you potentially have to do at the end of the day.
+
+Now this looks simple to solve but it really is not. You know first of all you have to understand each and every applications what are involved in the flows you there could be hundreds of services thousands of workflows complicated as well and most importantly these things can change fast they're not dynamic and you know unless you're an architect or owner or you know each and everything in and out it's a little difficult to get a hang of it or it at least takes a lot of time and same goes with the infrastructure as well you know you don't know which nodes are closed what kind of barriers exist and you know it's It's all in all a little difficult thing to get a hang of once you know the scale is beyond a certain amount. So what we need is a way to basically understand which services to replicate and where to replicate and basically want to at the same time try to reduce cost as well. So let's solve together.
+
+You know the first step what we'll do is basically understand the applications and the workflows we have. So one way to do that that is basically simply monitor the uh network spans that you have in the system by using the network. For example, one way is to go through the host OS see the network logs resolve from pod IP to you know service FQDNs and understand the span and that can help you basically get a graph of this sort where you can understand what the applications and how they're interacting. The next step basically is to append this graph which you just found with the latency info. we can leverage the same logs basically keep a delta of what the timings of source and destination were and get we get the time which was spent in the interaction itself. Now one thing to observe is that this is very barebone does not involve any sidecar any setup no service mesh no third party modern tools and we're doing this out of the box ourselves but you know you probably don't need to reinvent the wheel here you can leverage tools like open telemetry along with a back end like graphana and maybe at this scale you can do something like maybe you know have your application instrumented and have client server met spans added as a metric and you can persist them and do a custom query to basically figure out a delta and there are some other options and patterns using Jagger and closed source solutions as well to get this out of the box.
+
+The interesting part is basically how you get to figure out the network barriers. So we do have the latency info which we build upon now we roll this data up by nodes and basically keep a running average. This tells the historical running average of what the latency has been when pods across different types have been running on these nodes interacting with other node that is there. And once we have this the last stage is basically to group the nodes which are closed and which are not. So it simply becomes like a graph problem you know you where you have nodes as actual nodes and the edges are the average atensity that we just found. So it's all about clustering the nodes and you can use any of the existing several algorithms. We have one simple non-comput intensive approach that we use for the greedy one where you start with one node keep adding the nodes which are nearby to it as long as the weight of the edges are lower than what we already have found till now.
+
+So in this example, you do it starting for all those uh edg uh basically all those nodes and you figure out all those potential network uh node groups and once we have these potential options what you do is we need to figure out which one to choose. So one mathematical constru that can help us is to is called something called latency ratio where it's a sum of latencies which are internally versus what are external. So you want this ratio to be as mineral as possible because you want uh low latency within all the nodes which are you're going to be grouping. And once you have this we select the overall set of groups that captures all the nodes and basically it has the least number that you can find here. So in the example that we just have we find something like this where we have three groups here with these nodes. But what it represents is basically a a sufficient number of node groups where replicas are needed.
+
+You pro in this example instead of at max eight replicas of all the services you probably don't need to do that. You only need three at max. And this is more than sufficient and probably will suffice for any you don't need to basically optimize any more than that. And one final thing you can probably ask is what if I cannot replicate. You know in a lot of cases first of all replication is complicated. But more than that sometimes you cannot replicate you know because sometimes you have compliance regulations you know data cannot even go out of a certain set of uh nodes or even other than that in flight as well. So can something be done instead of replication? Maybe some kind of a trade-off where we can do something you know uh interesting other than just simply blindly replicating. So actually we can let's take an example here where we have three distinct uh network groups and interactions are like this.
+
+So if you observe closely in this case we also have the volume of calls over let's say an R. So in this case instead of replicating the application C uh in both of these other clusters as well you can actually migrate this on just the first node group and you can still save a lot of u network latency in aggregate because you have a lot more volume of calls coming from that particular uh node group. This is despite the increased latency that is there between node group one and three which is 150 mcond on average. But the volume offsets that. So coming back to our previous session to do something like this what we do is we already have the historical latency. We basically append the interaction counts and this is basically an average volume of uh calls across a given time frame. And once we have this we can basically get some kind of a smart recommendation like this where we get instead of basically replicating what you get is a recommendation where something like you know maybe migrate from group one to one of these three nodes you have here you can save so and so amount of cost and maybe you'll still basically uh speed up your system by certain amount of time and of course this is just not for one span it's basically across aggregate or for a particular amount of time so it it it basically helps in in aggregate and not just one.
+
+And how we actually did employ this last one in one of our test environments where we had uh a setup of nodes across different data centers and regions and even you know uh across different geo regions as well and we did a consolidated optimization and we try to save cost and performance both. So we observed around 5% of savings in monthly infra cost around $230 or something. But the important thing here is that the fact that this was done without any kind of impact in any latency of any kind. There was no perceivable uh difference in any performance of any of the uh of the existing network calls as well as any in the system any pods any containers whatsoever. And this tells us how much of a uh important thing this is. You know you don't really need to replicate blindly. some these kind of optimizations are not so visible but can help you save a lot. So that's all about it. Uh I don't really have a time for a Q&A but if you do have any questions just reach out to me and I'll be happy to answer them.
+
+Thank you so much.
+
+
+## Related keywords
+
+[[network]] [[cost]] [[latency]] [[security]] [[spans]] [[logs]] [[span]] [[pods]] [[gateways]] [[pod]] [[metric]] [[clusters]]
+
+## Notes
+
+- Raw note imported from CNCF YouTube playlist. Promote durable insights to topic notes under `03-Topics/`.

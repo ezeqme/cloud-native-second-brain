@@ -1,0 +1,48 @@
+---
+type: session
+event: "PromCon EU 2025"
+year: 2025
+kind: session
+youtube_url: "https://www.youtube.com/watch?v=_CaVCtUGPpY"
+youtube_id: "_CaVCtUGPpY"
+playlist: "PromCon EU 2025"
+playlist_id: "PLj6h78yzYM2P534LgwCVm3GQdxLcSt7We"
+playlist_index: 39
+speakers: ["Kathrin Paschen"]
+topics: ["OpenTelemetry", "Metrics", "Logging", "SLOs", "Kubernetes", "AI Observability"]
+keywords: ["series", "metrics", "cluster", "correlated", "kubernetes", "prometheus", "results", "interesting", "algorithm", "victoria", "boring", "actually", "constant", "monitoring", "thought", "writing", "useful", "comparison", "number", "wanted", "difficult", "operator", "correlation", "setups"]
+transcript_file: "_sources/transcripts/youtube-playlists/promcon-eu-2025/lightning-talk-correlating-time-series-at-scale/_CaVCtUGPpY.txt"
+transcript_chars: 5213
+status: "transcript-downloaded"
+match_score: 1.08
+---
+
+# Lightning Talk: Correlating Time Series at Scale - Kathrin Paschen
+
+## Metadata
+
+- YouTube: https://www.youtube.com/watch?v=_CaVCtUGPpY
+- Playlist: PromCon EU 2025
+- Speakers: Kathrin Paschen
+- Topics: [[OpenTelemetry]], [[Metrics]], [[Logging]], [[SLOs]], [[Kubernetes]], [[AI Observability]]
+
+## Transcript
+
+Yeah. Okay. In that case, um I'll just not show it. >> Yeah. >> But um Okay. So, if you've if you've used Prometheus for monitoring, um well, you have, I guess, um then you've probably thought that it would be it would be super useful to be able to see correlations between time series, like which of my time series are correlated with which of my other time series. Um it would be useful. Um but it it looks really expensive, right? because you'd have to do like an n byn comparison. So it's like o of n squ over the number of your time series. So it looks really infeasible. Um so I thought about that and then I still wanted to do it. So I found a paper where somebody did this um and they scaled it up to about 5,000 time series because apparently it's really difficult for researchers to get data sets with lots of time series. Who knew? Um so I thought well you know I can I can help. Um so I implemented their algorithm and I ran it on like a small Kubernetes cluster and um you know a small Kubernetes cluster like um if I run it it has between like 40 and 80,000 time series that's like you just bring up Kubernetes, you bring up a Prometheus operator like two or three applications and you turn up all the monitoring.
+
+Whenever it asks you do you want monitoring for this you say yes. Right? that gets you about 80,000 time series. And then I run it and it it works like um even when I run this algorithm on a relatively modest VM like two CPUs, 4 GB of RAM, yeah, it you can find the correlated time series. Um so the algorithm is is nice. Um and then you know 80 80,000 time series is not a lot, right? So lots of people have way more I hear. So um but because of the way the algorithm works it will be parallelizable. So map reduce. Yeah, could work. But before I started sort of going that way, I first wanted to see well so how do I get interesting data out of this? Like is there even anything interesting? Maybe maybe this whole correlation thing is a myth. Maybe maybe it's all boring. So I looked at the data and that actually turns out to be sort of more difficult, right? Because one of the bits where I'm currently struggling is actually writing the data, the correlated results, correlation results into a data store that I can then query and do it fast enough because I do time windowed processing.
+
+So I pretty much want the results like I have I get the results with about a delay of about 20 to 30 minutes and I want them available in about a minute. Um at the moment I have two setups. So either I write them to Victoria metrics through hotel um or I write them to pocket funds. Victoria metrics I'm kind of hitting a limit where I'm trying to ingest more than about 15 million time series in one metrics in one go. Um I guess I could probably tune it and I use it better. Maybe my data model is also not very good but I think this might not be the way to go. Um so pocket looks kind of good but then I have to write a lot of my own querying logic. So right now I do a lot of data exploration in Victoria metrics and sort of do more filtering because one of the things that turns it turns out if you look at the data is yes there is a lot of correlated data like in your 80,000 time series there'll be I don't know between 6 and 12 million correlated time series pairs of correlated time series a lot of them are boring like um a lot of the time series in the cluster are constant especially when there's not a a lot going on in the cluster, but even when there is, because to be honest, a lot of default setups for time series just don't monitor anything interesting.
+
+You just get them because you installed an operator somewhere. And then a lot of the others, they're also kind of boring because they got sort of counters with a constant slope, right? How many times has the cube API server been called? It's usually a counter with a constant slope. All all constant time series are trivially correlated with each other and all counters with the same slope are also correlated with each other. You do not need to run a an in byn comparison to tell you that you can you can put you can sort of shortcut this bit. Right. This is how the algorithm gets passed and then so you can sort of filter out a lot of the boring results. Yeah. and then try to sort of get left with the interesting results and then yeah you can actually find some interesting results. So for instance, I know that the um limiting factor in my in the performance of my system is the amount of time it takes to process a time window is very strongly correlated with the number of correlated pairs it finds and it is also very strongly correlated with the um with the delay in writing to graphana to to um sorry to Victoria metrics.
+
+So that's how I know that's my bottleneck. Well, I I mean, I probably could have figured it out a different way. Um, but it's nice, right? It works. So, now the next sort of steps are how do I make sure there's actually interesting data in there? So, maybe I need to do more streaming aggregations and how do I scale up the writing? And well, I'm maybe I'll I'll try and talk to some people from Victoria Metrics to see about how I can make my data schema less terrible. Thank you.
+
+
+## Related keywords
+
+[[series]] [[metrics]] [[cluster]] [[correlated]] [[kubernetes]] [[prometheus]] [[results]] [[interesting]] [[algorithm]] [[victoria]] [[boring]] [[actually]]
+
+## Notes
+
+- Raw note imported from CNCF YouTube playlist. Promote durable insights to topic notes under `03-Topics/`.

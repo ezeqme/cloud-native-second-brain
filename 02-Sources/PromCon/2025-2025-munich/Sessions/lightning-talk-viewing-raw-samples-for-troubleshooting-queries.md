@@ -1,0 +1,48 @@
+---
+type: session
+event: "PromCon EU 2025"
+year: 2025
+kind: session
+youtube_url: "https://www.youtube.com/watch?v=TZBZHSUT6NM"
+youtube_id: "TZBZHSUT6NM"
+playlist: "PromCon EU 2025"
+playlist_id: "PLj6h78yzYM2P534LgwCVm3GQdxLcSt7We"
+playlist_index: 46
+speakers: ["Roman Khavronenko"]
+topics: ["Collectors", "Metrics", "AI Observability"]
+keywords: ["metrics", "prometheus", "metric", "collectors", "agents", "actually", "samples", "troubleshooting", "viewing", "queries", "questions", "exactly", "points", "troubleshoot", "export", "happening", "behind", "duplicates", "victor", "database", "storing", "target", "usually", "showing"]
+transcript_file: "_sources/transcripts/youtube-playlists/promcon-eu-2025/lightning-talk-viewing-raw-samples-for-troubleshooting-queries/TZBZHSUT6NM.txt"
+transcript_chars: 4209
+status: "transcript-downloaded"
+match_score: 1.08
+---
+
+# Lightning Talk: Viewing Raw Samples for Troubleshooting Queries - Roman Khavronenko
+
+## Metadata
+
+- YouTube: https://www.youtube.com/watch?v=TZBZHSUT6NM
+- Playlist: PromCon EU 2025
+- Speakers: Roman Khavronenko
+- Topics: [[Collectors]], [[Metrics]], [[AI Observability]]
+
+## Transcript
+
+Uh my name is Raman and this talk is about viewing row samples for troubleshooting queries. I'm working at Victor metrics and uh as maintainers of the project we have a lot of questions about why this query shows this and not that. And um my question did you know that what you see in Prometheus or in Victoria metrics isn't actually real. When you run the query you're not seeing what exactly your database is storing. So uh uh every time you run a query you actually query an instance or range API which interprets the row data that are actually storing in the database. Uh for example, you might see less samples than you actually have in cases when you use for example step bigger than your resolution and you might see more samples than you actually store because of the staleness and all this stuff when Prometheus or Victor matrix also will show you ephemeral data points because it doesn't know that this target is already dead.
+
+So we have a lot of questions like that and we have to troubleshoot them and usually uh as you can see uh to solve this problem I ask to export row data uh users to see what's actually happening and this talk is here only because on the previous con in 2024 uh Brian Borham made a talk explaining how proml works under the hood and he showed a nice trick about showing um the underlying data in the graphana. Uh so the trick looks like that you can actually query the instant API but pass the vector and you will show the real underlying data behind. So the the quick demo uh to see how it works. So this is where you see the real data in graphana and you can like make a guess of what is happening inside or why proml is doing what it is doing. Okay. So in order to understand to answer these problems of users to troubleshoot the queries sometimes I need to look behind I need to see this row data and in order to simplify this job to see the truth I'm asking users [clears throat] to export the data so I can check every row samples to see what is wrong with them.
+
+So um I made this feature request and someone from metrics team implemented it and it's basically um a view specific view for viewing row data. I would uh show you like typing it but I have a mic in one hand so I did this. I have a metric vht west total and it's perfectly um okay counter uh red line it's this counter plotted everything is okay with it. So let's try to uh rate it. Rate is more or less okay. It's a bit wobbly, but at least okay. Now I do I rateate and I rateate looks not like I expected it to be especially comparing to rate. So you see the rate shows me like 0.2 and here we have zeros and big spikes. So I answered this questions a lot and I know exactly what is happening here. But [snorts] what I will do I will uh switch to this row query up top here. So I I have up here uh showing the row data in the UI and if I zoom a bit I see uh this thing here. So you see there are pairs of the data samples here inside and these pairs of the data samples are 10 seconds apart but every specific sample here uh it's actually one second apart.
+
+So when I see this I immediately ask uh the user on the GitHub are you running high availability pairs of your collectors and they usually say yes. So in fact they like [snorts] having two uh agents that's scraping the same target twice and they send in data and this data is like 1 second to 1 millisecond apart and because of this you know how I rate works I rate comparing to rate uh compares two last data points on the look behind window and if two last data points are exactly the same you have zeros. So this is the troubleshooting story and uh yeah this roertop is uh out of box there it helps us to debug to troubleshoot to help users it's part of our troubleshooting guide and uh yeah it allows also to expose data export row data in one click so I can reproduce it or anyone else can reproduce it. What is missing yet is it's not show the duplicates. I want it to show duplicates and extra icon.
+
+So if it detects the duplicates, I want like a big red something that telling, hey, something is wrong here. And would be nice also to show stale markers because that's another source of why something is shown or not shown. That's it.
+
+
+## Related keywords
+
+[[metrics]] [[prometheus]] [[metric]] [[collectors]] [[agents]] [[actually]] [[samples]] [[troubleshooting]] [[viewing]] [[queries]] [[questions]] [[exactly]]
+
+## Notes
+
+- Raw note imported from CNCF YouTube playlist. Promote durable insights to topic notes under `03-Topics/`.

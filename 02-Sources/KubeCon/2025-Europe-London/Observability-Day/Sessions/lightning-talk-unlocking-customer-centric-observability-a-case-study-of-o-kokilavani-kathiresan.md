@@ -1,0 +1,58 @@
+---
+type: session
+event: "Observability Day 2025 - Europe"
+year: 2025
+kind: session
+youtube_url: "https://www.youtube.com/watch?v=I8nrJ6eNEzU"
+youtube_id: "I8nrJ6eNEzU"
+playlist: "Observability Day 2025 - Europe"
+playlist_id: "PLj6h78yzYM2O7PaLWCNCE5wKhzmzF4b6A"
+playlist_index: 19
+speakers: []
+topics: ["Collectors", "Metrics", "Tracing", "Logging", "Kubernetes", "AI Observability"]
+keywords: ["customer", "interaction", "metric", "span", "collector", "pipeline", "metrics", "spans", "logging", "kubernetes", "telemetry", "impact", "wanted", "failed", "interactions", "action", "degraded", "monitoring", "working", "experience", "within", "created", "library", "whenever"]
+transcript_file: "_sources/transcripts/youtube-playlists/observability-day-2025-europe/lightning-talk-unlocking-customer-centric-observability-a-case-study-of-o-kokilavani-kathiresan/I8nrJ6eNEzU.txt"
+transcript_chars: 9132
+status: "transcript-downloaded"
+match_score: 1.08
+---
+
+# Lightning Talk: Unlocking Customer-Centric Observability: A Case Study of O... Kokilavani Kathiresan
+
+## Metadata
+
+- YouTube: https://www.youtube.com/watch?v=I8nrJ6eNEzU
+- Playlist: Observability Day 2025 - Europe
+- Speakers: N/A
+- Topics: [[Collectors]], [[Metrics]], [[Tracing]], [[Logging]], [[Kubernetes]], [[AI Observability]]
+
+## Transcript
+
+Hello everyone, a very good evening to all of you. I'm Kokula. I work for in it. I'm an engineering manager over there. I lead the observability team. So today I'm here to share our journey on customercentric observability. We have did an interesting experiment on using open telemetry to reduce our MTD which is meanantime to detect to less than 3 minutes. So you all would have heard about in it. It's um uh it's it's leading towards building a AI native development platform using cloudnative technologies. We are always committed towards building the tools and contributing it back to the opensource community. We are happy to receive an end user award twice. We also contribute and maintain multiple opensource projects uh to name a few like Argo, Noma etc. Now coming back to real problem. So at init there are around thousands of services and hundreds of web apps and plugins serving our customers. Let's say in a scenario a user is trying to do something with the application.
+
+Let's say he's trying to login. Let's say the login experience is failing. Now the developer on the other side, she got all sorts of back-end dashboards, charts to monitor the system. Now she sees okay user is trying to do something, something is failing, the errors are spiking. Now maybe like um she tries to fix it. She knows there is some bug introduced due to latest release. She reverted the release. All these action has been taken. So now in this scenario, what are all the problems that we see? How fast we detected that something is wrong on the customer side because customer side is the web app the web app that is running on the mobile devices or it could be a web apps. How fast we detected that there is a problem and what is the main customer impact. This is the main thing which I wanted to focus on. There could be multiple users using but within the time range which within the time where the problem happened and the problem resolution was being done within the time range how many users are really impacted because of this.
+
+How do we reduce MTI and MTR? We always used to focus on the service availability metric which is the every backend will have their own metric system their own dashboards they all monitor it but all or connected by a common line which is which starts from the front- end application. So we wanted to focus more on service availability agreed but we wanted to focus much more on the customer experience availability because that is the main common thing. With that in mind, we wanted to introduce you to a term called customer interaction. Customer interaction is nothing but a value added action that the user performs. It could be a button click or anything. But I it doesn't mean that it has to be a button click, scrolls or a click stream events. It is an action that the user performs that adds business value. It could be like uh uploading a document, adding a bank account to your uh adding your bank to your account.
+
+It could be anything. So now it's not only about a network call. It starts from the button click. It makes a network call to the back end, receives the response, populates it on the page and then till the final confirmation is shown, everything is tagged as one single interaction. An interaction can have three different outcomes. Success interaction means the user got an experience what the what it has been intended to do. In case of degraded, it is a sub-optimal experience. In case of failed interaction, this is what I was talking about. This is where we wanted to focus mainly on which is failed customer interactions. We call it FCIS. Why it is important? As again I have mentioned we wanted to focus on usercentric monitoring rather than a systemcentric monitoring. It calculates unique user impact. Let's say during that time there are 100 users logged in who would have tried some two three times. So instead of reporting 200 impact it should be like a what is the unique customer impact due to which we know how the impact of the problem is.
+
+It not only covers front end and back end it covers the entire chain. We can also have an automatic alerting and incident creation if something breaches the threshold. It always improves in MTD and MTI. Now coming back to the implementation part. So what we have done is we have created a wrapper using open telemetry JavaScript. So we created a library where we wrap that library with this um create customer interaction method. So whenever the business logic is being executed it could be anything that the action that I have informed before within that action you wrap that code with this create customer interaction and recording the interaction. So what it internally does is it creates an open telemetry span with necessary attribute set and finally when you mark the interaction it marks whether that interaction is a success or a failure. Once this is done on the front end talking about the highle architecture the front end spans that has been created by the open telemetry JavaScript it is collected by our open telemetry collector which is running on our back end.
+
+Then it the data is being sent to a stream processing pipeline which processes the data extracts the metrics all the metrics includes success degraded and the failures for viewing purpose it is sent to wave. Waverint is our viewing board. For other thing, we send the data to operational data lake which we already have a setup that data can be consumed by the anomaly detection pipeline which can generate anomalies. Once anomalies are there, we can have an automated alerting whenever the um the metric breaches the threshold. This is how our FCA dashboard would look like. So it has for a plug-in or for a web app this many interactions are there. what are all the top interactions and when it was spiking you have like a good trend over there. So you know like where when many customers are logging in and all the kind of information you could get this data from. Similarly there will be having a failed interactions as well which shows what is the top fail interactions.
+
+So this will give the developers a very fair idea of what is really happening on the front end system. This is one of the slack alerts that we had tried. So uh whenever there is an spike in anomaly for any of the interaction if you see in this case redirect to TTO is an interaction name and it's anomaly code spiked to 2.29 whenever you see the on the top section you see the user impacted and the degraded. So degraded has like degraded failed and total. So out of 8,500 interactions we got 21 failed and out of 21 failed we got like five unique users which is which is accounting to 0.34 percentage. So if you present this level of data during any problem we would be able to see like what is really happening and what is the real customer impact. With that I'll end my session here. Any questions? Thank you. very much. If you have any questions then please find our speaker around and in a moment we'll be ready with the next lightning talk.
+
+No, he got any question. You want to ask yours first? Hi. Thanks. That was um really interesting. Um so it was interesting that you you wrapped this around the real customer interaction. Um, I've been thinking about this a lot lately and um I I I look at this from a platform perspective. Um, platform stack, network, storage, uh, that type of thing. And we've been thinking about um, synthetic monitoring and synthetic transactions. Now, it's not the actual customer having the actual problem, but it's mimicking the thing that the the journey that the customer will take. So, do you have any thoughts around that? Did this really work? because you were working you know you're looking at kind of applications microservices running on Kubernetes so you able to wrap that in you asking about synthetic load test yeah it would that be an appropriate type of customer interaction uh monitoring no these are all the real user monitoring in the sense this data is coming from actual mobile devices or actual web applications which the customers are using we collect the real time data and then we present it it to the developers basically.
+
+Yeah, we don't have any synthetic uh stuffs here. Yeah. Uh I just have a quick question. So uh it sounds like you're using open telemetry JavaScript in the browser currently. Uh how well is that working for you? How how sorry I didn't get a question. How well is open telemetry working for you in the browser currently? it it's pretty well in the sense that we created a library and that library has been integrated with all our plugins and then every plug-in uses that the code that I had shown in their repositories and then it's pretty working so I mean I don't see any big problem there um we also have a concept called reliable transmission which takes care of transport I mean it's not that every span will be exported immediately we buffer in the browser cache for like a 10 seconds then we just bulk it and then we we transport to the open telemetry collector. So it it is working pretty well for us. Great.
+
+Okay. Thanks. Yeah. Thank you. Thank you very much. Thank you.
+
+
+## Related keywords
+
+[[customer]] [[interaction]] [[metric]] [[span]] [[collector]] [[pipeline]] [[metrics]] [[spans]] [[logging]] [[kubernetes]] [[telemetry]] [[impact]]
+
+## Notes
+
+- Raw note imported from CNCF YouTube playlist. Promote durable insights to topic notes under `03-Topics/`.

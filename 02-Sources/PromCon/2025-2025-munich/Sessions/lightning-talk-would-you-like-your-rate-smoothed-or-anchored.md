@@ -1,0 +1,50 @@
+---
+type: session
+event: "PromCon EU 2025"
+year: 2025
+kind: session
+youtube_url: "https://www.youtube.com/watch?v=LHt5fHE5i1A"
+youtube_id: "LHt5fHE5i1A"
+playlist: "PromCon EU 2025"
+playlist_id: "PLj6h78yzYM2P534LgwCVm3GQdxLcSt7We"
+playlist_index: 37
+speakers: ["Björn “Beorn” Rabenstein"]
+topics: ["Metrics", "AI Observability"]
+keywords: ["prometheus", "zero", "anchored", "always", "proposals", "problems", "reasons", "essentially", "integers", "lightning", "surprising", "function", "existing", "perfect", "actually", "minutes", "result", "snorts", "consider", "cannot", "whatever", "julian", "design", "better"]
+transcript_file: "_sources/transcripts/youtube-playlists/promcon-eu-2025/lightning-talk-would-you-like-your-rate-smoothed-or-anchored/LHt5fHE5i1A.txt"
+transcript_chars: 5216
+status: "transcript-downloaded"
+match_score: 1.08
+---
+
+# Lightning Talk: Would you like your rate smoothed or anchored? - Björn “Beorn” Rabenstein
+
+## Metadata
+
+- YouTube: https://www.youtube.com/watch?v=LHt5fHE5i1A
+- Playlist: PromCon EU 2025
+- Speakers: Björn “Beorn” Rabenstein
+- Topics: [[Metrics]], [[AI Observability]]
+
+## Transcript
+
+It's me again. Would you like your rate smoothest or anchored? Another controversial topic, but it's no more technical. Rate is [clears throat] the most used prompt girl function probably. Also, I always refer to rate and friends when I say rate. Rate increase and delta, but rate is what we mostly call them, right? It's also the most misunderstood and the most discussed. So, tons of people always wanted to change this. We got a lot of proposals X rate, Y rate, H rate, AERT, M rate, bush. I mean these are just the proposals that got a name right um so what's wrong with the existing rate we we even had the question about this already today uh TLDDR nothing right it's perfect now it's not perfect it's always a tradeoff and that's the problem and this is a lightning talk so I won't discuss the trade-off because it takes too long I just focus on the downsides so the existing rate has the following properties and this is the mother of all problems to quote the prime minister of this beautiful country we are in strict quickly looks inside the range.
+
+So um uh it is this is actually a good property I think but it has problems. So uh so it you have this range rate five minutes only looks within the five minutes. If you line them all up, it's hard to get full coverage in graphing. And you always need at least two samples in the range, right? And you have to extrapolate to the range boundaries for a proper result. And that means the results are non integer, which is surprising for many. And for me, it's just surprising that it's surprising for many because not everyone is like a nerd like me. [snorts] Um, so you also need youristics when to stop the extropolation. This can go horribly wrong. And there's a more esoteric thing which we didn't consider at all when the original rate was built. um about composibility and by now I think this is a very useful thing and in in tiny is like a query so you cannot just add up two rates next to each other and expect to be the same result as if you do it over two whatever like detail but I think this actually is important to think about.
+
+[snorts] Okay, so there was four reasons. The Prometheus maintainers were quite conservative about this topic and for other reasons things got moving this year. So I dumped all the context I had um into a dog and one of my infamous giant undigestible brain dumps. But Julian, who's the true hero of this uh digested all of this, he should give this talk, but he's not here at Promcon, so I have to do it. So Julian distilled this into an actual design talk and implemented it. Yay. So now what did we do? We create so we realized we cannot solve all the problems with just one better rate function. So we gave up on giving one better but we also couldn't implement a thousand rate functions. Right? So we essentially went into two different directions anchored and smooth. So this is a new thing now. Um and it's still experimental and it might still get improved. It doesn't implement any of the other proposals directly.
+
+So every single one who proposed this will be unhappy. But yeah, so this is how anchored works and this is essentially when people want integers, right? So this is now taking the last symbol in the range and the last symbol before the range and directly does the difference. It's very much simplified. There are a few subtleties. So integers if you have integers going in, integers go out. Um this needs just a single point in the range because you also take the one before and I think this is what many people will love but I think they don't know what they wish for because this has many problems. But anyway, you you get this now, right? So smooth is the one that uh still does some polation but not extraolation but interpolation. So it looks at the value between the points. So essentially it interpolates at the boundary the point before and after and takes this. So this is this sounds too good to be true.
+
+I think this will be very helpful. But there's one big and fat problem and this is why we totally did not consider this originally. You need if you want this for now you need the point after now which is also called the future right. So you need a point from the future. So you essentially to make this work you have to look a bit into the past and there are many reasons why I think this is acceptable now but again it's a lightning talk. Um this works with zero points in the range, right? Because you just interpolate everything. Magic. Cool, right? So uh there in the design doc is all the depth and also the links to all the other proposals and to my brain do which has a lot of subtleties. So you could look at this um to learn more also because I said it needs a lot of reasons. I submitted a talk for CubeCon EU in Amsterdam early next year. If you're on the committee, you know this talk has to go in, right?
+
+So you learn all of this maybe also holiday I don't know because maybe Prometheus gets accepted holiday we whatever if you in the meantime try it out you need Prometheus 3.7 or later you have to run have to set enable feature promote extended range selectors and it doesn't work with native histograms yet we are still working with this that's it Thank you.
+
+
+## Related keywords
+
+[[prometheus]] [[zero]] [[anchored]] [[always]] [[proposals]] [[problems]] [[reasons]] [[essentially]] [[integers]] [[lightning]] [[surprising]] [[function]]
+
+## Notes
+
+- Raw note imported from CNCF YouTube playlist. Promote durable insights to topic notes under `03-Topics/`.

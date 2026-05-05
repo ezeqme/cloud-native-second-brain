@@ -1,0 +1,56 @@
+---
+type: session
+event: "Open Observability Summit + Otel Community Day NA 2025"
+year: 2025
+kind: session
+youtube_url: https://www.youtube.com/watch?v=IA_z8KHAEWg
+youtube_id: IA_z8KHAEWg
+playlist: "Open Observability Summit + Otel Community Day NA 2025"
+playlist_id: PLj6h78yzYM2NFT2PGItX2idBf7v8fHcy7
+playlist_index: 1
+speakers: []
+topics: ["OpenTelemetry", "Collectors", "Metrics", "Tracing", "Logging", "SLOs", "Cost Optimization", "AI Observability", "Security"]
+keywords: ["telemetry", "metrics", "observability", "pipeline", "logs", "prometheus", "error", "cost", "pipelines", "span", "log", "collector", "logging", "collectors", "tracing", "security", "signals", "dashboard", "business", "application", "deployment", "latency", "production", "matrices"]
+transcript_file: _sources/transcripts/youtube-playlists/open-observability-summit-otel-community-day-na-2025/lightning-talk-observability-first-devsecops-building-resilient-multi-cloud-p-ravindra-bhargava/IA_z8KHAEWg.txt
+transcript_chars: 9500
+status: transcript-downloaded
+---
+
+# Lightning Talk: Observability-First DevSecOps: Building Resilient Multi-Cloud P... Ravindra Bhargava
+
+## Metadata
+
+- YouTube: https://www.youtube.com/watch?v=IA_z8KHAEWg
+- Playlist: Open Observability Summit + Otel Community Day NA 2025
+- Speakers: N/A
+- Topics: [[OpenTelemetry]], [[Collectors]], [[Metrics]], [[Tracing]], [[Logging]], [[SLOs]], [[Cost Optimization]], [[AI Observability]], [[Security]]
+
+## Transcript
+
+Hello everyone. I'm Ravin Bargo, lead dev sec ops engineer at UPS. And today I'll walk through how I emitted observability first thinking in our CI/CD pipeline across multicloud AWS Azure and GCP using open telemetry and related tooling. The goal is to show how this has helped us to improve reliability, reduce incident response time and align infrastructure health with the business goals. So let's get started. Open telemetry is an open-source framework for collecting matrices, logs and traces which are the key pillars of observability. It provides a vendor agnostic way to instrument application infrastructure and CI/CD pipelines. This let you to gather unified telemetry data for more accurate insights. Telemetry is a automatic collection of data points like performance, uses, errors from various system. What makes telemetry so powerful is that it allows us to proactively detect issues, improve performance and ensure compliance.
+
+Open telemetry standardize how I generate and export this data. Instrumentation in open telemetry refers to the process of adding or using libraries to collect telemetry data such as metrics, logs and traces from your application and services. This enables automatic or a manual capture of important events, performance data and context as your code runs. Modern pipelines span multiple clouds and tools making visibility difficult. GOP simplifies deployment but doesn't offer observability out of the box. That's yet open telemetry helps closing the loop between developers, operations team and maintenance team. You can use opensource solutions like Prometheus for custom matrix, Jagger for traces and Loki for logging visibility or you can go with any enterprise level solution like data dog or dynotic for handling your telemetry data. CICD without observability is just like flying diamond. I have shifted my mindset to treat observability as a core feature not an afterthought.
+
+This means instrumenting not just our code but every stage of the pipeline means matrices just like build time, test failure, total count or deploy latency and second those are the basic metrics which can help you to understand it better. Traces like span of API call or DB query or log structure or contextual log. Traditional CI/CD often stop at deployment. They are missing production inside. My vision is to treat observability as a first class citizen not afterthought. I should integrate telemetry at every stage of the pipeline for better feedback and faster issue resolution. So here is a stack. I used open telemetry for data collection, Prometheus and Graphfana for monitoring, Terraform as a infrastructure code and Argo CD for following the GitOps principles. This is the highle architecture. Notice how open telem is at the center collecting signals from CI application and infrastructures. They are routed through the collection of Prometheus and visualized in graphana.
+
+So the whole flow looks like application are sending the data to open telemetry collector and with the respect from collector for handling matrices it's going to prometheus and for handling the logs it's talking to Loki and eager for handling thes and those are datas going to centralize and graphana for generating the visible dashboards or sending the alert to the end user. I instrumented CI runners to emit telemetry like build duration or test failure. These are captured through open telemetry collectors and export in a standard format like open telemetry protocol to Prometheus and graphana. This help us to detect slow builds, flacky test or broken deployment instantly. These are the result. MTT are down by 30% more reliable deployment, cost optimization and increased ownership across team. These wins are driven by proactive data back decisions. A broken API schema was detected during a cany deploy not after the full roll out.
+
+Hotel traces led us straight to the falling changes saving hours of triage. Improved deploy reliability across three cloud providers. Open telemetry give a constant weight cost anomaly and CIA correlated metrics because captured both infrastructure level metrics and app performance data through open telemetry. I could correlated spike in CPU memory with unexpected cost increases. In one case, I found misconfigured autoscaler in staging that was scaling aggressively due to the noisy jack test job with open telemetry matrices plus graphana alerts. I got fixed this before it hit to the projection budget. Team level inside ownership of regressions by tagging telemetry with a team service ownership user labels like teams equal to checkout or services equal to authorization. I built different dashboard and alerts tailored for each team using those labels. When a issue occurred, it was immediately clear which team owned and what component is exactly impacted.
+
+This empower team to take faster ownership of regression. No more fingerpointing or delayed triage. Let's talk about what not to do. These are some anti pattern I intentionally avoided or corrected throughout my journey. Metrics overload without structure. Dumping too many metrics without naming convention labels or relevance lead to the noise. I made sure define golden signals key metrices like error rates, latency or success ratio and structure them with a consistent tags like environment, services or the team name. Logs not equal to visibility. While locks are useful, relying solely on them is like watching the rear rear view mirror while driving. They are unstructured, harder to query, scale or reactive. I complemented logs with a realtime address and distributed tracing for proactive observability instrumentation only at runtime not during pipeline. If you only monitor your application after deployment, you miss failure that happen earlier.
+
+I embedded telemetry into CI/CD pipeline taking build duration, test result and deployment latency to catch regression early. No link between infra signals and business impact. Matrices like CPU or memory mean little in isolation. I align telement with a product KPI. For example, trying high latency or card abandonment risk. This gave business and product team a shared view of system health. Things to avoid too many unstructured metrics relying only on the logs or only instrumenting in production. These patterns led to a noise and missed signals. Instead of starting with the tools, I started with the use cases. I define golden signals per app and align telemetry with the business goals. Then I automated dashboard for app each and every environment. Started with the use case not with the tools. So instead of asking what tool should I use, I start by asking what problems we are trying to solve here. That led us to meaningful use cases like reducing amplit improving rollback safety and correlating infra shoes with a product impact.
+
+Define golden signals per application. I then try to collect each and every metrics. Instead, I focused on key signals like latency, request error, error rate and saturation. This gives a high signal to noise ratio dashboard. That means team could actually relate and actually use it. Tied observity to the business KPIs. I made open telemetry so meaningful by mapping it to outcomes to the what business cared about like revenue loss from the downtime or latency causing customer churn. This helped to get buy in from the leadership as well. Automated dashboard per environment per team to scale. I automated the creation of Graphfana dashboard and alerts per environment and per service owner. That mean onboarding a new application or a team was fast and consistent. Start small but use a standard just like open telemetry. Don't wait for the production to add observability. Clean telemetry is greater than more telemetry.
+
+So make it concise but impactful and the most important get buy and from all the teams involve infosc operations team and business team at the very beginning stage of the observability even in non-production environment start small scale with a standard don't try to instrument everything at once I picked a few critical services and CI stages instrument them using open telemetry and expand from there. Starting is small help us to expandment safely and demonstrate very quickly. Instrument early not just at production. Like I said many teams make the mistake for only adding observability once the code is live. I embedded open telemetry in our CI pipeline at a staging environments too that help to catch issues earlier long before they reach to the end users. Keep signal to noise ratio clean. More telemetry isn't always better. I focused on high value signals like error rates, deploy duration, roll back triggers to avoid noisy metrics that confuse or overwhelm teams.
+
+Cross team buy in critical observability isn't just a DevOps concern. I involved security QA production from the backd beginning of the stage. Sharing Graphana dashboard with these groups help them to make it better decisions and fostered ownership of service health. Start small but use standard. Don't wait for the production to add observability. Final thoughts. Observability isn't just dashboard. It's a cultured shift. Open telemity make a shift easier by offering a portable consist to generate an export signal. Observability is a culture not a just a dashboard. That's it from my side. Thank you so much and feel free to share your feedback and connect with me on LinkedIn. We have a lot of thing to share in open telemetry. Talk to you soon. Thank you.
+
+## Related keywords
+
+[[telemetry]] [[metrics]] [[observability]] [[pipeline]] [[logs]] [[prometheus]] [[error]] [[cost]] [[pipelines]] [[span]] [[log]] [[collector]]
+
+## Notes
+
+- Raw note imported from CNCF YouTube playlist. Promote durable insights to topic notes under `03-Topics/`.

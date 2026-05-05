@@ -1,0 +1,52 @@
+---
+type: session
+event: "Observability Day 2025 - NA"
+year: 2025
+kind: session
+youtube_url: "https://www.youtube.com/watch?v=gP3z4PSGiuc"
+youtube_id: "gP3z4PSGiuc"
+playlist: "Observability Day 2025 - NA"
+playlist_id: "PLj6h78yzYM2NupzP0zYgT3dLzARalT1By"
+playlist_index: 28
+speakers: ["Steve Bek", "IBM"]
+topics: ["Metrics", "Tracing", "Logging", "Profiling", "Cost Optimization", "AI Observability"]
+keywords: ["actually", "logs", "metrics", "trace", "profile", "efficiency", "metric", "standpoint", "automate", "observability", "remediation", "instana", "geared", "towards", "dashboards", "points", "agentic", "imagine", "rethinking", "answers", "machine", "causal", "improving", "clarity"]
+transcript_file: "_sources/transcripts/youtube-playlists/observability-day-2025-na/sponsored-keynote-rethinking-observability-less-noise-more-answers/gP3z4PSGiuc.txt"
+transcript_chars: 6213
+status: "transcript-downloaded"
+match_score: 1.08
+---
+
+# Sponsored Keynote: Rethinking Observability: Less Noise, More Answers - Steve Bek, IBM
+
+## Metadata
+
+- YouTube: https://www.youtube.com/watch?v=gP3z4PSGiuc
+- Playlist: Observability Day 2025 - NA
+- Speakers: Steve Bek, IBM
+- Topics: [[Metrics]], [[Tracing]], [[Logging]], [[Profiling]], [[Cost Optimization]], [[AI Observability]]
+
+## Transcript
+
+Hi, I'm local. Uh, surprising how cold it was this morning and how hard how hard it was to park actually here. So, although that shouldn't surprise me. So, rethinking observability, less noise, more answers, right? And so, from an IBM standpoint, we kind of sit in a unique situation with our observability platforms. We've been using AI um for a while for a while. We're the first kind of observability platform to actually use machine learning, gen AI, causal AI, as well as uh you know, LLMs and now aentic AI. So this is going to be improving clarity um and improving clarity and insights in a kind of complex world that we live in modern envir environments. And so we've kind of coined a phrase, this is an SR S SR's best friend. And so let me dive into Instana for just you know 30 seconds, right? So Instana was uh you know kind of geared towards APM and the systems that uh APMs actually run on. But it's it was the first observability solution that IBM had.
+
+So born on a cloud, geared towards modern environments, uh geared towards microservices and containers and the complexity that you know the hybrid cloud and multicloud environment actually provides. But in that world, you need to be able to be very granular because the life cycle of containers could be seconds, right? So we have the ability to collect all of our metrics for those applications in a single second. Be able to trace all your transactions across your entire environment to give you endto-end visibility, profile all your processes and tie in application logs all to actually do that automatically so you can be insightful with the data that we do collect. So we don't have any gaps in our data at all. We're not we're not guessing at all. uh we automate as much as humanly possible right discovery instrumentation um mapping dashboards dynamic graphs so we can actually show the relationships at the different data points that we have um we support over 300 different types of um technologies that are out there and that's growing every day super easy to use it doesn't get sold enough how easy Instana really is and then from a pricing standpoint it's very simple it's based on manage virtual server or uh u uh worker nodes So that's kind of the high level on instance.
+
+Now let's dive into the topic. So from an AI standpoint, we've been using AI for for years. Um machine learnings to do kind of u uh uh it was correlations and data thresholds and then we were able to do causal AI to actually give us probable root cause. Then we use Gen AI to actually help us massage the data for dashboards um as well as tracking down remediation steps that we might have that are out there. And then if it works, we're going to be able to automate those remediation steps because we're going to put those steps into a catalog. So now we're kind of uh as alarms come in, we're able to automate remediations through the process. And then that gets us to Agentic AI. And so Agentic AI is that next step to give us the intelligence incident investigation to it. So if you can imagine all the data points that SRES have to go through today, um you're having to sift through all that data and correlate all that data.
+
+you're looking at a bunch of different dashboards, metrics, events, traces, logs, um, and and you're having to do it manually. That's a pain, right? So, uh, we're able to understand that data fast by using the power of Gentic AI AI. Uh, what we've seen from a kind of results standpoint is our customers, um, are able to resolve incidents 80% faster. Um, you know, kind of it kind of taking the human out. Not to say the human couldn't do it, but we can do it much faster. Uh what we'll find out is you're going to improve your maximum um maximum um efficiency. You'll actually minimize your downtime. So you're going to improve your mean time for by about 75%. Oops. And I got a meeting up there too. And so from a if you had to imagine what that would look like, we're going to go out there and we would investigate it from a kind of a summary standpoint. We're going to investigate all those different data points that I actually talked about earlier, metric fence, uh traces and logs.
+
+Then we'll be able to do the exploring and look at the evidence from a visualization standpoint, but then also use the power of natural language uh in Watson X. So Watson X is, you know, tied to kind of LLMs to actually ask questions from a chatbot standpoint. Then what you'll be able to see is we'll be able to summarize that data, you know, from a communication standpoint. That's something that's understandable and reasonable um for us. And so what that'll do is that will identify uh the actual incident, the true root cause and then tell us what the remediation steps are um you along the way. So then we can automate it. And so that's what the next step is actual re remediation. That's actually kind of leveraging a little bit of Gen AI where we're collecting those remediation steps. We're cat cataloging it. And then finally we'll be able to put that into an action script that says hey the next time this thing comes in we're actually we're actually going to automate the resolution.
+
+take the human out completely. And this is where our customers are going. We're trying to automate as much as humanly power uh possible with the power of AI. Uh and so if you could imagine if this is what it looked like, we're able to identify the what, the where, and the why. We do that automatically. A human could do that also, but it's going to take much longer. For example, we were just at a a conference in Barcelona and there was a bank that actually came up to us and they said they had an issue and they want they actually pressed our intelligent action button because they wanted to do further investigation. They had engineering an entire engineering team that was able to get to sift through all the different data ports and all the different tools that are required. Uh they were able to get to the answer but we were able to do it in like a minute. It took them several hours. That's what we're talking about.
+
+That's that's the bang for the buck in terms of Agentic AI and what Instana can provide um in our solution. So,
+
+
+## Related keywords
+
+[[actually]] [[logs]] [[metrics]] [[trace]] [[profile]] [[efficiency]] [[metric]] [[standpoint]] [[automate]] [[observability]] [[remediation]] [[instana]]
+
+## Notes
+
+- Raw note imported from CNCF YouTube playlist. Promote durable insights to topic notes under `03-Topics/`.

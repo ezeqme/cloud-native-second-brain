@@ -1,0 +1,48 @@
+---
+type: session
+event: "Observability Day 2025 - NA"
+year: 2025
+kind: session
+youtube_url: "https://www.youtube.com/watch?v=x8xai14gOq8"
+youtube_id: "x8xai14gOq8"
+playlist: "Observability Day 2025 - NA"
+playlist_id: "PLj6h78yzYM2NupzP0zYgT3dLzARalT1By"
+playlist_index: 5
+speakers: ["Sean O'Dell"]
+topics: ["Tracing", "Logging", "AI Observability"]
+keywords: ["trace", "little", "cubecon", "friction", "observability", "sponsored", "developer", "pac-man", "register", "switch", "rethinking", "developers", "morning", "congratulations", "talking", "contributors", "maintainers", "experience", "giving", "wanted", "bottom", "batteries", "obviously", "projects"]
+transcript_file: "_sources/transcripts/youtube-playlists/observability-day-2025-na/sponsored-keynote-from-friction-to-flow-rethinking-observability-for-developers/x8xai14gOq8.txt"
+transcript_chars: 4925
+status: "transcript-downloaded"
+match_score: 1.08
+---
+
+# Sponsored Keynote: From Friction to Flow: Rethinking Observability for Developers - Sean O'Dell
+
+## Metadata
+
+- YouTube: https://www.youtube.com/watch?v=x8xai14gOq8
+- Playlist: Observability Day 2025 - NA
+- Speakers: Sean O'Dell
+- Topics: [[Tracing]], [[Logging]], [[AI Observability]]
+
+## Transcript
+
+So, I'm delivering a talk today called From Friction to Flow: Rethinking Observability for Developers. No, I'm just kidding. I'm not doing that. We're gonna have a little bit of fun this morning. First of all, congratulations to the CNCF on 10 years. Uh, how many of you been Yeah, give them There we go. Give them a clap. There we go. Come on now. Uh, how many of you have been to CubeCon more than three times? Five times. Who was at the very first CubeCon? There we go. Oh, see that's what I'm talking about. Um, but no, seriously, congratulations to CNCF and all of you who have been at all of these. I think my first one was 2018. So happy to be here. Uh, thank you to our contributors, maintainers, and to our community. Uh, without you, we probably don't really have a reason to be here. Pierre, good to see you, brother. Um, I see a few folks in the room that I know. Uh, one thing I want to mention, Dino Trace, we're really excited to be at CubeCon.
+
+Dino Trace has been doing this a while, but this is our very first sponsorship of observability day. Um, and I think that's something that is very valid and important. So much so that it was my call to do this. Um, I lead our developer experience team and in partnership with our developer relations team. And the one thing I found interesting, we've sponsored CubeCon in the past, but I'm like, we are contributors, maintainers, etc. to observability day and we've never sponsored it. What kind of crazy idea is this? So, we are glad to be here and I've got something special for everybody in just a minute. Um, but I do want to give a shout out to our speakers. Um, there's a couple of talks today from the team. Uh, Henrik Rexid, Michael Beamer, um, uh, Andy Grabbner will be here as well. He's not giving a talk today. Um, but he'll be, you know, roaming around book signing tomorrow. And then we have one of our teammates um who is not present, Adriana Villea, which probably most of you know or have seen or seen a talk from her, but she is not with us this week, but I wanted to give her a shout out as well.
+
+So, come find us at one of our talks or come to our table and booth. This is what you're here for, right? You don't care about technology. You don't care about anything. We really just want to have a little bit of fun this week. And as a part of saying thank you for all of you being here. If you stop by our table today, I've got 150 of these little Lego machines right here on the bottom right hand side. It is fully functioning. Pac-Man, excuse me, not Lego Pac-Man. It actually moves. It's the whole bit. Um, you can use batteries. We didn't provide batteries, but you know, USBC as well. Um, we're also doing a Lego giveaway for the actual Lego Pac-Man that you see on the bottom lefthand corner. So, come by, register for that. And then at the booth, any any any Switch fans in the house? I'm a Switch fan. Um, we are giving away a Switch to at the booth. So, come by and hang out, enjoy a demo or just come register, whatever you want to do.
+
+So, because my talk is about from flow to or from friction to flow, I wanted to just show you what we at Dino Trace, what our engineering teams leverage. This is our platform. Yes, we use Dino trace, but we use a whole, you know, slew of of open source and obviously CNCF projects and solutions. And so, come talk to the team this week if you are interested in kind of how we do things as a software company, how it impacts you. Um, and I know there's some of our customers in the room, so hope this is a little bit behind the curtain, so we can have a little bit of fun. um this is what I consider talking about developer experience and solving some of the friction problems that we have internally and so if you want to understand how we do it um how we use our own solutions to do that or obviously some of the CNCF projects um as well so just kind of kind of fun by the way I don't know where half of my graphic went oh it's because it's a buildout I don't know why I did that sorry last one has anybody ever attended the pancake breakfast at Cube CubeCon before.
+
+If you have not, it is back this year. It's been away for a few years. Thank you, co. But we are bringing it back this year with our friends at the Newstack. It is Thursday morning. Um, go find it online. Register. Come hang out with a few of us. We'll have a little bit of fun and you can eat pancakes while I talk as well as a few others that are far more uh intelligent and smart. Um, but we'd really love to have you come out. Uh, last but not least, our team is at the booth at the table and uh, we really just want to say thank you for being here and we really appreciate you, the community, what you do for you and your organizations. And if you have any questions for for us, what we do, how we do it, we'd love to have a conversation. And most importantly, I'm not here to give a sales pitch. Have a good day everybody.
+
+
+## Related keywords
+
+[[trace]] [[little]] [[cubecon]] [[friction]] [[observability]] [[sponsored]] [[developer]] [[pac-man]] [[register]] [[switch]] [[rethinking]] [[developers]]
+
+## Notes
+
+- Raw note imported from CNCF YouTube playlist. Promote durable insights to topic notes under `03-Topics/`.

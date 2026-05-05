@@ -1,0 +1,60 @@
+---
+type: session
+event: "Observability Day 2025 - Europe"
+year: 2025
+kind: session
+youtube_url: "https://www.youtube.com/watch?v=mM5keeKPVVY"
+youtube_id: "mM5keeKPVVY"
+playlist: "Observability Day 2025 - Europe"
+playlist_id: "PLj6h78yzYM2O7PaLWCNCE5wKhzmzF4b6A"
+playlist_index: 14
+speakers: []
+topics: ["OpenTelemetry", "Collectors", "Metrics", "Tracing", "Logging", "Cost Optimization", "AI Observability"]
+keywords: ["logs", "log", "collector", "error", "statements", "opentelemetry", "metrics", "trace", "pipeline", "sampling", "processor", "statement", "finally", "playground", "common", "string", "components", "working", "results", "transform", "support", "exactly", "configuration", "screen"]
+transcript_file: "_sources/transcripts/youtube-playlists/observability-day-2025-europe/lightning-talk-empowering-opentelemetry-users-with-the-ottl-playground-si-edmo-vamerlatti-costa/mM5keeKPVVY.txt"
+transcript_chars: 10415
+status: "transcript-downloaded"
+match_score: 1.08
+---
+
+# Lightning Talk: Empowering OpenTelemetry Users With the OTTL Playground: Si... Edmo Vamerlatti Costa
+
+## Metadata
+
+- YouTube: https://www.youtube.com/watch?v=mM5keeKPVVY
+- Playlist: Observability Day 2025 - Europe
+- Speakers: N/A
+- Topics: [[OpenTelemetry]], [[Collectors]], [[Metrics]], [[Tracing]], [[Logging]], [[Cost Optimization]], [[AI Observability]]
+
+## Transcript
+
+Hello everyone. Thank you for coming. Um, I hope you had fun. We had really great amazing talks so far. And my name is Edmo. I'm a software engineer at Elasti and a open telemetry collector contributor where you're going to find me normally contributing to OTTL and transform processor. So, how many people here are familiar with the OTTL? Hit your hand, please. Well, a good amount of people. And how many people find the troubleshooting test easy? No one. Well, we got one. Well, hopefully by the end of this session, we're going to be more confident on doing that. We're going to give you a tool that's going to help with that. But before, let's see what's OTTL and why do you need a playground for that? So, OTL is a powerful domain specific language designed for interacting with your data inside your open telemetry collector. It gives access to all the OTP fields or the data that's passing through your collector, your logs or traces, your metrics.
+
+It has a rich set of built-in functions, more or less 100 at the moment and you can use all of them for change your data or for filtering your data. It also support common query language features such as conditions, logical operators and so on. So let's imagine you want to change a log data and you want to set the yeah it didn't work and you want to set the sever number of my log to error if I have a body string in that string it has a error word on it how can I do that with OTL so this is more or less how an statement for doing that would look like so we do have two parts here one is a function that changes my telemetry data in this case the sever number and an optional condition that determines if that function should be executed. So this is more or less how we would do that. But where can I use OTT at all? So yeah, those are the primary components where you can use OTL at the moment. We're not going to go through all of them today.
+
+We don't have time for that. But we're going to see two examples. One of the transform processor, the other of the filter processor during the demo. So So I have my OTL statement. I did set up my uh component. How can I ensure they are doing exactly what they are supposed to do? How can I ensure my configuration is really working? So currently we have two options. So one is the debug exporter. When you enable the debug exporter and set the severity verbosity to the tail, this exporter is going to start printing out data to the console. So you can use that data to compare with your input and determine if your transformation is working. As we might guess as that might be very hard depending on how big your data is or how complex your statements are. It also shows exactly how the collector in the OTTL sees your data which is really important because you should use the same field names on your statements and they might be different from the data you see your final destination on your vendor tool.
+
+Uh another tool we have is the debug logs. So when you set when you enable the collector debug logs, you're going to start to seeing a lot of OTT logs and they are very useful. They might contain the statement and condition being executed and the underlying data, the data that's being modified or the data that's being filtered. Depending on the components like the transform processor, you might see a step-by-step account of your processing as well, which might include for example your data before running any statement and the data after running each statement. So you can identify which one is not working. Well, it's very useful. The bug logs are are amazing, but it's also very variables. When you turn on the blogs for the collector, that's going to turn on the logs for everything. So you're going to see a huge amount of data being printed and that's crazy for filter and find the logs you care about.
+
+So those tools are very useful. They are yeah the main tools we have right now. But we want another option that going to make this analysis processes easier and that's when the OTTL playgrounds come into play. So the OTTL playground is a web-based application that allows you to experiment with OTTL in components in a kind of sandbox environment. So you don't need to run a collector. You don't need to put your production environment in risk testing statement. I'm not saying you you do that. H everything runs in your browser and and you get visual results. So it can you can focus on what matters. You don't need to focus on filtering logs. It's built with web assembly which means the code that runs under the hood is the same as a live collector. So you can expect to get the same results as the same the same ear errors as well and it allows you to share that statements which improves a lot the collaboration with the community.
+
+So yeah we're going to do a live demo. Uh if you want to scan that code or just type OTL. I think it's faster. Um yeah, let me just switch the screen here. All right. So as you can see the UI is very simple. That's all. We don't have more pages. That's all you need. Uh we got two drop downs at the top of the screen here where you can select the collector contribute version and the component you want to test, the component you want to run. So that configuration should be done on using this panel where you're going to insert the snipp of the processor and finally on the bottom we're going to find the OTP payload in the JSON format. So yeah you can read and understand what it is and that's all that we need and the good news is that we don't need to start from scratch. You don't need to type all the data load if you want you know just test some uh small statement the playground it supports a lot it provides a lot of uh examples of common operation real world common operations that you can use as a starting point so let's select one very common one which is parsing JSON log bodies and use that data to enrich our log Yeah.
+
+All right. So, whatever we select the the example, we're going to get both field the configuration and the data. So, before I look at the statements, just looking at the data, we have a log entry here and the body of my log is a JSON string and I got a time stamp in a string format as well, a level and a message. So, let look at the statements what they are trying to do. So the statements are basically parsing the body put that into the cache so I can reuse that data in other statements and it's parsing again the time stamp from a string to time. So we are setting my log time set my severity and finally replace the body with the message field because we don't want the JSON anymore. Yeah. So let's run this and see how the results are displayed. Yeah. So this is the GIF result and it should be very simple to understand is a GIF based comparation of this data and the transformed value. It means this data after applying those statements.
+
+So looking at this change I can tell that my statements are probably working. I got my body content replaced by the message field. The sever text uh uh field was added and the time was updated. So I can tell, yeah, it's working. I got pretty excited when I saw this at the first time. I have to say it made my life so much easier. And yeah, but if for some reason you do not understand this view, I don't know, maybe this vert text is not clear for you, you can use another view that explain this with text instead of colors and the GIF based uh notation. So you can think about this view as a JSON patch that should apply to your original data and the result will be the transform data. Might be a little complex to understand but it's much simpler actually. So let's see the severity text uh example. So I'm not pretty sure it was that but if I read the description it's going to say add a new property. So that should be the action.
+
+It means it's a new property that's different from the body which was a modification. So so you can use that view. And finally, if you want to see the raw data, you can use the JSON view that is going to give you the raw data. And yeah, uh finally it also going to provide you the execution logs which are the same as the debug logs, but here they are much less verbal. So we don't have logs from other components or log from other data transformation. Everything here is related to your execution. So the playground also support testing filter uh processor configuration. It works exactly the same way as the transfer processor. So I going to do a quick one here is just dropping debug and trace logs from my pipeline. This is a common one. So it works exactly the same way. I select the example. I got both panel field. So I'm going to run and you can see how the results are displayed. So again looking at this screen I can tell that my log with index one was dropped is indeed a debug log.
+
+So it looks right but I still want to check the other entries the remaining logs. So I can mark that option as well. That option will basically show the data that wasn't changed. So I can compare and check if that's right in this example. Yeah we can see it's a info log. So yeah it shouldn't should be preserved. So it looks correct. And finally, if you want to share this with someone, you can click on the cop on the cop link button on the top of the screen and that's going to generate a uni link that you can share and uh people can easily reproduce the same scenario. All right, let me Oh, that worked well. So, what's next for this project? Uh yeah, we have a few uh features in mind which includes adding support to the routing connector in tail sampling so you can experiment with them as well. We want to improve the visual results. So the easier they are, the less time you're going to spend troubleshooting your statements.
+
+We want to support a kind of embedded view as well. So you can put that in docs, blog post, whatever you need to run or you know. H regarding the project is a open source project. uh really want your opinion. That's that's true. If you have some ideas in mind right now, if you have some problems in mind right now that's not covered by the tool, please go ahead open a an issue uh open a suggestion if you want to collaborate with code even better and yeah any kind of contribution are very welcomed and finally I'm going to leave here a few links that you can scan and learn a little bit more about the components we discussed today. And yeah, and that's all for today. Thank you very much.
+
+
+## Related keywords
+
+[[logs]] [[log]] [[collector]] [[error]] [[statements]] [[opentelemetry]] [[metrics]] [[trace]] [[pipeline]] [[sampling]] [[processor]] [[statement]]
+
+## Notes
+
+- Raw note imported from CNCF YouTube playlist. Promote durable insights to topic notes under `03-Topics/`.

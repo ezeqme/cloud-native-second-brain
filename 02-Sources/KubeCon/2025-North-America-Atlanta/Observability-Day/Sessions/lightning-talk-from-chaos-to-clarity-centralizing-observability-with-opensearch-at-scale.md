@@ -1,0 +1,54 @@
+---
+type: session
+event: "Observability Day 2025 - NA"
+year: 2025
+kind: session
+youtube_url: "https://www.youtube.com/watch?v=TQ83Z5KfEdk"
+youtube_id: "TQ83Z5KfEdk"
+playlist: "Observability Day 2025 - NA"
+playlist_id: "PLj6h78yzYM2NupzP0zYgT3dLzARalT1By"
+playlist_index: 23
+speakers: ["Ido Ziv"]
+topics: ["OpenTelemetry", "Collectors", "Tracing", "Logging", "Cost Optimization", "AI Observability"]
+keywords: ["logs", "log", "search", "spans", "cost", "collector", "zero", "pipeline", "storage", "traces", "important", "calura", "review", "gigabytes", "everything", "saving", "retention", "observability", "engineers", "single", "second", "archive", "inside", "replicas"]
+transcript_file: "_sources/transcripts/youtube-playlists/observability-day-2025-na/lightning-talk-from-chaos-to-clarity-centralizing-observability-with-opensearch-at-scale/TQ83Z5KfEdk.txt"
+transcript_chars: 7468
+status: "transcript-downloaded"
+match_score: 1.08
+---
+
+# Lightning Talk: From Chaos To Clarity: Centralizing Observability With OpenSearch at Scale - Ido Ziv
+
+## Metadata
+
+- YouTube: https://www.youtube.com/watch?v=TQ83Z5KfEdk
+- Playlist: Observability Day 2025 - NA
+- Speakers: Ido Ziv
+- Topics: [[OpenTelemetry]], [[Collectors]], [[Tracing]], [[Logging]], [[Cost Optimization]], [[AI Observability]]
+
+## Transcript
+
+All right, guys. Let's start. I only have 10 minutes. Um, yes. So, uh, gentleman on my right, can you please uh, thank you? Thank you. Thank you. >> Yes. Okay, guys. Uh, I know it's been a long day, but uh, do you know what's expensive? >> Logs and our time. Yes, logs are extremely expensive. And why is that? Because they charge you twice. First to ingest them, then again to store them. And that's before I start talking about cross region traffic, network egress, or the bill for storing months of logs that you will never open. My name is Idos. I'm from Calura in Tel Aiv. Uh I manage a team of DevOps engineers that's responsible for Calura's shared infrastructure. Calura is an AI video company. means that we have lots of storage, lots of networking, and lots of logs, obviously. And the reason I'm here today is because I'm tired of being waking in the middle of the night for service disruptions and uh getting calls from support engineers that need my help.
+
+So, let's review Calura numbers. We are deploying uh dozens and dozens of applications to six active cloud regions, ingesting 8 terabytes of logs every single day. And we have some lo some days where the numbers gets even scarier. Where six gigabytes of logs every second. Yes. Yes. Six gigabytes of log. It's every single second. So my issue started when I got calls from support engineer saying, "Hey, we are investigating a ticket for a large customer and we can't find the logs in the observability system. Please help." So now I had to talk to one of my engineers and tell them, hey, please pull the logs from the archive. They need it now. So we used a SAS provider and we didn't really like it. And we had, okay, this is time for a change. So I'll spare you the details. We chose open. As you can see, this is my architecture. You can see the uh blue the availability zones because nothing says serious architectures like availability zones.
+
+Uh we're using the master nodes that keeps everything organized. We have the data nodes for the queries and the ultra nodes. These are like where your logs go to retire search like Florida for humans. And here you see the AWS backbone that keeps our back and says we got you bro. Uh moving on. When you're building open search, you need to get started reading and doing research on industrying standards such as data streams, index state managements, ultra warm nodes and so on and so on. These features by open search allows you to manage a data life cycle that moves the data and help you keep the cost as low as possible and the data as searchable as possible. We're using fluent bit. Fluent bit is great is for log ingestion and hotel collector for traces. This is how we get the data inside. But there is one question I want to to review with you. How do you calculate the disk size? This is the most important one for us.
+
+So there are like two options or you do uh more nodes with less discs or less nodes with greater discs. The pros and cons are easy. The less nodes with greater discs means you pay less but query performance is impacted. and the other way around. So you pay a lot but then you're not saving any money and you have a lot of discs. So we kind we found the sweet spot NVMe which means no block storage discs and you can store the the data inside the node inside the node NVMe storage. It's faster, it's more reliant and you can use less node which is the most important part. You're saving money. Now let's calculate disk storage using open search. Let's assume you have 100 gigabytes of data. So you need 100 gigabytes of disk. No, you need indexing overhead. Is that enough? No, you're using Linux. So another 5%. But that's it. No open search overhead. So that brings us into a total of 145 GB for every 100 GB of logs you have.
+
+And if you're using replicas, so you need to add more and more to the calculations. We are not using replicas because it's just logs and we have the archive and we also integrated to our default template and repository. Just use zero replicas and one shards. If the application needs more than one shard, it will get it easy. Now let's review the data life cycle. This is the part most important part. Bear with me. I know it's been a long day. When you ingest logs to open search through your pipeline. Thank you. It reaches the hot nodes. These are where they're welcomed. And you're paying $1 for each logs. It's easy money, right? Easy. But you want to increase the retention. So you want to move the logs to the ultra warm. You remember Florida from the last joke. So here you're paying 10 to 15 cents for each $1. We're saving money. But bear with me. There is it gets even better. In the ultra modes, you can only search, but you can't write, which is okay.
+
+And sometimes you want to keep the logs in the archive and pull them with a click of a button when you need. Introducing cold storage. Here you're paying five to 10 cents on each dollar. You're saving a lot a lot of money. And look, I can keep the logs for up to 60 days. That is amazing. And of course, we can also ship the logs to the farm up north where we don't uh pay for them. This is the delete action. Very stable, very nice. Let's see some results in action. So this is the traces I talked about. We can take each API group, see the percentile, see how much latency, how much it took. It's all from open search from the hotel. Easy money. And now let's break those traces into spans. Each action the application did like you know contact an API, a database, whatever. Open source sees it as spends and tells you how long it took. Here you can find the bottlenecks and what's really wrong with your application and that's it.
+
+No, you can correlate them. You can correlate the spans, the traces, the logs all together to see one view where open source tell you you see this. This is your problem. Go fix it my friend. So thank you very much open search. Let's review the results it brought me. So first of all this lecture. Woohoo. Second of all the cost from the SAS rate dropped by 60%. I have 100 early adopters within my company that's asking for more and more features because they like open search and they hate their previous SAS. uh I get 90% less tickets of issues with the system because we built it right as I said ultra warm nodes and index state management and we're combining three signals traces spans and logs all together great but that's not even the biggest thing the biggest thing is the smart retention meaning that the not the logs that are most important we can keep them for up to two months but the logs that are not so important we can remove them even after a single day so it's it's everything about smart retention.
+
+And I talked a lot. I talked fast. I know that. This is my blog. You're welcome to scan it. This is the full story of how we migrated and built a full observability platform co-written with AWS. Shout out to the guys. And this is the hands-on labs provided by AWS for you to use open search. And okay, just the punch. So next time you're staring at the ballooning log bill, remember it's not about hoarding everything and it's not about deleting everything either. It's about planning smart retention. So log serves you, not the other way around. You're welcome to scan it, but thank you very much. My name is Ido. Drop the mic. If you have questions, I have like I think one minute, but if you don't have question, it's even better. I'll be here and add me on LinkedIn.
+
+
+## Related keywords
+
+[[logs]] [[log]] [[search]] [[spans]] [[cost]] [[collector]] [[zero]] [[pipeline]] [[storage]] [[traces]] [[important]] [[calura]]
+
+## Notes
+
+- Raw note imported from CNCF YouTube playlist. Promote durable insights to topic notes under `03-Topics/`.

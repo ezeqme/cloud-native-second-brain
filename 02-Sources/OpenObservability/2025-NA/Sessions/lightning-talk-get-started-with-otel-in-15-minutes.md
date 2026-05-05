@@ -1,0 +1,58 @@
+---
+type: session
+event: "Open Observability Summit + Otel Community Day NA 2025"
+year: 2025
+kind: session
+youtube_url: https://www.youtube.com/watch?v=KrbvG98sgLQ
+youtube_id: KrbvG98sgLQ
+playlist: "Open Observability Summit + Otel Community Day NA 2025"
+playlist_id: PLj6h78yzYM2NFT2PGItX2idBf7v8fHcy7
+playlist_index: 22
+speakers: ["Lisa Jung", "Grafana"]
+topics: ["OpenTelemetry", "Collectors", "Tracing", "Logging", "AI Observability"]
+keywords: ["collector", "traces", "span", "tracing", "otlp", "logs", "otel", "jerger", "pipeline", "processors", "attributes", "trace", "agent", "telemetry", "processor", "within", "sending", "resource", "instrumentation", "config", "section", "exporter", "started", "process"]
+transcript_file: _sources/transcripts/youtube-playlists/open-observability-summit-otel-community-day-na-2025/lightning-talk-get-started-with-otel-in-15-minutes/KrbvG98sgLQ.txt
+transcript_chars: 9782
+status: transcript-downloaded
+---
+
+# Lightning Talk: Get Started with OTel in 15 minutes - The JavaScript Journey - Lisa Jung, Grafana
+
+## Metadata
+
+- YouTube: https://www.youtube.com/watch?v=KrbvG98sgLQ
+- Playlist: Open Observability Summit + Otel Community Day NA 2025
+- Speakers: Lisa Jung, Grafana
+- Topics: [[OpenTelemetry]], [[Collectors]], [[Tracing]], [[Logging]], [[AI Observability]]
+
+## Transcript
+
+Thanks for coming. I assume a lot of you are getting started with hotel for the first time and that experience could be really overwhelming when you don't know where to get started. So today we're going to bypass weeks of frustration and get you started with hotel within 15 minutes. So this is what we're working with. We'll be auto instrumenting a node.js app with hotel SDK. Generated traces will be sent to the hotel collector for light processing. Then the traces will be sent to Joerger for storage and visualization. Now in our setup, Docker runs the hotel collector Joerger and Jerger side by side. And we have two project branches. So the first branch is the original setup and that's the bare bones of getting generating telemetry data uh sending it to the collector and sending it to Jerger. Afterwards we'll use a post-processing branch while we add some processors to process traces before sending it to Jerger.
+
+Now the QR code for this repo will be shared with you at the end. So don't worry about catching every detail. just focus on the big steps and we'll start by um going over the outcome of the demo and then delving into the uh the code and the collector configuration afterwards. So to run the demo, make sure you have Node.js, Docker Desktop, and Compose installed. Then you'll clone the project, install everything you need, and start the server. And to verify that the app is running, you'll go to this URL here. And when you refresh the page multiple times, it'll generate a random number from one through six, just as if you're rolling a dieice. Then you'll run theel collector and Jerger, then refresh the app page multiple times to send the traces to the old collector. And while you're doing that, take a look at the terminal that is running Docker. You'll be able to see the logs of traces that are flowing through.
+
+Next, we'll verify that the hotel collector is sending traces to the Jagger back end. So to do so, go to this URL here and you'll see the Jerger UI and when you click on the service section, you'll see all the services that are sending traces to Jerger. Now, in our setup, our service name was set to demo. So when you select that and click on find traces, you'll see all the traces that are coming from our app through the hotel collector. So when you click on one of the traces and click on its root span, you can expand the tags and process section. So the tag section shows details about what happened during a request. So it consists of span attributes such as routes, methods, and errors. And these essentially help you understand what's going on within your app. And the process section shows info about the app or service that created the trace. Now it consists of resource attributes that present info about the machine it ran on uh the command used to start it etc.
+
+Okay. So you must instrument your app to generate telemetry data and the easiest way to start is through the auto instrumentation. So to do so you'll install the following hotel packages which will come into play in your instrumentation.js and this is what your instrumentation looks like and it completes four tasks. So first task is to import the required hotel packages needed for tracing. Then it sets up an tracing system within our app by creating a new instance of the node SDK. And within it, you'll configure the tracing system to automatically generate traces and export traces to the local hotel collector. Then you'll start the tracing system to begin recording traces and sending them to the collector. Now the two things that you need to remember the instrumentation setup and config should run before your application code and the tool we use for that is the require flag and in a properly instrumented application the service name is set as an environment variable.
+
+So to meet these requirement we went to uh package.json JSON and added an app start script that set service name to demo and we use a require flag to run the instrumentation before the app. All right. So next we have the hotel collector. So you would use a collector if you wanted to alter filter or enrich the data in some way and you want to do this outside of your app so it doesn't affect your app performance. So this is the barebone um collector configuration and it consists of three components receivers, exporters and service. So let's break this down. Um so the receivers tell the collector how to receive telemetry data. So here we set up the OTLP receiver to accept telemetry data on two ports. And next we have exporters which sends out data to the OTLP compliant backends of your choice. So in our setup we have two exporters debug and OTLP for/ Jagger. So the debug exporter prints telemetry data to the console and that's what you were seeing earlier when we're running the hotel collector.
+
+Now it displays what data is flowing through the collector. So it's very useful for uh development or debugging. The other exporter is a Jerger exporter which exports traces to the Jerger back end at port 4317. Okay. Now the service component configures how the data flows inside the collector. So here we're building a pipeline for traces. So when traces are sent from the app, it's received by the OTLP receiver and the debug exporter is printing uh the logs to the con uh to the console whereas a Jerger exporter is sending traces to the Jagger back end which is why you're able to visualize the traces here. Okay. So now that we have the data flowing in the correct way, we'll process traces using the hotel collector. Now to see the outcome, you'll switch to the post-processing branch. You'll stop and restart the hotel collector and Jäger and you'll refresh the app page multiple times to send traces to the new uh newly configured hotel collector.
+
+Make sure to check the logs to uh ensure that traces are coming coming in. Then using the Jagger UI, you'll examine the new traces to verify that these are being processed correctly. All right, so let's get into the new OTEL collector configuration. So here we add three processors to the original config. These are resource, attributes, and batch processors. So this is what our config looks like where we add the processors here. Then we update the service pipeline and add the uh processors that we just added. Okay, so processors modify, filter or enrich telemetry data within the collector. So the first processor we'll go over is a resource processor which modifies metadata about the service or host. So here we're using the resource processor to insert a resource attribute called deployment.environment.name set to local. So when the traces go through the collector and we visualize it using the Jerger UI, you'll see that reflected here.
+
+Next, we'll use the same processor to delete resource attributes that contain sensitive or irrelevant information. So if you look at the old traces from the old configuration, you'll see information about the host and the processes that are running within our application. Now with a new config, we delete these attributes and you'll see that these are no longer present in our new traces. Next, we have the attributes processor which pro modifies, adds or removes span attributes. So similar to before, we'll be deleting um span attributes that contain sensitive information. So if you look at the old traces from the original config, you'll see information about the user agent and network beta uh network metadata or whatnot. Now we use a config to we use the attributes processors to delete these. So if you look at the new traces uh from the new hotel config, you'll see that these are no longer present within our traces.
+
+Now lastly, we use the batch processor to group telemetry data into batches for before exporting. So for best practice, always add a batch processor. Uh it's going to improve performance and reduce overhead and of course you you can adjust the parameters to uh serve your use case. Now lastly we have the service component and we updated this part here to include the processors that have been added. Now one important thing to note is that in this specific component you have to pay attention to the order in which the processors are listed because these are applied sequentially and the batch processor should be listed last to group the data before exporting. Okay, so now that you have the basics, here are the resources for you to delve deeper into some of the concepts that we went over. So your go-to resource should be the hotel documentation and at any point you're exploring the doc, we added an an ask AI feature.
+
+So all you have to do is just uh press command K, then it should pop up for you. Uh while it's experimental, it should help you uh point you to the right direction. Now depending on the programming language that you're working with, you'll follow a different journey. So the first place you should start is a language APIs and SDKs and um choose a language path and follow that path. Now down the road you may want to manually or customize your instrumentation in some way. So go to the doc for instrumentation for that. And of course we have a huge section dedicated to the collector alone. Now, if you want to if you prefer watching videos to learn, we have our own YouTube channel. Now, I'm creating an hotel for beginner series which will be posted there. So, I'm going to be creating videos on this talk and plus how to work with other telemetry types as well. So, stay tuned for that. And if you have any questions, you can always uh join our Slack channel and ask your questions there.
+
+Okay, as promised, here's a QR code for the project repo. Oh, one second. And that is a wrap. So, I'll be around if you have any questions, but I will turn the floor over to the next speaker. [Applause] [Music]
+
+## Related keywords
+
+[[collector]] [[traces]] [[span]] [[tracing]] [[otlp]] [[logs]] [[otel]] [[jerger]] [[pipeline]] [[processors]] [[attributes]] [[trace]]
+
+## Notes
+
+- Raw note imported from CNCF YouTube playlist. Promote durable insights to topic notes under `03-Topics/`.
