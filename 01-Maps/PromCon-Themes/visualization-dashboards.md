@@ -1,0 +1,48 @@
+# Visualization Dashboards
+
+Talks PromCon classificadas neste tema.
+
+- [[grafana-master-class|Grafana Master Class]] — PromCon 2016
+- [[graphing-mysql-performance-with-prometheus-and-grafana|Graphing MySQL Performance with Prometheus and Grafana]] — PromCon 2016
+- [[hadoop-fluentd-cluster-monitoring-with-prometheus-and-grafana|Hadoop, Fluentd Cluster Monitoring with Prometheus and Grafana]] — PromCon 2016
+- [[a-worked-example-of-monitoring-a-queue-based-application|A Worked Example of Monitoring a Queue Based Application]] — PromCon 2017
+- [[alert-on-all-the-things-integrating-quicksilver-with-prometheus|Alert on All the Things: Integrating Quicksilver with Prometheus]] — PromCon 2017
+- [[grafana-and-prometheus|Grafana and Prometheus]] — PromCon 2017
+- [[play-with-prometheus-journey-to-make-testing-in-production-more-reliable|Play with Prometheus - Journey to Make “testing in Production” More Reliable]] — PromCon 2017
+- [[prometheus-as-a-internal-service|Prometheus as a (Internal) Service]] — PromCon 2017
+- [[explore-your-prometheus-data-in-grafana|Explore Your Prometheus Data in Grafana]] — PromCon 2018
+- [[improving-reliability-through-engineering-an-easy-to-use-prometheus-based-monitoring-and-a|Improving Reliability Through Engineering an Easy-to-use Prometheus-Based Monitoring and Alerting Stack: Introducing Our Reliability Toolkit]] — PromCon 2018
+- [[lightning-talks-day-one|Lightning Talks Day One]] — PromCon 2018
+- [[lightning-talks-day-two|Lightning Talks Day Two]] — PromCon 2018
+- [[observability-and-product-release-leveraging-prometheus-for-building-and-testing-new-produ|Observability and Product Release: Leveraging Prometheus for Building and Testing New Products at Digital Ocean]] — PromCon 2018
+- [[prometheus-monitoring-mixins-using-jsonnet-to-package-together-dashboards-alerts-and-expor|Prometheus Monitoring Mixins: Using Jsonnet to Package Together Dashboards, Alerts, and Exporters]] — PromCon 2018
+- [[lightning-talks-day-two|Lightning Talks Day Two]] — PromCon EU 2019
+- [[managing-grafana-dashboards-with-grafonnet-and-git|Managing Grafana Dashboards with grafonnet and git]] — PromCon EU 2019
+- [[managing-prometheus-in-a-security-focused-environment-linux-monitoring-at-huk-coburg|Managing Prometheus in a Security-focused Environment -- Linux Monitoring at HUK-COBURG]] — PromCon EU 2019
+- [[prometheus-and-jaeger-a-match-made-in-heaven|Prometheus and Jaeger: A Match Made in Heaven!]] — PromCon EU 2019
+- [[prometheus-at-prezi-replacing-10-years-of-anti-patterns|Prometheus at Prezi: Replacing 10 Years of Anti-patterns]] — PromCon EU 2019
+- [[prometheus-in-small-and-medium-businesses-why-you-dont-need-to-do-rocket-science-kubernete|Prometheus in Small and Medium Businesses: Why You Don't Need to Do Rocket Science (Kubernetes) to Use It]] — PromCon EU 2019
+- [[breakout-sessions|Breakout Sessions]] — PromCon Online 2020
+- [[anatomy-of-a-slow-query-and-lessons-learned-building-query-acceleration-techniques|Anatomy of a Slow Query, and Lessons Learned Building Query Acceleration Techniques]] — PromCon EU 2022
+- [[out-of-order-support-in-prometheus|Out Of Order Support in Prometheus]] — PromCon EU 2022
+- [[tamland-how-gitlab-com-uses-long-term-monitoring-data-for-capacity-forecasting|Tamland: How GitLab.Com Uses Long-Term Monitoring Data For Capacity Forecasting]] — PromCon EU 2022
+- [[alert-analysis-as-a-service|Alert Analysis as a Service]] — PromCon EU 2023
+- [[finding-useless-and-resource-hungry-prometheus-metrics|Finding useless and resource-hungry Prometheus metrics]] — PromCon EU 2023
+- [[metrics-explorer-a-tool-used-to-learn-about-prometheus-gain-insight-into-metrics-and-searc|Metrics Explorer: A tool used to learn about Prometheus, gain insight into metrics and search metrics dynamically]] — PromCon EU 2023
+- [[perses-the-cncf-candidate-for-observability-visualisation|Perses: The CNCF candidate for observability visualisation]] — PromCon EU 2023
+- [[planet-scale-monitoring-handling-billions-of-active-series-with-prometheus-and-thanos|Planet scale monitoring: Handling billions of active series with Prometheus and Thanos]] — PromCon EU 2023
+- [[using-green-metrics-to-monitor-your-carbon-footprint|Using Green Metrics to Monitor your Carbon Footprint]] — PromCon EU 2023
+- [[wheres-your-money-going-the-beginners-guide-to-measuring-kubernetes-costs|Where's your money going? The Beginners Guide To Measuring Kubernetes Costs]] — PromCon EU 2023
+- [[zero-code-application-metrics-with-ebpf-and-prometheus|Zero-code application metrics with eBPF and Prometheus]] — PromCon EU 2023
+- [[agile-monitoring-at-scale-with-thanos|Agile Monitoring At Scale With Thanos]] — PromCon EU 2024
+- [[applying-gitops-principles-for-central-alert-management|Applying GitOps principles for central alert management]] — PromCon EU 2024
+- [[meet-the-new-kid-in-the-sandbox-integrating-visualization-with-prometheus|Meet the New Kid in the Sandbox - Integrating Visualization with Prometheus]] — PromCon EU 2024
+- [[practical-anomaly-detection-at-scale-with-promql|Practical Anomaly detection at scale with PromQL]] — PromCon EU 2024
+- [[shopifys-journey-from-conventional-to-native-histograms|Shopify's journey from conventional to native histograms]] — PromCon EU 2024
+- [[auto-generated-coherent-observability|Auto-generated coherent Observability]] — PromCon EU 2025
+- [[beyond-tsdb-unlocking-prometheus-with-parquet-for-modern-scale|Beyond TSDB: Unlocking Prometheus with Parquet for Modern Scale]] — PromCon EU 2025
+- [[debugging-the-pipeline-observability-for-your-observability-with-otel-prometheus|Debugging the Pipeline: Observability for Your Observability with OTel + Prometheus]] — PromCon EU 2025
+- [[from-logs-to-metrics-opensearchs-prometheus-support-with-agentic-ai-and-natural-language-t|From Logs to Metrics: OpenSearch's Prometheus support with Agentic AI and Natural Language to PromQL]] — PromCon EU 2025
+- [[no-jsonnet-no-problem-prometheus-in-perses-powered-by-go|No Jsonnet? No Problem! Prometheus in Perses, Powered by Go]] — PromCon EU 2025
+- [[reverse-engineering-promql-usage-a-proxys-tale|Reverse-Engineering PromQL Usage: A Proxy’s Tale]] — PromCon EU 2025
+- [[saafe-a-prioritized-alerting-model-to-troubleshoot-your-incidents|SAAFE - A prioritized alerting model to troubleshoot your incidents]] — PromCon EU 2025

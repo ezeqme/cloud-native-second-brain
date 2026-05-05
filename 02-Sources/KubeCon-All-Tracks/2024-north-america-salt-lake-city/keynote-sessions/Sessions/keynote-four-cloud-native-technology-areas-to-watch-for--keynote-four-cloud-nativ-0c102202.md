@@ -1,0 +1,42 @@
+---
+type: kubecon-session
+event: "KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States"
+event_id: kccncna2024
+year: 2024
+region: "North America"
+city: "Salt Lake City"
+country: "United States"
+event_date: "2024-11-12/2024-11-15"
+track: "Keynote Sessions"
+themes: ["Community Governance"]
+speakers: ["Lin Sun", "Head of Open Source", "Solo.io", "Karena Angell", "Chief Architect", "Red Hat"]
+sched_url: https://kccncna2024.sched.com/event/1iCTK/keynote-four-cloud-native-technology-areas-to-watch-for-lin-sun-head-of-open-source-soloio-karena-angell-chief-architect-red-hat
+youtube_search_url: https://www.youtube.com/results?search_query=Keynote%3A+Four+Cloud+Native+Technology+Areas+to+Watch+For+CNCF+KubeCon+2024
+slides: []
+status: parsed
+---
+
+# Keynote: Four Cloud Native Technology Areas to Watch For - Lin Sun, Head of Open Source, Solo.io & Karena Angell, Chief Architect, Red Hat
+
+## Identificação
+
+- Edição: KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States
+- Trilha oficial: [[Keynote Sessions]]
+- Temas: [[Community Governance]]
+- País/cidade: United States / Salt Lake City
+- Speakers: Lin Sun, Head of Open Source, Solo.io, Karena Angell, Chief Architect, Red Hat
+- Schedule: https://kccncna2024.sched.com/event/1iCTK/keynote-four-cloud-native-technology-areas-to-watch-for-lin-sun-head-of-open-source-soloio-karena-angell-chief-architect-red-hat
+- Busca YouTube: https://www.youtube.com/results?search_query=Keynote%3A+Four+Cloud+Native+Technology+Areas+to+Watch+For+CNCF+KubeCon+2024
+
+## Resumo
+
+Sessão da KubeCon sobre Keynote: Four Cloud Native Technology Areas to Watch For.
+
+## Descrição oficial
+
+_Descrição oficial não encontrada._
+
+## Links
+
+- Schedule oficial: https://kccncna2024.sched.com/event/1iCTK/keynote-four-cloud-native-technology-areas-to-watch-for-lin-sun-head-of-open-source-soloio-karena-angell-chief-architect-red-hat
+- YouTube search: https://www.youtube.com/results?search_query=Keynote%3A+Four+Cloud+Native+Technology+Areas+to+Watch+For+CNCF+KubeCon+2024

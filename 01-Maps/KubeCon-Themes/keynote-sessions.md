@@ -1,0 +1,101 @@
+# Keynote Sessions
+
+Sessões KubeCon classificadas neste tema.
+
+- [[friday-keynote-sessions--friday-keynote-sessions-442463ee|Friday Keynote Sessions]] — KubeCon + CloudNativeCon Europe 2021 - Virtual, Virtual / Keynote Sessions
+- [[keynote-6-end-users-and-what-they-love-about-cloud-native--keynote-6-end-users-and-859c4f86|Keynote: 6 End Users and What They Love about Cloud Native]] — KubeCon + CloudNativeCon Europe 2021 - Virtual, Virtual / Keynote Sessions
+- [[keynote-cloud-native-the-building-blocks-for-the-human-experienc--keynote-cloud-native-the-0d0241aa|Keynote: Cloud Native: The Building Blocks for the Human Experience]] — KubeCon + CloudNativeCon Europe 2021 - Virtual, Virtual / Keynote Sessions
+- [[keynote-risc-v-the-lowest-layer-of-the-cloud-native-landscape--keynote-risc-v-the-lowes-0395374a|Keynote: RISC-V: The Lowest Layer of the Cloud-Native Landscape]] — KubeCon + CloudNativeCon Europe 2021 - Virtual, Virtual / Keynote Sessions
+- [[sponsored-keynote-a-mesh-has-immense-psychological-value--sponsored-keynote-a-mesh-a950b91c|Sponsored Keynote: A Mesh has Immense Psychological Value]] — KubeCon + CloudNativeCon Europe 2021 - Virtual, Virtual / Keynote Sessions
+- [[thursday-keynote-sessions--thursday-keynote-session-86702f1d|Thursday Keynote Sessions]] — KubeCon + CloudNativeCon Europe 2021 - Virtual, Virtual / Keynote Sessions
+- [[wednesday-keynote-sessions--wednesday-keynote-sessio-5b5e4ccb|Wednesday Keynote Sessions]] — KubeCon + CloudNativeCon Europe 2021 - Virtual, Virtual / Keynote Sessions
+- [[friday-keynote-sessions--friday-keynote-sessions-d9e1e382|Friday Keynote Sessions]] — KubeCon + CloudNativeCon North America 2021 - Los Angeles, United States / Keynote Sessions
+- [[thursday-keynote-sessions--thursday-keynote-session-fadd47bb|Thursday Keynote Sessions]] — KubeCon + CloudNativeCon North America 2021 - Los Angeles, United States / Keynote Sessions
+- [[wednesday-keynote-sessions--wednesday-keynote-sessio-8413be80|Wednesday Keynote Sessions]] — KubeCon + CloudNativeCon North America 2021 - Los Angeles, United States / Keynote Sessions
+- [[end-user-awards--end-user-awards-2a1fbdf0|End User Awards]] — KubeCon + CloudNativeCon Europe 2022 - Valencia, Spain / Keynote Sessions
+- [[keynote-exploring-the-frontiers-of-cloud-native--keynote-exploring-the-fr-956e4bbf|Keynote: Exploring the Frontiers of Cloud Native]] — KubeCon + CloudNativeCon Europe 2022 - Valencia, Spain / Keynote Sessions
+- [[keynote-welcome-opening-remarks--keynote-welcome-opening-62a11385|Keynote: Welcome + Opening Remarks]] — KubeCon + CloudNativeCon Europe 2022 - Valencia, Spain / Keynote Sessions
+- [[keynote-a-cloud-native-swiss-knife--keynote-a-cloud-native-s-87849d81|Keynote: A Cloud Native Swiss Knife]] — KubeCon + CloudNativeCon North America 2022 - Detroit, United States / Keynote Sessions
+- [[keynote-a-glimpse-into-the-future-of-cloud-native-emergent-infra--keynote-a-glimpse-into-t-2694bcca|Keynote: A Glimpse Into the Future of Cloud Native: Emergent Infrastructure]] — KubeCon + CloudNativeCon North America 2022 - Detroit, United States / Keynote Sessions
+- [[keynote-ci-cd-isnt-reserved-for-software--keynote-cicd-isnt-reserv-0e7e0f26|Keynote: CI/CD Isn't Reserved for Software!]] — KubeCon + CloudNativeCon North America 2022 - Detroit, United States / Keynote Sessions
+- [[keynote-from-silicon-to-serverless-a-full-stack-journey--keynote-from-silicon-to-74bcb990|Keynote: From Silicon to Serverless: A Full Stack Journey]] — KubeCon + CloudNativeCon North America 2022 - Detroit, United States / Keynote Sessions
+- [[keynote-welcome-opening-remarks--keynote-welcome-opening-c43ca081|Keynote: Welcome + Opening Remarks]] — KubeCon + CloudNativeCon North America 2022 - Detroit, United States / Keynote Sessions
+- [[keynote-what-its-like-to-bring-devops-to-a-software-factory-in-c--keynote-what-its-like-to-6e60cf98|Keynote: What It's Like to Bring DevOps to a Software Factory in Central America]] — KubeCon + CloudNativeCon North America 2022 - Detroit, United States / Keynote Sessions
+- [[keynote-cncf-graduated-project-updates--keynote-cncf-graduated-p-9ab53cb4|Keynote: CNCF Graduated Project Updates]] — KubeCon + CloudNativeCon Europe 2023 - Amsterdam, Netherlands / Keynote Sessions
+- [[keynote-cncf-incubating-project-updates--keynote-cncf-incubating-d2fbd9ff|Keynote: CNCF Incubating Project Updates]] — KubeCon + CloudNativeCon Europe 2023 - Amsterdam, Netherlands / Keynote Sessions
+- [[keynote-cappucci-know-percolating-eu-end-user-insights-in-the-cl--keynote-cappucci-know-pe-fc4b9a2f|Keynote: Cappucci-Know: Percolating EU End User Insights in the Cloud Native Café]] — KubeCon + CloudNativeCon Europe 2023 - Amsterdam, Netherlands / Keynote Sessions
+- [[keynote-closing-remarks--keynote-closing-remarks-3deeed09|Keynote: Closing Remarks]] — KubeCon + CloudNativeCon Europe 2023 - Amsterdam, Netherlands / Keynote Sessions
+- [[keynote-closing-remarks--keynote-closing-remarks-fa61b350|Keynote: Closing Remarks]] — KubeCon + CloudNativeCon Europe 2023 - Amsterdam, Netherlands / Keynote Sessions
+- [[keynote-closing-remarks--keynote-closing-remarks-bd024a20|Keynote: Closing Remarks]] — KubeCon + CloudNativeCon Europe 2023 - Amsterdam, Netherlands / Keynote Sessions
+- [[keynote-opening-remarks--keynote-opening-remarks-b519052e|Keynote: Opening Remarks]] — KubeCon + CloudNativeCon Europe 2023 - Amsterdam, Netherlands / Keynote Sessions
+- [[keynote-top-end-user-award--keynote-top-end-user-awa-069529e1|Keynote: Top End User Award]] — KubeCon + CloudNativeCon Europe 2023 - Amsterdam, Netherlands / Keynote Sessions
+- [[keynote-tulips-terabytes-and-transformations-blooming-innovation--keynote-tulips-terabytes-9f18ea91|Keynote: Tulips, Terabytes, and Transformations: Blooming Innovations in the Cloud Native Garden]] — KubeCon + CloudNativeCon Europe 2023 - Amsterdam, Netherlands / Keynote Sessions
+- [[keynote-welcome-opening-remarks--keynote-welcome-opening-f7d499ca|Keynote: Welcome + Opening Remarks]] — KubeCon + CloudNativeCon Europe 2023 - Amsterdam, Netherlands / Keynote Sessions
+- [[keynote-architecting-your-future-the-cloud-native-way--keynote-architecting-you-71749557|Keynote: Architecting Your Future the Cloud Native Way!]] — KubeCon + CloudNativeCon North America 2023 - Chicago, United States / Keynote Sessions
+- [[keynote-awards-ceremony--keynote-awards-ceremony-f4aca469|Keynote: Awards Ceremony]] — KubeCon + CloudNativeCon North America 2023 - Chicago, United States / Keynote Sessions
+- [[keynote-cncf-graduated-project-updates--keynote-cncf-graduated-p-456d6cbc|Keynote: CNCF Graduated Project Updates]] — KubeCon + CloudNativeCon North America 2023 - Chicago, United States / Keynote Sessions
+- [[keynote-closing-remarks--keynote-closing-remarks-84f5f4b0|Keynote: Closing Remarks]] — KubeCon + CloudNativeCon North America 2023 - Chicago, United States / Keynote Sessions
+- [[keynote-closing-remarks--keynote-closing-remarks-085121a8|Keynote: Closing Remarks]] — KubeCon + CloudNativeCon North America 2023 - Chicago, United States / Keynote Sessions
+- [[keynote-closing-remarks--keynote-closing-remarks-8a2a202a|Keynote: Closing Remarks]] — KubeCon + CloudNativeCon North America 2023 - Chicago, United States / Keynote Sessions
+- [[keynote-hot-dog-the-technical-oversight-committee-is-on-a-roll--keynote-hot-dog-the-tech-20d12eff|Keynote: Hot Dog! The Technical Oversight Committee is on a Roll!]] — KubeCon + CloudNativeCon North America 2023 - Chicago, United States / Keynote Sessions
+- [[keynote-incubating-project-updates--keynote-incubating-proje-1153cd05|Keynote: Incubating Project Updates]] — KubeCon + CloudNativeCon North America 2023 - Chicago, United States / Keynote Sessions
+- [[keynote-opening-remarks--keynote-opening-remarks-4800ac2e|Keynote: Opening Remarks]] — KubeCon + CloudNativeCon North America 2023 - Chicago, United States / Keynote Sessions
+- [[keynote-opening-remarks--keynote-opening-remarks-944ad56d|Keynote: Opening Remarks]] — KubeCon + CloudNativeCon North America 2023 - Chicago, United States / Keynote Sessions
+- [[keynote-united-in-the-cloud-where-inclusion-winds-around-the-wor--keynote-united-in-the-cl-8b9117b8|Keynote: United In The Cloud: Where Inclusion 'Winds' Around The World]] — KubeCon + CloudNativeCon North America 2023 - Chicago, United States / Keynote Sessions
+- [[keynote-welcome-opening-remarks--keynote-welcome-opening-67a9c49e|Keynote: Welcome + Opening Remarks]] — KubeCon + CloudNativeCon North America 2023 - Chicago, United States / Keynote Sessions
+- [[keynote-windy-city-whirlwind-stirring-up-the-cloud-native-ecosys--keynote-windy-city-whirl-591a5bc6|Keynote: Windy City Whirlwind: Stirring Up the Cloud Native Ecosystem]] — KubeCon + CloudNativeCon North America 2023 - Chicago, United States / Keynote Sessions
+- [[sponsored-keynote-orchestrating-innovation-how-we-keep-the-music--sponsored-keynote-orches-597cf605|Sponsored Keynote: Orchestrating Innovation: How We Keep the Music Going with API Enhancements]] — KubeCon + CloudNativeCon North America 2023 - Chicago, United States / Keynote Sessions
+- [[keynote-awards-ceremony--keynote-awards-ceremony-4e5d38e9|Keynote: Awards Ceremony]] — KubeCon + CloudNativeCon Europe 2024 - Paris, France / Keynote Sessions
+- [[keynote-closing-remarks--keynote-closing-remarks-3f473d7e|Keynote: Closing Remarks]] — KubeCon + CloudNativeCon Europe 2024 - Paris, France / Keynote Sessions
+- [[keynote-closing-remarks--keynote-closing-remarks-82b38cdc|Keynote: Closing Remarks]] — KubeCon + CloudNativeCon Europe 2024 - Paris, France / Keynote Sessions
+- [[keynote-closing-remarks--keynote-closing-remarks-7621ccc3|Keynote: Closing Remarks]] — KubeCon + CloudNativeCon Europe 2024 - Paris, France / Keynote Sessions
+- [[keynote-cloud-native-hacks-winner-announcement--keynote-cloud-native-hac-4f464aef|Keynote: Cloud Native Hacks Winner Announcement]] — KubeCon + CloudNativeCon Europe 2024 - Paris, France / Keynote Sessions
+- [[keynote-graduated-project-updates--keynote-graduated-projec-5bdfd943|Keynote: Graduated Project Updates]] — KubeCon + CloudNativeCon Europe 2024 - Paris, France / Keynote Sessions
+- [[keynote-opening-remarks--keynote-opening-remarks-e9f26f3e|Keynote: Opening Remarks]] — KubeCon + CloudNativeCon Europe 2024 - Paris, France / Keynote Sessions
+- [[keynote-opening-remarks--keynote-opening-remarks-a9def0a7|Keynote: Opening Remarks]] — KubeCon + CloudNativeCon Europe 2024 - Paris, France / Keynote Sessions
+- [[keynote-success-not-guaranteed--keynote-success-not-guar-e23b5b2c|Keynote: Success Not Guaranteed]] — KubeCon + CloudNativeCon Europe 2024 - Paris, France / Keynote Sessions
+- [[keynote-welcome-opening-remarks--keynote-welcome-opening-9f008e8a|Keynote: Welcome + Opening Remarks]] — KubeCon + CloudNativeCon Europe 2024 - Paris, France / Keynote Sessions
+- [[keynote-hip-hip-beret-no-cap-just-cloud-native-facts--keynote-hip-hip-beret-no-387a46dd|Keynote: 🇫🇷 Hip, Hip, Beret! No Cap, Just Cloud Native Facts]] — KubeCon + CloudNativeCon Europe 2024 - Paris, France / Keynote Sessions
+- [[sponsored-keynote-a-cloud-native-overture-to-enterprise-end-user--sponsored-keynote-a-clou-fef3c8ed|Sponsored Keynote: A Cloud Native Overture to Enterprise End User Adoption]] — KubeCon + CloudNativeCon Europe 2024 - Paris, France / Keynote Sessions
+- [[keynote-awards-ceremony--keynote-awards-ceremony-81bf76d8|Keynote: Awards Ceremony]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Keynote Sessions
+- [[keynote-closing-remarks--keynote-closing-remarks-cbf10ad6|Keynote: Closing Remarks]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Keynote Sessions
+- [[keynote-closing-remarks--keynote-closing-remarks-116413ba|Keynote: Closing Remarks]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Keynote Sessions
+- [[keynote-closing-remarks--keynote-closing-remarks-2847f609|Keynote: Closing Remarks]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Keynote Sessions
+- [[keynote-graduated-project-updates--keynote-graduated-projec-a8667942|Keynote: Graduated Project Updates]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Keynote Sessions
+- [[keynote-opening-remarks--keynote-opening-remarks-2db41bc6|Keynote: Opening Remarks]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Keynote Sessions
+- [[sponsored-keynote-application-developments-great-cloud-native-di--sponsored-keynote-applic-a26bf951|Sponsored Keynote: Application Development’s Great Cloud Native Disruption]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Keynote Sessions
+- [[keynote-closing-remarks--keynote-closing-remarks-48c9822e|Keynote: Closing Remarks]] — KubeCon + CloudNativeCon China 2025 - Hong Kong, China / Keynote Sessions
+- [[keynote-closing-remarks--keynote-closing-remarks-6c84beef|Keynote: Closing Remarks]] — KubeCon + CloudNativeCon China 2025 - Hong Kong, China / Keynote Sessions
+- [[keynote-crossplane-is-the-answer-but-what-is-the-question--keynote-crossplane-is-th-c02d8934|Keynote: Crossplane Is the Answer! but What Is the Question?]] — KubeCon + CloudNativeCon China 2025 - Hong Kong, China / Keynote Sessions
+- [[keynote-welcome-back-opening-remarks--keynote-welcome-back-ope-eab89f8d|Keynote: Welcome Back + Opening Remarks]] — KubeCon + CloudNativeCon China 2025 - Hong Kong, China / Keynote Sessions
+- [[keynote-who-owns-your-pod-observing-and-blocking-unwanted-behavi--keynote-who-owns-your-po-b106c1f0|Keynote: Who Owns Your Pod? Observing and Blocking Unwanted Behavior at eBay With eBPF]] — KubeCon + CloudNativeCon China 2025 - Hong Kong, China / Keynote Sessions
+- [[keynote-221b-cloud-native-street--keynote-221b-cloud-nativ-3d261d25|Keynote: 221B Cloud Native Street]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Keynote Sessions
+- [[keynote-awards-ceremony--keynote-awards-ceremony-d3d284dc|Keynote: Awards Ceremony]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Keynote Sessions
+- [[keynote-closing-remarks--keynote-closing-remarks-a47f6fb4|Keynote: Closing Remarks]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Keynote Sessions
+- [[keynote-closing-remarks--keynote-closing-remarks-6aac0b6d|Keynote: Closing Remarks]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Keynote Sessions
+- [[keynote-closing-remarks--keynote-closing-remarks-9d70a649|Keynote: Closing Remarks]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Keynote Sessions
+- [[keynote-cloud-native-evolution-in-telecom-5g-6g-and-beyond--keynote-cloud-native-evo-decc7333|Keynote: Cloud Native Evolution in Telecom : 5G, 6G and Beyond!]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Keynote Sessions
+- [[keynote-cutting-through-the-fog-clarifying-cra-compliance-in-clo--keynote-cutting-through-1279cbc8|Keynote: Cutting Through the Fog: Clarifying CRA Compliance in Cloud Native]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Keynote Sessions
+- [[keynote-mind-the-gap-bridging-cloud-native-innovation-with-real--keynote-mind-the-gap-bri-776981a7|Keynote: Mind the Gap: Bridging Cloud Native Innovation with Real-World Use]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Keynote Sessions
+- [[keynote-science-at-light-speed-cloud-native-infrastructure-for-a--keynote-science-at-light-ecfe572a|Keynote: Science at Light Speed: Cloud Native Infrastructure for Astronomy Workloads]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Keynote Sessions
+- [[keynote-welcome-opening-remarks--keynote-welcome-opening-46d83095|Keynote: Welcome + Opening Remarks]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Keynote Sessions
+- [[keynote-welcome-back-opening-remarks--keynote-welcome-back-ope-d4efa31f|Keynote: Welcome Back + Opening Remarks]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Keynote Sessions
+- [[keynote-welcome-back-opening-remarks--keynote-welcome-back-ope-0de2bc3a|Keynote: Welcome Back + Opening Remarks]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Keynote Sessions
+- [[keynote-awards-ceremony--keynote-awards-ceremony-dfb8e166|Keynote: Awards Ceremony]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Keynote Sessions
+- [[keynote-closing-remarks--keynote-closing-remarks-795b179a|Keynote: Closing Remarks]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Keynote Sessions
+- [[keynote-closing-remarks--keynote-closing-remarks-ae198969|Keynote: Closing Remarks]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Keynote Sessions
+- [[keynote-closing-remarks--keynote-closing-remarks-256c72f6|Keynote: Closing Remarks]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Keynote Sessions
+- [[keynote-welcome-opening-remarks--keynote-welcome-opening-9b80cf24|Keynote: Welcome + Opening Remarks]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Keynote Sessions
+- [[keynote-welcome-back-opening-remarks--keynote-welcome-back-ope-b5c110a6|Keynote: Welcome Back + Opening Remarks]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Keynote Sessions
+- [[keynote-welcome-back-opening-remarks--keynote-welcome-back-ope-dd09533c|Keynote: Welcome Back + Opening Remarks]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Keynote Sessions
+- [[sponsored-keynote-universal-mesh-simplifying-modern-connectivity--sponsored-keynote-univer-57048ccf|Sponsored Keynote: Universal Mesh: Simplifying Modern Connectivity]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Keynote Sessions
+- [[keynote-awards-ceremony--keynote-awards-ceremony-7239bd24|Keynote: Awards Ceremony]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Keynote Sessions
+- [[keynote-building-a-sovereign-multi-cloud-strategy-with-cloud-nat--keynote-building-a-sover-1d830900|Keynote: Building a Sovereign, Multi-Cloud Strategy with Cloud Native Technologies]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Keynote Sessions
+- [[keynote-closing-remarks--keynote-closing-remarks-4b63234b|Keynote: Closing Remarks]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Keynote Sessions
+- [[keynote-closing-remarks--keynote-closing-remarks-dba68a67|Keynote: Closing Remarks]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Keynote Sessions
+- [[keynote-closing-remarks--keynote-closing-remarks-71299e3c|Keynote: Closing Remarks]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Keynote Sessions
+- [[keynote-cloud-native-in-europe-regulation-sovereignty-and-the-fu--keynote-cloud-native-in-393ed2e1|Keynote: Cloud Native in Europe: Regulation, Sovereignty, and the Future of Open Collaboration]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Keynote Sessions
+- [[keynote-live-demo-showcase--keynote-live-demo-showca-297c96f5|Keynote: Live Demo Showcase]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Keynote Sessions
+- [[keynote-the-cloud-native-feedback-loop-how-end-users-and-develop--keynote-the-cloud-native-c9b18165|Keynote: The Cloud Native Feedback Loop: How End Users and Developers Drive CNCF Projects Forward]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Keynote Sessions
+- [[keynote-welcome-opening-remarks--keynote-welcome-opening-165cf3dc|Keynote: Welcome + Opening Remarks]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Keynote Sessions
+- [[keynote-welcome-back-opening-remarks--keynote-welcome-back-ope-90760042|Keynote: Welcome Back + Opening Remarks]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Keynote Sessions

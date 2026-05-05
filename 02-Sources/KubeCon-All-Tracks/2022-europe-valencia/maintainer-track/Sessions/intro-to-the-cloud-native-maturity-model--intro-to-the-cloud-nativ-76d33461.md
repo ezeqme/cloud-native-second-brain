@@ -1,0 +1,58 @@
+---
+type: kubecon-session
+event: "KubeCon + CloudNativeCon Europe 2022 - Valencia, Spain"
+event_id: kccnceu2022
+year: 2022
+region: "Europe"
+city: "Valencia"
+country: "Spain"
+event_date: "2022-05-16/2022-05-20"
+track: "Maintainer Track"
+themes: ["AI ML", "Community Governance"]
+speakers: ["Danielle Cook", "Fairwinds", "Simon Forster", "Stakegy", "Robbie Glenn", "John Forman", "Accenture"]
+sched_url: https://kccnceu2022.sched.com/event/ytpQ/intro-to-the-cloud-native-maturity-model-danielle-cook-fairwinds-simon-forster-stakegy-robbie-glenn-john-forman-accenture
+youtube_search_url: https://www.youtube.com/results?search_query=Intro+to+the+Cloud+Native+Maturity+Model+CNCF+KubeCon+2022
+slides: []
+status: parsed
+---
+
+# Intro to the Cloud Native Maturity Model - Danielle Cook, Fairwinds; Simon Forster, Stakegy; Robbie Glenn & John Forman, Accenture
+
+## Identificação
+
+- Edição: KubeCon + CloudNativeCon Europe 2022 - Valencia, Spain
+- Trilha oficial: [[Maintainer Track]]
+- Temas: [[AI ML]], [[Community Governance]]
+- País/cidade: Spain / Valencia
+- Speakers: Danielle Cook, Fairwinds, Simon Forster, Stakegy, Robbie Glenn, John Forman, Accenture
+- Schedule: https://kccnceu2022.sched.com/event/ytpQ/intro-to-the-cloud-native-maturity-model-danielle-cook-fairwinds-simon-forster-stakegy-robbie-glenn-john-forman-accenture
+- Busca YouTube: https://www.youtube.com/results?search_query=Intro+to+the+Cloud+Native+Maturity+Model+CNCF+KubeCon+2022
+
+## Resumo
+
+Sessão da KubeCon sobre Intro to the Cloud Native Maturity Model.
+
+## Descrição oficial
+
+_Descrição oficial não encontrada._
+
+## Links
+
+- Schedule oficial: https://kccnceu2022.sched.com/event/ytpQ/intro-to-the-cloud-native-maturity-model-danielle-cook-fairwinds-simon-forster-stakegy-robbie-glenn-john-forman-accenture
+- YouTube search: https://www.youtube.com/results?search_query=Intro+to+the+Cloud+Native+Maturity+Model+CNCF+KubeCon+2022
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=RRqZkNZW9Zc
+- YouTube title: Lighting talk: Intro to the CNCF Cloud Native Maturity Model
+- Match score: 0.888
+- Transcript file: _sources/transcripts/youtube-enriched/kubecon/2022/intro-to-the-cloud-native-maturity-model/RRqZkNZW9Zc.txt
+- Transcript chars: 3641
+- Keywords: maturity, native, working, stages, together, models, putting, landscape, looked, application, trying, happening, improving, lightning, resources, involved, majority, cartographist
+
+### Resumo baseado na transcript
+
+so I'm going to do a very very quick uh intro to the cloud native majority model so the cloud native maturity model is something that was put together by the cartographist working group so um this is a group with and the names are here I was part of it as well as Simon Forster John Foreman Robert Glenn and we took a bunch of maturity models that we had all worked on and put them together into one place and off donated it to the cncf so it
+
+### Excerpt da transcript
+
+so I'm going to do a very very quick uh intro to the cloud native majority model so the cloud native maturity model is something that was put together by the cartographist working group so um this is a group with and the names are here I was part of it as well as Simon Forster John Foreman Robert Glenn and we took a bunch of maturity models that we had all worked on and put them together into one place and off donated it to the cncf so it is the cncf project we work under that and it's something that um that you know we're helping we're putting it out there to provide to end users and adopters is way to navigate the cncf landscape because it is a lot it can be confusing and um and it's here to like help people along that so you know why we did this as you can see like when you go on to the interactive landscape there's a lot of different companies there's a lot of Open Source Technologies and it's like what do you do next so what we've done is we went through these common themes of these maturity models and pulled out some key areas we looked at what people need to be doing at every stage of your maturity with kubernetes we looked at the processes that you need to be putting in place different policies technology that you're going to adopt and use at various different levels and then also like what are the business outcomes you should be expecting along the way so there are five main stages for the maturity model and it starts from like you've already decided that you know before you enter this you're going Cloud native you're adopting kubernetes so like what next so at that point you know it's the five stages we have the first stage which is all about building and this is where your pre-production this is where you're kind of maybe using one application not many and trying to decide you know what you're gonna do maybe you're running a proof of concept that's all in the first stage then you move into operation where you are moving to production and we do say in the maturity model it's probably one application you're doing this for you're not going to do all of them in one go um and you know you're trying out what's happening As you move on you're going to start to scale in the third phase and that's where you maybe roll this out across more applications you have more users um and then in four and five it's all about improving so improving your security that you've chosen maybe revisiting some decisions made earlier that's really stage five so throughout th

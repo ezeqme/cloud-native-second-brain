@@ -1,0 +1,624 @@
+[
+  {
+    "title": "Observability Day | Welcome + Opening Remarks",
+    "href": "event/2DYMy/observability-day-welcome-+-opening-remarks",
+    "sched_url": "https://colocatedeventseu2026.sched.com/event/2DYMy/observability-day-welcome-+-opening-remarks",
+    "room": "Forum (Ground Floor)",
+    "slug": "observability-day-welcome-opening-remarks",
+    "kind": "remarks",
+    "speakers": [],
+    "topics": [
+      "Observability"
+    ],
+    "youtube_id": "o6vgkTc3BOc",
+    "youtube_title": "Welcome/Opening Remarks",
+    "youtube_url": "https://www.youtube.com/watch?v=o6vgkTc3BOc",
+    "match_score": 1.0,
+    "transcript_file": "_sources/transcripts/observability-day-welcome-opening-remarks/o6vgkTc3BOc.txt",
+    "note_file": "02-Sources/KubeCon/2026-Europe-Amsterdam/Observability-Day/Sessions/observability-day-welcome-opening-remarks.md",
+    "status": "transcript-downloaded"
+  },
+  {
+    "title": "Observability Project Updates",
+    "href": "event/2DYN7/observability-project-updates",
+    "sched_url": "https://colocatedeventseu2026.sched.com/event/2DYN7/observability-project-updates",
+    "room": "Forum (Ground Floor)",
+    "slug": "observability-project-updates",
+    "kind": "project-update",
+    "speakers": [],
+    "topics": [
+      "Observability"
+    ],
+    "youtube_id": "GWjBlXMC0MA",
+    "youtube_title": "Observability Project Updates",
+    "youtube_url": "https://www.youtube.com/watch?v=GWjBlXMC0MA",
+    "match_score": 1.08,
+    "transcript_file": "_sources/transcripts/observability-project-updates/GWjBlXMC0MA.txt",
+    "note_file": "02-Sources/KubeCon/2026-Europe-Amsterdam/Observability-Day/Sessions/observability-project-updates.md",
+    "status": "transcript-downloaded"
+  },
+  {
+    "title": "⚡Lightning Talk: The Meta Trick: Connecting Page Load To Backend Traces - Wolfgang Therrien, Honeycomb",
+    "href": "event/2DY1n/cllightning-talk-the-meta-trick-connecting-page-load-to-backend-traces-wolfgang-therrien-honeycomb",
+    "sched_url": "https://colocatedeventseu2026.sched.com/event/2DY1n/cllightning-talk-the-meta-trick-connecting-page-load-to-backend-traces-wolfgang-therrien-honeycomb",
+    "room": "Forum (Ground Floor)",
+    "slug": "lightning-talk-the-meta-trick-connecting-page-load-to-backend-traces",
+    "kind": "lightning-talk",
+    "speakers": [
+      "Wolfgang Therrien",
+      "Honeycomb"
+    ],
+    "topics": [
+      "Tracing"
+    ],
+    "youtube_id": "tucP7bhlPYU",
+    "youtube_title": "Lightning Talk: The Meta Trick: Connecting Page Load To Backend Traces - Wolfgang Therrien",
+    "youtube_url": "https://www.youtube.com/watch?v=tucP7bhlPYU",
+    "match_score": 0.843,
+    "transcript_file": "_sources/transcripts/lightning-talk-the-meta-trick-connecting-page-load-to-backend-traces/tucP7bhlPYU.txt",
+    "note_file": "02-Sources/KubeCon/2026-Europe-Amsterdam/Observability-Day/Sessions/lightning-talk-the-meta-trick-connecting-page-load-to-backend-traces.md",
+    "status": "transcript-downloaded"
+  },
+  {
+    "title": "Observability Day | Sponsored Keynote: Beyond Observability: Intelligent Progressive Delivery with Feature Control - Sean O'Dell, Dynatrace",
+    "href": "event/2DYN8/observability-day-sponsored-keynote-beyond-observability-intelligent-progressive-delivery-with-feature-control-sean-odell-dynatrace",
+    "sched_url": "https://colocatedeventseu2026.sched.com/event/2DYN8/observability-day-sponsored-keynote-beyond-observability-intelligent-progressive-delivery-with-feature-control-sean-odell-dynatrace",
+    "room": "Forum (Ground Floor)",
+    "slug": "observability-day-sponsored-keynote-beyond-observability-intelligent-progressive-delivery-with-f",
+    "kind": "keynote",
+    "speakers": [
+      "Sean O'Dell",
+      "Dynatrace"
+    ],
+    "topics": [
+      "Tracing"
+    ],
+    "youtube_id": "MxtkSii49d8",
+    "youtube_title": "Observability Day | Sponsored Keynote: Beyond Observability: Intelligent Progressive... Sean O'Dell",
+    "youtube_url": "https://www.youtube.com/watch?v=MxtkSii49d8",
+    "match_score": 0.812,
+    "transcript_file": "_sources/transcripts/observability-day-sponsored-keynote-beyond-observability-intelligent-progressive-delivery-with-f/MxtkSii49d8.txt",
+    "note_file": "02-Sources/KubeCon/2026-Europe-Amsterdam/Observability-Day/Sessions/observability-day-sponsored-keynote-beyond-observability-intelligent-progressive-delivery-with-f.md",
+    "status": "transcript-downloaded"
+  },
+  {
+    "title": "Observability Day | Sponsored Keynote - Before You Let AI Touch Production: Autoremediation Readiness - Colleen White, Chronosphere",
+    "href": "event/2DdrH/observability-day-sponsored-keynote-before-you-let-ai-touch-production-autoremediation-readiness-colleen-white-chronosphere",
+    "sched_url": "https://colocatedeventseu2026.sched.com/event/2DdrH/observability-day-sponsored-keynote-before-you-let-ai-touch-production-autoremediation-readiness-colleen-white-chronosphere",
+    "room": "Forum (Ground Floor)",
+    "slug": "observability-day-sponsored-keynote-before-you-let-ai-touch-production-autoremediation-readiness",
+    "kind": "keynote",
+    "speakers": [
+      "Colleen White",
+      "Chronosphere"
+    ],
+    "topics": [
+      "AI Observability"
+    ],
+    "youtube_id": "ziRCcF1SNko",
+    "youtube_title": "Observability Day | Sponsored Keynote - Before You Let AI Touch Production: Autore... Colleen White",
+    "youtube_url": "https://www.youtube.com/watch?v=ziRCcF1SNko",
+    "match_score": 0.826,
+    "transcript_file": "_sources/transcripts/observability-day-sponsored-keynote-before-you-let-ai-touch-production-autoremediation-readiness/ziRCcF1SNko.txt",
+    "note_file": "02-Sources/KubeCon/2026-Europe-Amsterdam/Observability-Day/Sessions/observability-day-sponsored-keynote-before-you-let-ai-touch-production-autoremediation-readiness.md",
+    "status": "transcript-downloaded"
+  },
+  {
+    "title": "A Practical Blueprint for Evolving Observability Schemas - Benedikt Bongartz, Red Hat & Sebastian Rabenhorst, Shopify",
+    "href": "event/2DY2Q/a-practical-blueprint-for-evolving-observability-schemas-benedikt-bongartz-red-hat-sebastian-rabenhorst-shopify",
+    "sched_url": "https://colocatedeventseu2026.sched.com/event/2DY2Q/a-practical-blueprint-for-evolving-observability-schemas-benedikt-bongartz-red-hat-sebastian-rabenhorst-shopify",
+    "room": "Forum (Ground Floor)",
+    "slug": "a-practical-blueprint-for-evolving-observability-schemas",
+    "kind": "session",
+    "speakers": [
+      "Benedikt Bongartz",
+      "Red Hat",
+      "Sebastian Rabenhorst",
+      "Shopify"
+    ],
+    "topics": [
+      "Observability"
+    ],
+    "youtube_id": "OSE5gfAjPkE",
+    "youtube_title": "A Practical Blueprint for Evolving Observability Schemas - Benedikt Bongartz & Sebastian Rabenhorst",
+    "youtube_url": "https://www.youtube.com/watch?v=OSE5gfAjPkE",
+    "match_score": 0.822,
+    "transcript_file": "_sources/transcripts/a-practical-blueprint-for-evolving-observability-schemas/OSE5gfAjPkE.txt",
+    "note_file": "02-Sources/KubeCon/2026-Europe-Amsterdam/Observability-Day/Sessions/a-practical-blueprint-for-evolving-observability-schemas.md",
+    "status": "transcript-downloaded"
+  },
+  {
+    "title": "Unpacking Your OTel Baggage - Dan Gomez Blanco, New Relic & John Clark, Skyscanner",
+    "href": "event/2DY2T/unpacking-your-otel-baggage-dan-gomez-blanco-new-relic-john-clark-skyscanner",
+    "sched_url": "https://colocatedeventseu2026.sched.com/event/2DY2T/unpacking-your-otel-baggage-dan-gomez-blanco-new-relic-john-clark-skyscanner",
+    "room": "E103-105 (1st Floor)",
+    "slug": "unpacking-your-otel-baggage",
+    "kind": "session",
+    "speakers": [
+      "Dan Gomez Blanco",
+      "New Relic",
+      "John Clark",
+      "Skyscanner"
+    ],
+    "topics": [
+      "OpenTelemetry",
+      "Tracing"
+    ],
+    "youtube_id": "Fee8rH98GE8",
+    "youtube_title": "Unpacking Your OTel Baggage - Dan Gomez Blanco, New Relic & John Clark, Skyscanner",
+    "youtube_url": "https://www.youtube.com/watch?v=Fee8rH98GE8",
+    "match_score": 0.604,
+    "transcript_file": "_sources/transcripts/unpacking-your-otel-baggage/Fee8rH98GE8.txt",
+    "note_file": "02-Sources/KubeCon/2026-Europe-Amsterdam/Observability-Day/Sessions/unpacking-your-otel-baggage.md",
+    "status": "transcript-downloaded"
+  },
+  {
+    "title": "How to Use the OpenTelemetry Demo and Why It Matters - Juliano Costa, Datadog",
+    "href": "event/2DY3F/how-to-use-the-opentelemetry-demo-and-why-it-matters-juliano-costa-datadog",
+    "sched_url": "https://colocatedeventseu2026.sched.com/event/2DY3F/how-to-use-the-opentelemetry-demo-and-why-it-matters-juliano-costa-datadog",
+    "room": "E103-105 (1st Floor)",
+    "slug": "how-to-use-the-opentelemetry-demo-and-why-it-matters",
+    "kind": "session",
+    "speakers": [
+      "Juliano Costa",
+      "Datadog"
+    ],
+    "topics": [
+      "OpenTelemetry",
+      "Cost Optimization"
+    ],
+    "youtube_id": "_OfBPCxt9To",
+    "youtube_title": "How to Use the OpenTelemetry Demo and Why It Matters - Juliano Costa, Datadog",
+    "youtube_url": "https://www.youtube.com/watch?v=_OfBPCxt9To",
+    "match_score": 0.905,
+    "transcript_file": "_sources/transcripts/how-to-use-the-opentelemetry-demo-and-why-it-matters/_OfBPCxt9To.txt",
+    "note_file": "02-Sources/KubeCon/2026-Europe-Amsterdam/Observability-Day/Sessions/how-to-use-the-opentelemetry-demo-and-why-it-matters.md",
+    "status": "transcript-downloaded"
+  },
+  {
+    "title": "Observability at the Edge: State of OpenTelemetry in Kubernetes Ingress Controllers - Kasper Borg Nissen, Dash0",
+    "href": "event/2DY3C/observability-at-the-edge-state-of-opentelemetry-in-kubernetes-ingress-controllers-kasper-borg-nissen-dash0",
+    "sched_url": "https://colocatedeventseu2026.sched.com/event/2DY3C/observability-at-the-edge-state-of-opentelemetry-in-kubernetes-ingress-controllers-kasper-borg-nissen-dash0",
+    "room": "Forum (Ground Floor)",
+    "slug": "observability-at-the-edge-state-of-opentelemetry-in-kubernetes-ingress-controllers",
+    "kind": "session",
+    "speakers": [
+      "Kasper Borg Nissen",
+      "Dash0"
+    ],
+    "topics": [
+      "OpenTelemetry",
+      "Kubernetes Observability"
+    ],
+    "youtube_id": "Nlx8jSfe8UQ",
+    "youtube_title": "Observability at the Edge: State of OpenTelemetry in Kubernetes Ingress Contro... Kasper Borg Nissen",
+    "youtube_url": "https://www.youtube.com/watch?v=Nlx8jSfe8UQ",
+    "match_score": 0.979,
+    "transcript_file": "_sources/transcripts/observability-at-the-edge-state-of-opentelemetry-in-kubernetes-ingress-controllers/Nlx8jSfe8UQ.txt",
+    "note_file": "02-Sources/KubeCon/2026-Europe-Amsterdam/Observability-Day/Sessions/observability-at-the-edge-state-of-opentelemetry-in-kubernetes-ingress-controllers.md",
+    "status": "transcript-downloaded"
+  },
+  {
+    "title": "Panel: The Spec-tacular Game Show V2 - Alex Boten & Tyler Helmuth, Honeycomb; Adriana Villela, Dynatrace; Pablo Baeyens, Datadog; Marylia Gutierrez, Grafana Labs",
+    "href": "event/2DY4M/panel-the-spec-tacular-game-show-v2-alex-boten-tyler-helmuth-honeycomb-adriana-villela-dynatrace-pablo-baeyens-datadog-marylia-gutierrez-grafana-labs",
+    "sched_url": "https://colocatedeventseu2026.sched.com/event/2DY4M/panel-the-spec-tacular-game-show-v2-alex-boten-tyler-helmuth-honeycomb-adriana-villela-dynatrace-pablo-baeyens-datadog-marylia-gutierrez-grafana-labs",
+    "room": "Forum (Ground Floor)",
+    "slug": "panel-the-spec-tacular-game-show-v2",
+    "kind": "panel",
+    "speakers": [
+      "Alex Boten",
+      "Tyler Helmuth",
+      "Honeycomb",
+      "Adriana Villela",
+      "Dynatrace",
+      "Pablo Baeyens",
+      "Datadog",
+      "Marylia Gutierrez",
+      "Grafana Labs"
+    ],
+    "topics": [
+      "Tracing"
+    ],
+    "youtube_id": "cjLh36N_c7k",
+    "youtube_title": "Panel: The Spec-tacular Game Show V2 - Alex B, Tyler H, Adriana V, Pablo B, Marylia G",
+    "youtube_url": "https://www.youtube.com/watch?v=cjLh36N_c7k",
+    "match_score": 0.699,
+    "transcript_file": "_sources/transcripts/panel-the-spec-tacular-game-show-v2/cjLh36N_c7k.txt",
+    "note_file": "02-Sources/KubeCon/2026-Europe-Amsterdam/Observability-Day/Sessions/panel-the-spec-tacular-game-show-v2.md",
+    "status": "transcript-downloaded"
+  },
+  {
+    "title": "Scaling Telemetry To Terabytes: Applying Google's Principles To OpenTelemetry With OpAMP - Raphael Menderico, Google",
+    "href": "event/2DY4Y/scaling-telemetry-to-terabytes-applying-googles-principles-to-opentelemetry-with-opamp-raphael-menderico-google",
+    "sched_url": "https://colocatedeventseu2026.sched.com/event/2DY4Y/scaling-telemetry-to-terabytes-applying-googles-principles-to-opentelemetry-with-opamp-raphael-menderico-google",
+    "room": "E103-105 (1st Floor)",
+    "slug": "scaling-telemetry-to-terabytes-applying-googles-principles-to-opentelemetry-with-opamp",
+    "kind": "session",
+    "speakers": [
+      "Raphael Menderico",
+      "Google"
+    ],
+    "topics": [
+      "OpenTelemetry"
+    ],
+    "youtube_id": "JXcP59i9zhc",
+    "youtube_title": "Scaling Telemetry To Terabytes: Applying Google's Principles To OpenTelemetry... Raphael Menderico",
+    "youtube_url": "https://www.youtube.com/watch?v=JXcP59i9zhc",
+    "match_score": 0.952,
+    "transcript_file": "_sources/transcripts/scaling-telemetry-to-terabytes-applying-googles-principles-to-opentelemetry-with-opamp/JXcP59i9zhc.txt",
+    "note_file": "02-Sources/KubeCon/2026-Europe-Amsterdam/Observability-Day/Sessions/scaling-telemetry-to-terabytes-applying-googles-principles-to-opentelemetry-with-opamp.md",
+    "status": "transcript-downloaded"
+  },
+  {
+    "title": "Accelerating Science, Decelerating Carbon: Sustainable Computing at CERN - Laura Llinares & Amine Lahouel, CERN",
+    "href": "event/2DY4w/accelerating-science-decelerating-carbon-sustainable-computing-at-cern-laura-llinares-amine-lahouel-cern",
+    "sched_url": "https://colocatedeventseu2026.sched.com/event/2DY4w/accelerating-science-decelerating-carbon-sustainable-computing-at-cern-laura-llinares-amine-lahouel-cern",
+    "room": "E103-105 (1st Floor)",
+    "slug": "accelerating-science-decelerating-carbon-sustainable-computing-at-cern",
+    "kind": "session",
+    "speakers": [
+      "Laura Llinares",
+      "Amine Lahouel",
+      "CERN"
+    ],
+    "topics": [
+      "Cost Optimization",
+      "AI Observability",
+      "Sustainability"
+    ],
+    "youtube_id": "Q0B1jHqQsO8",
+    "youtube_title": "Accelerating Science, Decelerating Carbon: Sustainable Computing... Laura Llinares & Amine Lahouel",
+    "youtube_url": "https://www.youtube.com/watch?v=Q0B1jHqQsO8",
+    "match_score": 0.912,
+    "transcript_file": "_sources/transcripts/accelerating-science-decelerating-carbon-sustainable-computing-at-cern/Q0B1jHqQsO8.txt",
+    "note_file": "02-Sources/KubeCon/2026-Europe-Amsterdam/Observability-Day/Sessions/accelerating-science-decelerating-carbon-sustainable-computing-at-cern.md",
+    "status": "transcript-downloaded"
+  },
+  {
+    "title": "To Make an SLO, First You Must Invent the Universe: OpenTelemetry Collection From Scratch - Cail Young, Octopus Deploy",
+    "href": "event/2DY4t/to-make-an-slo-first-you-must-invent-the-universe-opentelemetry-collection-from-scratch-cail-young-octopus-deploy",
+    "sched_url": "https://colocatedeventseu2026.sched.com/event/2DY4t/to-make-an-slo-first-you-must-invent-the-universe-opentelemetry-collection-from-scratch-cail-young-octopus-deploy",
+    "room": "Forum (Ground Floor)",
+    "slug": "to-make-an-slo-first-you-must-invent-the-universe-opentelemetry-collection-from-scratch",
+    "kind": "session",
+    "speakers": [
+      "Cail Young",
+      "Octopus Deploy"
+    ],
+    "topics": [
+      "OpenTelemetry",
+      "SLOs",
+      "AI Observability"
+    ],
+    "youtube_id": "-NArDhZXfCU",
+    "youtube_title": "To Make an SLO, First You Must Invent the Universe: OpenTelemetry Collection From Scra... Cail Young",
+    "youtube_url": "https://www.youtube.com/watch?v=-NArDhZXfCU",
+    "match_score": 1.014,
+    "transcript_file": "_sources/transcripts/to-make-an-slo-first-you-must-invent-the-universe-opentelemetry-collection-from-scratch/-NArDhZXfCU.txt",
+    "note_file": "02-Sources/KubeCon/2026-Europe-Amsterdam/Observability-Day/Sessions/to-make-an-slo-first-you-must-invent-the-universe-opentelemetry-collection-from-scratch.md",
+    "status": "transcript-downloaded"
+  },
+  {
+    "title": "Observability in the Matrix: Choosing the Right AI Agent To Escape the Chaos - Henrik Rexed, Dynatrace",
+    "href": "event/2DY5f/observability-in-the-matrix-choosing-the-right-ai-agent-to-escape-the-chaos-henrik-rexed-dynatrace",
+    "sched_url": "https://colocatedeventseu2026.sched.com/event/2DY5f/observability-in-the-matrix-choosing-the-right-ai-agent-to-escape-the-chaos-henrik-rexed-dynatrace",
+    "room": "Forum (Ground Floor)",
+    "slug": "observability-in-the-matrix-choosing-the-right-ai-agent-to-escape-the-chaos",
+    "kind": "session",
+    "speakers": [
+      "Henrik Rexed",
+      "Dynatrace"
+    ],
+    "topics": [
+      "Tracing",
+      "AI Observability"
+    ],
+    "youtube_id": "o3rwIFZt5hQ",
+    "youtube_title": "Observability in the Matrix: Choosing the Right AI Agent To Escape the Chaos - Henrik Rexed",
+    "youtube_url": "https://www.youtube.com/watch?v=o3rwIFZt5hQ",
+    "match_score": 1.0,
+    "transcript_file": "_sources/transcripts/observability-in-the-matrix-choosing-the-right-ai-agent-to-escape-the-chaos/o3rwIFZt5hQ.txt",
+    "note_file": "02-Sources/KubeCon/2026-Europe-Amsterdam/Observability-Day/Sessions/observability-in-the-matrix-choosing-the-right-ai-agent-to-escape-the-chaos.md",
+    "status": "transcript-downloaded"
+  },
+  {
+    "title": "Observability Through Users' Eyes and How To Fix the Knowledge Disconnect - Iris Dyrmishi, Miro & Hélia Barroso, Five9",
+    "href": "event/2DY5i/observability-through-users-eyes-and-how-to-fix-the-knowledge-disconnect-iris-dyrmishi-miro-helia-barroso-five9",
+    "sched_url": "https://colocatedeventseu2026.sched.com/event/2DY5i/observability-through-users-eyes-and-how-to-fix-the-knowledge-disconnect-iris-dyrmishi-miro-helia-barroso-five9",
+    "room": "E103-105 (1st Floor)",
+    "slug": "observability-through-users-eyes-and-how-to-fix-the-knowledge-disconnect",
+    "kind": "session",
+    "speakers": [
+      "Iris Dyrmishi",
+      "Miro",
+      "Hélia Barroso",
+      "Five9"
+    ],
+    "topics": [
+      "Observability"
+    ],
+    "youtube_id": "eLRa4kozNmo",
+    "youtube_title": "Observability Through Users' Eyes and How To Fix the Knowledge Disc... Iris Dyrmishi & Hélia Barroso",
+    "youtube_url": "https://www.youtube.com/watch?v=eLRa4kozNmo",
+    "match_score": 0.887,
+    "transcript_file": "_sources/transcripts/observability-through-users-eyes-and-how-to-fix-the-knowledge-disconnect/eLRa4kozNmo.txt",
+    "note_file": "02-Sources/KubeCon/2026-Europe-Amsterdam/Observability-Day/Sessions/observability-through-users-eyes-and-how-to-fix-the-knowledge-disconnect.md",
+    "status": "transcript-downloaded"
+  },
+  {
+    "title": "From Pods To PUE: A Digital Twin Approach To Sustainable Kubernetes Infrastructure - Matteo Bunino, CERN",
+    "href": "event/2DY6U/from-pods-to-pue-a-digital-twin-approach-to-sustainable-kubernetes-infrastructure-matteo-bunino-cern",
+    "sched_url": "https://colocatedeventseu2026.sched.com/event/2DY6U/from-pods-to-pue-a-digital-twin-approach-to-sustainable-kubernetes-infrastructure-matteo-bunino-cern",
+    "room": "Forum (Ground Floor)",
+    "slug": "from-pods-to-pue-a-digital-twin-approach-to-sustainable-kubernetes-infrastructure",
+    "kind": "session",
+    "speakers": [
+      "Matteo Bunino",
+      "CERN"
+    ],
+    "topics": [
+      "Cost Optimization",
+      "Kubernetes Observability",
+      "AI Observability",
+      "Sustainability"
+    ],
+    "youtube_id": "5o8jyJU_k00",
+    "youtube_title": "From Pods To PUE: A Digital Twin Approach To Sustainable Kubernetes Infrastructure - Matteo Bunino",
+    "youtube_url": "https://www.youtube.com/watch?v=5o8jyJU_k00",
+    "match_score": 1.0,
+    "transcript_file": "_sources/transcripts/from-pods-to-pue-a-digital-twin-approach-to-sustainable-kubernetes-infrastructure/5o8jyJU_k00.txt",
+    "note_file": "02-Sources/KubeCon/2026-Europe-Amsterdam/Observability-Day/Sessions/from-pods-to-pue-a-digital-twin-approach-to-sustainable-kubernetes-infrastructure.md",
+    "status": "transcript-downloaded"
+  },
+  {
+    "title": "Parity in Observability Across Different Platforms - Kirill Mikhailov & Liam Harrington, Riot Games",
+    "href": "event/2DY6X/parity-in-observability-across-different-platforms-kirill-mikhailov-liam-harrington-riot-games",
+    "sched_url": "https://colocatedeventseu2026.sched.com/event/2DY6X/parity-in-observability-across-different-platforms-kirill-mikhailov-liam-harrington-riot-games",
+    "room": "E103-105 (1st Floor)",
+    "slug": "parity-in-observability-across-different-platforms",
+    "kind": "session",
+    "speakers": [
+      "Kirill Mikhailov",
+      "Liam Harrington",
+      "Riot Games"
+    ],
+    "topics": [
+      "AI Observability"
+    ],
+    "youtube_id": "kyc2dUewnNs",
+    "youtube_title": "Parity in Observability Across Different Platforms - Kirill Mikhailov & Liam Harrington, Riot Games",
+    "youtube_url": "https://www.youtube.com/watch?v=kyc2dUewnNs",
+    "match_score": 0.774,
+    "transcript_file": "_sources/transcripts/parity-in-observability-across-different-platforms/kyc2dUewnNs.txt",
+    "note_file": "02-Sources/KubeCon/2026-Europe-Amsterdam/Observability-Day/Sessions/parity-in-observability-across-different-platforms.md",
+    "status": "transcript-downloaded"
+  },
+  {
+    "title": "One YAML To Rule Them All: Declarative Config - Jamie Danielson, Honeycomb.io",
+    "href": "event/2DY7A/one-yaml-to-rule-them-all-declarative-config-jamie-danielson-honeycombio",
+    "sched_url": "https://colocatedeventseu2026.sched.com/event/2DY7A/one-yaml-to-rule-them-all-declarative-config-jamie-danielson-honeycombio",
+    "room": "Forum (Ground Floor)",
+    "slug": "one-yaml-to-rule-them-all-declarative-config",
+    "kind": "session",
+    "speakers": [
+      "Jamie Danielson",
+      "Honeycomb.io"
+    ],
+    "topics": [
+      "Observability"
+    ],
+    "youtube_id": "9qbNBIzZ7Zg",
+    "youtube_title": "One YAML To Rule Them All: Declarative Config - Jamie Danielson, Honeycomb.io",
+    "youtube_url": "https://www.youtube.com/watch?v=9qbNBIzZ7Zg",
+    "match_score": 0.832,
+    "transcript_file": "_sources/transcripts/one-yaml-to-rule-them-all-declarative-config/9qbNBIzZ7Zg.txt",
+    "note_file": "02-Sources/KubeCon/2026-Europe-Amsterdam/Observability-Day/Sessions/one-yaml-to-rule-them-all-declarative-config.md",
+    "status": "transcript-downloaded"
+  },
+  {
+    "title": "Let Me Be Your OpenTelemetry Champ - Pavol Loffay, Red Hat & Nicolas Wörner, OllyGarden",
+    "href": "event/2DY7w/let-me-be-your-opentelemetry-champ-pavol-loffay-red-hat-nicolas-worner-ollygarden",
+    "sched_url": "https://colocatedeventseu2026.sched.com/event/2DY7w/let-me-be-your-opentelemetry-champ-pavol-loffay-red-hat-nicolas-worner-ollygarden",
+    "room": "E103-105 (1st Floor)",
+    "slug": "let-me-be-your-opentelemetry-champ",
+    "kind": "session",
+    "speakers": [
+      "Pavol Loffay",
+      "Red Hat",
+      "Nicolas Wörner",
+      "OllyGarden"
+    ],
+    "topics": [
+      "OpenTelemetry"
+    ],
+    "youtube_id": "pdKemf65KGc",
+    "youtube_title": "Let Me Be Your OpenTelemetry Champ - Pavol Loffay, Red Hat & Nicolas Wörner, OllyGarden",
+    "youtube_url": "https://www.youtube.com/watch?v=pdKemf65KGc",
+    "match_score": 0.671,
+    "transcript_file": "_sources/transcripts/let-me-be-your-opentelemetry-champ/pdKemf65KGc.txt",
+    "note_file": "02-Sources/KubeCon/2026-Europe-Amsterdam/Observability-Day/Sessions/let-me-be-your-opentelemetry-champ.md",
+    "status": "transcript-downloaded"
+  },
+  {
+    "title": "OpenTelemetry Gateways: Enforce, Transform, Route - Juraci Paixão Kröhling, OllyGarden & Natalie Ujuk, IG Group",
+    "href": "event/2DY7t/opentelemetry-gateways-enforce-transform-route-juraci-paixao-krohling-ollygarden-natalie-ujuk-ig-group",
+    "sched_url": "https://colocatedeventseu2026.sched.com/event/2DY7t/opentelemetry-gateways-enforce-transform-route-juraci-paixao-krohling-ollygarden-natalie-ujuk-ig-group",
+    "room": "Forum (Ground Floor)",
+    "slug": "opentelemetry-gateways-enforce-transform-route",
+    "kind": "session",
+    "speakers": [
+      "Juraci Paixão Kröhling",
+      "OllyGarden",
+      "Natalie Ujuk",
+      "IG Group"
+    ],
+    "topics": [
+      "OpenTelemetry",
+      "Collectors",
+      "AI Observability"
+    ],
+    "youtube_id": "S6z2gd666qg",
+    "youtube_title": "OpenTelemetry Gateways: Enforce, Transform, Route - Juraci Paixão Kröhling & Natalie Ujuk",
+    "youtube_url": "https://www.youtube.com/watch?v=S6z2gd666qg",
+    "match_score": 0.799,
+    "transcript_file": "_sources/transcripts/opentelemetry-gateways-enforce-transform-route/S6z2gd666qg.txt",
+    "note_file": "02-Sources/KubeCon/2026-Europe-Amsterdam/Observability-Day/Sessions/opentelemetry-gateways-enforce-transform-route.md",
+    "status": "transcript-downloaded"
+  },
+  {
+    "title": "Observability Without Borders: The OpenTelemetry Collector in a WebAssembly World - Evan Bradley, Dynatrace & Pablo Baeyens, Datadog",
+    "href": "event/2DY8f/observability-without-borders-the-opentelemetry-collector-in-a-webassembly-world-evan-bradley-dynatrace-pablo-baeyens-datadog",
+    "sched_url": "https://colocatedeventseu2026.sched.com/event/2DY8f/observability-without-borders-the-opentelemetry-collector-in-a-webassembly-world-evan-bradley-dynatrace-pablo-baeyens-datadog",
+    "room": "Forum (Ground Floor)",
+    "slug": "observability-without-borders-the-opentelemetry-collector-in-a-webassembly-world",
+    "kind": "session",
+    "speakers": [
+      "Evan Bradley",
+      "Dynatrace",
+      "Pablo Baeyens",
+      "Datadog"
+    ],
+    "topics": [
+      "OpenTelemetry",
+      "Tracing",
+      "Collectors"
+    ],
+    "youtube_id": "-FaoeALW124",
+    "youtube_title": "Observability Without Borders: The OpenTelemetry Collector in a WebA... Evan Bradley & Pablo Baeyens",
+    "youtube_url": "https://www.youtube.com/watch?v=-FaoeALW124",
+    "match_score": 0.896,
+    "transcript_file": "_sources/transcripts/observability-without-borders-the-opentelemetry-collector-in-a-webassembly-world/-FaoeALW124.txt",
+    "note_file": "02-Sources/KubeCon/2026-Europe-Amsterdam/Observability-Day/Sessions/observability-without-borders-the-opentelemetry-collector-in-a-webassembly-world.md",
+    "status": "transcript-downloaded"
+  },
+  {
+    "title": "When the Codebase Starts Instrumenting Itself - Whitney Lee, Datadog",
+    "href": "event/2DY8i/when-the-codebase-starts-instrumenting-itself-whitney-lee-datadog",
+    "sched_url": "https://colocatedeventseu2026.sched.com/event/2DY8i/when-the-codebase-starts-instrumenting-itself-whitney-lee-datadog",
+    "room": "E103-105 (1st Floor)",
+    "slug": "when-the-codebase-starts-instrumenting-itself",
+    "kind": "session",
+    "speakers": [
+      "Whitney Lee",
+      "Datadog"
+    ],
+    "topics": [
+      "Observability"
+    ],
+    "youtube_id": "JgzqzAYL0Ms",
+    "youtube_title": "When the Codebase Starts Instrumenting Itself - Whitney Lee, Datadog",
+    "youtube_url": "https://www.youtube.com/watch?v=JgzqzAYL0Ms",
+    "match_score": 0.898,
+    "transcript_file": "_sources/transcripts/when-the-codebase-starts-instrumenting-itself/JgzqzAYL0Ms.txt",
+    "note_file": "02-Sources/KubeCon/2026-Europe-Amsterdam/Observability-Day/Sessions/when-the-codebase-starts-instrumenting-itself.md",
+    "status": "transcript-downloaded"
+  },
+  {
+    "title": "⚡Lightning Talk: A Drop-in System To Accelerate Metrics Observability by 100x Using Sketch-based Approximation - Milind Srivastava, Carnegie Mellon University",
+    "href": "event/2DY9O/cllightning-talk-a-drop-in-system-to-accelerate-metrics-observability-by-100x-using-sketch-based-approximation-milind-srivastava-carnegie-mellon-university",
+    "sched_url": "https://colocatedeventseu2026.sched.com/event/2DY9O/cllightning-talk-a-drop-in-system-to-accelerate-metrics-observability-by-100x-using-sketch-based-approximation-milind-srivastava-carnegie-mellon-university",
+    "room": "Forum (Ground Floor)",
+    "slug": "lightning-talk-a-drop-in-system-to-accelerate-metrics-observability-by-100x-using-sketch-based-a",
+    "kind": "lightning-talk",
+    "speakers": [
+      "Milind Srivastava",
+      "Carnegie Mellon University"
+    ],
+    "topics": [
+      "Metrics"
+    ],
+    "youtube_id": "WVIaMLp9Gds",
+    "youtube_title": "Lightning Talk: A Drop-in System To Accelerate Metrics Observability by 100x Us... Milind Srivastava",
+    "youtube_url": "https://www.youtube.com/watch?v=WVIaMLp9Gds",
+    "match_score": 0.831,
+    "transcript_file": "_sources/transcripts/lightning-talk-a-drop-in-system-to-accelerate-metrics-observability-by-100x-using-sketch-based-a/WVIaMLp9Gds.txt",
+    "note_file": "02-Sources/KubeCon/2026-Europe-Amsterdam/Observability-Day/Sessions/lightning-talk-a-drop-in-system-to-accelerate-metrics-observability-by-100x-using-sketch-based-a.md",
+    "status": "transcript-downloaded"
+  },
+  {
+    "title": "⚡Lightning Talk: Semantics Matter! Lessons From Stabilizing OpenTelemetry’s System Conventions - Roger Coll, Elastic",
+    "href": "event/2DY9R/cllightning-talk-semantics-matter-lessons-from-stabilizing-opentelemetrys-system-conventions-roger-coll-elastic",
+    "sched_url": "https://colocatedeventseu2026.sched.com/event/2DY9R/cllightning-talk-semantics-matter-lessons-from-stabilizing-opentelemetrys-system-conventions-roger-coll-elastic",
+    "room": "E103-105 (1st Floor)",
+    "slug": "lightning-talk-semantics-matter-lessons-from-stabilizing-opentelemetrys-system-conventions",
+    "kind": "lightning-talk",
+    "speakers": [
+      "Roger Coll",
+      "Elastic"
+    ],
+    "topics": [
+      "OpenTelemetry"
+    ],
+    "youtube_id": "QTfodanL74U",
+    "youtube_title": "Lightning Talk: Semantics Matter! Lessons From Stabilizing OpenTelemetry’s System Conv... Roger Coll",
+    "youtube_url": "https://www.youtube.com/watch?v=QTfodanL74U",
+    "match_score": 0.908,
+    "transcript_file": "_sources/transcripts/lightning-talk-semantics-matter-lessons-from-stabilizing-opentelemetrys-system-conventions/QTfodanL74U.txt",
+    "note_file": "02-Sources/KubeCon/2026-Europe-Amsterdam/Observability-Day/Sessions/lightning-talk-semantics-matter-lessons-from-stabilizing-opentelemetrys-system-conventions.md",
+    "status": "transcript-downloaded"
+  },
+  {
+    "title": "⚡Lightning Talk: Grasp the Real Worth of Your Microservices by Brewing a Truth Potion of Observablity - Yash Bhatnagar, Google",
+    "href": "event/2DYA1/cllightning-talk-grasp-the-real-worth-of-your-microservices-by-brewing-a-truth-potion-of-observablity-yash-bhatnagar-google",
+    "sched_url": "https://colocatedeventseu2026.sched.com/event/2DYA1/cllightning-talk-grasp-the-real-worth-of-your-microservices-by-brewing-a-truth-potion-of-observablity-yash-bhatnagar-google",
+    "room": "Forum (Ground Floor)",
+    "slug": "lightning-talk-grasp-the-real-worth-of-your-microservices-by-brewing-a-truth-potion-of-observabl",
+    "kind": "lightning-talk",
+    "speakers": [
+      "Yash Bhatnagar",
+      "Google"
+    ],
+    "topics": [
+      "Kubernetes Observability"
+    ],
+    "youtube_id": "grBc_hF0ji0",
+    "youtube_title": "Lightning Talk: Grasp the Real Worth of Your Microservices by Brewing a Truth Poti... Yash Bhatnagar",
+    "youtube_url": "https://www.youtube.com/watch?v=grBc_hF0ji0",
+    "match_score": 0.836,
+    "transcript_file": "_sources/transcripts/lightning-talk-grasp-the-real-worth-of-your-microservices-by-brewing-a-truth-potion-of-observabl/grBc_hF0ji0.txt",
+    "note_file": "02-Sources/KubeCon/2026-Europe-Amsterdam/Observability-Day/Sessions/lightning-talk-grasp-the-real-worth-of-your-microservices-by-brewing-a-truth-potion-of-observabl.md",
+    "status": "transcript-downloaded"
+  },
+  {
+    "title": "⚡Lightning Talk: “Metrics That Lie”: Understanding OpenTelemetry’s Cardinality Capping and Its Implications - Cijo Thomas, Microsoft",
+    "href": "event/2DYA4/cllightning-talk-metrics-that-lie-understanding-opentelemetrys-cardinality-capping-and-its-implications-cijo-thomas-microsoft",
+    "sched_url": "https://colocatedeventseu2026.sched.com/event/2DYA4/cllightning-talk-metrics-that-lie-understanding-opentelemetrys-cardinality-capping-and-its-implications-cijo-thomas-microsoft",
+    "room": "E103-105 (1st Floor)",
+    "slug": "lightning-talk-metrics-that-lie-understanding-opentelemetrys-cardinality-capping-and-its-implica",
+    "kind": "lightning-talk",
+    "speakers": [
+      "Cijo Thomas",
+      "Microsoft"
+    ],
+    "topics": [
+      "OpenTelemetry",
+      "Metrics"
+    ],
+    "youtube_id": "QTeA16I_hME",
+    "youtube_title": "Lightning Talk: “Metrics That Lie”: Understanding OpenTelemetry’s Cardinality Capping... Cijo Thomas",
+    "youtube_url": "https://www.youtube.com/watch?v=QTeA16I_hME",
+    "match_score": 0.844,
+    "transcript_file": "_sources/transcripts/lightning-talk-metrics-that-lie-understanding-opentelemetrys-cardinality-capping-and-its-implica/QTeA16I_hME.txt",
+    "note_file": "02-Sources/KubeCon/2026-Europe-Amsterdam/Observability-Day/Sessions/lightning-talk-metrics-that-lie-understanding-opentelemetrys-cardinality-capping-and-its-implica.md",
+    "status": "transcript-downloaded"
+  },
+  {
+    "title": "Observability Day | Closing Remarks",
+    "href": "event/2DYNf/observability-day-closing-remarks",
+    "sched_url": "https://colocatedeventseu2026.sched.com/event/2DYNf/observability-day-closing-remarks",
+    "room": "Forum (Ground Floor)",
+    "slug": "observability-day-closing-remarks",
+    "kind": "remarks",
+    "speakers": [],
+    "topics": [
+      "Observability"
+    ],
+    "youtube_id": "qUSBqhYIcVA",
+    "youtube_title": "Closing remarks",
+    "youtube_url": "https://www.youtube.com/watch?v=qUSBqhYIcVA",
+    "match_score": 1.0,
+    "transcript_file": "_sources/transcripts/observability-day-closing-remarks/qUSBqhYIcVA.txt",
+    "note_file": "02-Sources/KubeCon/2026-Europe-Amsterdam/Observability-Day/Sessions/observability-day-closing-remarks.md",
+    "status": "transcript-downloaded"
+  }
+]

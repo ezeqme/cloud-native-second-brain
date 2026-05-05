@@ -1,0 +1,58 @@
+---
+type: kubecon-session
+event: "KubeCon + CloudNativeCon North America 2023 - Chicago, United States"
+event_id: kccncna2023
+year: 2023
+region: "North America"
+city: "Chicago"
+country: "United States"
+event_date: "2023-11-06/2023-11-09"
+track: "Cloud Native Experience"
+themes: ["AI ML", "Kubernetes Core", "Community Governance"]
+speakers: ["Sascha Grunert", "Red Hat", "Carlos Tadeu Panato Junior", "Chainguard"]
+sched_url: https://kccncna2023.sched.com/event/1R2qw/kubeburned-out-how-to-get-things-done-efficiently-within-the-kubernetes-community-sascha-grunert-red-hat-carlos-tadeu-panato-junior-chainguard
+youtube_search_url: https://www.youtube.com/results?search_query=Kubeburned+Out%3F+How+to+Get+Things+Done+Efficiently+Within+the+Kubernetes+Community+CNCF+KubeCon+2023
+slides: []
+status: parsed
+---
+
+# Kubeburned Out? How to Get Things Done Efficiently Within the Kubernetes Community - Sascha Grunert, Red Hat & Carlos Tadeu Panato Junior, Chainguard
+
+## Identificação
+
+- Edição: KubeCon + CloudNativeCon North America 2023 - Chicago, United States
+- Trilha oficial: [[Cloud Native Experience]]
+- Temas: [[AI ML]], [[Kubernetes Core]], [[Community Governance]]
+- País/cidade: United States / Chicago
+- Speakers: Sascha Grunert, Red Hat, Carlos Tadeu Panato Junior, Chainguard
+- Schedule: https://kccncna2023.sched.com/event/1R2qw/kubeburned-out-how-to-get-things-done-efficiently-within-the-kubernetes-community-sascha-grunert-red-hat-carlos-tadeu-panato-junior-chainguard
+- Busca YouTube: https://www.youtube.com/results?search_query=Kubeburned+Out%3F+How+to+Get+Things+Done+Efficiently+Within+the+Kubernetes+Community+CNCF+KubeCon+2023
+
+## Resumo
+
+Sessão da KubeCon sobre Kubeburned Out? How to Get Things Done Efficiently Within the Kubernetes Community.
+
+## Descrição oficial
+
+_Descrição oficial não encontrada._
+
+## Links
+
+- Schedule oficial: https://kccncna2023.sched.com/event/1R2qw/kubeburned-out-how-to-get-things-done-efficiently-within-the-kubernetes-community-sascha-grunert-red-hat-carlos-tadeu-panato-junior-chainguard
+- YouTube search: https://www.youtube.com/results?search_query=Kubeburned+Out%3F+How+to+Get+Things+Done+Efficiently+Within+the+Kubernetes+Community+CNCF+KubeCon+2023
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=h-WiiU-iKLQ
+- YouTube title: Kubeburned Out? How to Get Things Done Efficiently Wi... Sascha Grunert & Carlos Tadeu Panato Junior
+- Match score: 0.8
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: kubeburned, efficiently, within
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

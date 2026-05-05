@@ -1,0 +1,42 @@
+---
+type: kubecon-session
+event: "KubeCon + CloudNativeCon China 2025 - Hong Kong, China"
+event_id: kccncchn2025
+year: 2025
+region: "China"
+city: "Hong Kong"
+country: "China"
+event_date: "2025"
+track: "Project Opportunities"
+themes: ["Project Opportunities"]
+speakers: []
+sched_url: https://kccncchn2025.sched.com/event/25mqH/project-pavilion-tables-tuesday-morning
+youtube_search_url: https://www.youtube.com/results?search_query=Project+Pavilion+Tables+%7C+Tuesday+Morning+CNCF+KubeCon+2025
+slides: []
+status: parsed
+---
+
+# Project Pavilion Tables | Tuesday Morning
+
+## Identificação
+
+- Edição: KubeCon + CloudNativeCon China 2025 - Hong Kong, China
+- Trilha oficial: [[Project Opportunities]]
+- Temas: [[Project Opportunities]]
+- País/cidade: China / Hong Kong
+- Speakers: N/A
+- Schedule: https://kccncchn2025.sched.com/event/25mqH/project-pavilion-tables-tuesday-morning
+- Busca YouTube: https://www.youtube.com/results?search_query=Project+Pavilion+Tables+%7C+Tuesday+Morning+CNCF+KubeCon+2025
+
+## Resumo
+
+Sessão da KubeCon sobre Project Pavilion Tables | Tuesday Morning.
+
+## Descrição oficial
+
+_Descrição oficial não encontrada._
+
+## Links
+
+- Schedule oficial: https://kccncchn2025.sched.com/event/25mqH/project-pavilion-tables-tuesday-morning
+- YouTube search: https://www.youtube.com/results?search_query=Project+Pavilion+Tables+%7C+Tuesday+Morning+CNCF+KubeCon+2025

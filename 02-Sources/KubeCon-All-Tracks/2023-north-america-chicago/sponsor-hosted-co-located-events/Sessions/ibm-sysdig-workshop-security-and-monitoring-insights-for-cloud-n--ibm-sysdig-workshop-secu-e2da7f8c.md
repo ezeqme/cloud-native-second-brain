@@ -1,0 +1,58 @@
+---
+type: kubecon-session
+event: "KubeCon + CloudNativeCon North America 2023 - Chicago, United States"
+event_id: kccncna2023
+year: 2023
+region: "North America"
+city: "Chicago"
+country: "United States"
+event_date: "2023-11-06/2023-11-09"
+track: "Sponsor-hosted Co-located Events"
+themes: ["Security"]
+speakers: []
+sched_url: https://kccncna2023.sched.com/event/1T3V2/ibm-sysdig-workshop-security-and-monitoring-insights-for-cloud-native-workloads-hosted-by-ibm-+-sysdig
+youtube_search_url: https://www.youtube.com/results?search_query=IBM+%26+Sysdig+Workshop%3A+Security+and+Monitoring+Insights+for+Cloud-Native+Workloads+Hosted+by+IBM+%2B+Sysdig+CNCF+KubeCon+2023
+slides: []
+status: parsed
+---
+
+# IBM & Sysdig Workshop: Security and Monitoring Insights for Cloud-Native Workloads Hosted by IBM + Sysdig
+
+## Identificação
+
+- Edição: KubeCon + CloudNativeCon North America 2023 - Chicago, United States
+- Trilha oficial: [[Sponsor-hosted Co-located Events]]
+- Temas: [[Security]]
+- País/cidade: United States / Chicago
+- Speakers: N/A
+- Schedule: https://kccncna2023.sched.com/event/1T3V2/ibm-sysdig-workshop-security-and-monitoring-insights-for-cloud-native-workloads-hosted-by-ibm-+-sysdig
+- Busca YouTube: https://www.youtube.com/results?search_query=IBM+%26+Sysdig+Workshop%3A+Security+and+Monitoring+Insights+for+Cloud-Native+Workloads+Hosted+by+IBM+%2B+Sysdig+CNCF+KubeCon+2023
+
+## Resumo
+
+Sessão da KubeCon sobre IBM & Sysdig Workshop: Security and Monitoring Insights for Cloud-Native Workloads Hosted by IBM + Sysdig.
+
+## Descrição oficial
+
+_Descrição oficial não encontrada._
+
+## Links
+
+- Schedule oficial: https://kccncna2023.sched.com/event/1T3V2/ibm-sysdig-workshop-security-and-monitoring-insights-for-cloud-native-workloads-hosted-by-ibm-+-sysdig
+- YouTube search: https://www.youtube.com/results?search_query=IBM+%26+Sysdig+Workshop%3A+Security+and+Monitoring+Insights+for+Cloud-Native+Workloads+Hosted+by+IBM+%2B+Sysdig+CNCF+KubeCon+2023
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sysdig, workshop, security, monitoring, insights, cloud-native, workloads, hosted
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

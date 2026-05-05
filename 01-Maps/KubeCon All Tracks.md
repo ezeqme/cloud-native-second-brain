@@ -1,0 +1,182 @@
+# KubeCon All Tracks
+
+Índice metadata-first de todas as trilhas oficiais das edições KubeCon + CloudNativeCon mapeadas.
+
+- Sessões indexadas: 4865
+- Edições: 12
+- Trilhas oficiais: 86
+- Temas inferidos: 67
+
+## Por edição
+
+- KubeCon + CloudNativeCon Europe 2021 - Virtual, Virtual: 313 sessões
+- KubeCon + CloudNativeCon North America 2021 - Los Angeles, United States: 295 sessões
+- KubeCon + CloudNativeCon Europe 2022 - Valencia, Spain: 313 sessões
+- KubeCon + CloudNativeCon North America 2022 - Detroit, United States: 367 sessões
+- KubeCon + CloudNativeCon Europe 2023 - Amsterdam, Netherlands: 417 sessões
+- KubeCon + CloudNativeCon North America 2023 - Chicago, United States: 426 sessões
+- KubeCon + CloudNativeCon Europe 2024 - Paris, France: 496 sessões
+- KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States: 497 sessões
+- KubeCon + CloudNativeCon China 2025 - Hong Kong, China: 108 sessões
+- KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom: 548 sessões
+- KubeCon + CloudNativeCon North America 2025 - Atlanta, United States: 510 sessões
+- KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands: 575 sessões
+
+## Por trilha oficial
+
+- [[Maintainer Track]] — 770 sessões
+- [[Project Opportunities]] — 361 sessões
+- [[Unclassified]] — 339 sessões
+- [[Keynote Sessions]] — 275 sessões
+- [[Solutions Showcase]] — 204 sessões
+- [[Platform Engineering]] — 189 sessões
+- [[Security]] — 171 sessões
+- [[Project Office Hours]] — 164 sessões
+- [[Observability]] — 144 sessões
+- [[Maintainer Track Sessions]] — 136 sessões
+- [[Operations + Performance]] — 124 sessões
+- [[AI + ML]] — 123 sessões
+- [[CNCF-hosted Co-located Events]] — 108 sessões
+- [[Cloud Native Experience]] — 95 sessões
+- [[⚡ Lightning Talks]] — 81 sessões
+- [[Emerging + Advanced]] — 67 sessões
+- [[101 Track]] — 66 sessões
+- [[Cloud Native Novice]] — 66 sessões
+- [[Security + Identity + Policy]] — 62 sessões
+- [[🚨 Contribfest]] — 60 sessões
+- [[Registration]] — 58 sessões
+- [[🪧 Poster Sessions]] — 52 sessões
+- [[Project Meeting]] — 50 sessões
+- [[Data Processing + Storage]] — 48 sessões
+- [[Community]] — 46 sessões
+- [[Customizing + Extending Kubernetes]] — 46 sessões
+- [[Sponsor-hosted Co-located Event]] — 45 sessões
+- [[Connectivity]] — 44 sessões
+- [[Security + Identity]] — 42 sessões
+- [[Service Mesh]] — 42 sessões
+- [[Tutorials]] — 38 sessões
+- [[Application Development]] — 37 sessões
+- [[Application + Development]] — 35 sessões
+- [[Machine Learning + Data]] — 35 sessões
+- [[Sponsor Theater]] — 35 sessões
+- [[Business Value]] — 34 sessões
+- [[SDLC]] — 34 sessões
+- [[Reliability + Operational Continuity]] — 33 sessões
+- [[Diversity + Equity + Inclusion]] — 31 sessões
+- [[🚨 ContribFest]] — 29 sessões
+- [[Networking]] — 27 sessões
+- [[Inclusion + Accessibility]] — 26 sessões
+- [[Networking + Edge + Telco]] — 26 sessões
+- [[Wellness]] — 24 sessões
+- [[Interactive Sessions]] — 22 sessões
+- [[Operations]] — 22 sessões
+- [[Badge Pick-Up]] — 21 sessões
+- [[Performance]] — 17 sessões
+- [[Sponsor-hosted Co-located Events]] — 17 sessões
+- [[Runtime Performance + Constrained Environments]] — 16 sessões
+- [[Multi-tenancy]] — 14 sessões
+- [[📚 Tutorials]] — 14 sessões
+- [[Open Interfaces + Interoperability]] — 13 sessões
+- [[Sponsor Hosted Co-Located Event]] — 13 sessões
+- [[Storage]] — 13 sessões
+- [[Application + Development + Delivery]] — 11 sessões
+- [[Badge Pick-up]] — 10 sessões
+- [[Lightning Talks]] — 10 sessões
+- [[Runtimes]] — 10 sessões
+- [[Serverless]] — 10 sessões
+- [[Student]] — 10 sessões
+- [[Application + Delivery]] — 9 sessões
+- [[Co-located Event]] — 7 sessões
+- [[ContribFest]] — 7 sessões
+- [[COVID-19 Test Kit Pick-Up]] — 6 sessões
+- [[Diversity + Inclusion]] — 6 sessões
+- [[Research + Academia]] — 6 sessões
+- [[Wellness Activities]] — 6 sessões
+- [[Birds of a Feather]] — 5 sessões
+- [[Sponsored Demos]] — 5 sessões
+- [[Building the Future of Industrial AI with Open Source (By COIA)]] — 4 sessões
+- [[Daily Wrap Up]] — 4 sessões
+- [[Diversity + Inclusion Sessions]] — 4 sessões
+- [[Student Track]] — 4 sessões
+- [[Capture The Flag]] — 3 sessões
+- [[Cloud Native Startup]] — 3 sessões
+- [[Co-Located Events]] — 3 sessões
+- [[Office Hours]] — 3 sessões
+- [[Project Pavilion]] — 3 sessões
+- [[Research + Academia + HPC + Advanced Concepts]] — 3 sessões
+- [[Community Day]] — 2 sessões
+- [[Hackathon]] — 2 sessões
+- [[Sponsored Sessions]] — 2 sessões
+- [[Governance + Risk + Compliance (GRC)]] — 1 sessões
+- [[Project Working Sessions]] — 1 sessões
+- [[Sponsored Breakouts]] — 1 sessões
+
+## Por tema inferido
+
+- [[AI ML]] — 2047 sessões
+- [[Community Governance]] — 1296 sessões
+- [[Kubernetes Core]] — 1277 sessões
+- [[SRE Reliability]] — 571 sessões
+- [[Security]] — 555 sessões
+- [[Networking]] — 417 sessões
+- [[Storage Data]] — 398 sessões
+- [[Platform Engineering]] — 356 sessões
+- [[Observability]] — 335 sessões
+- [[Runtime Containers]] — 283 sessões
+- [[GitOps Delivery]] — 227 sessões
+- [[Project Office Hours]] — 134 sessões
+- [[Cloud Native]] — 125 sessões
+- [[Project Opportunities]] — 120 sessões
+- [[Keynote Sessions]] — 97 sessões
+- [[Solutions Showcase]] — 94 sessões
+- [[Registration]] — 58 sessões
+- [[Sustainability]] — 56 sessões
+- [[CNCF-hosted Co-located Events]] — 36 sessões
+- [[Cloud Native Experience]] — 36 sessões
+- [[🚨 Contribfest]] — 31 sessões
+- [[Project Meeting]] — 27 sessões
+- [[101 Track]] — 22 sessões
+- [[Badge Pick-Up]] — 21 sessões
+- [[Wellness]] — 21 sessões
+- [[Sponsor-hosted Co-located Event]] — 20 sessões
+- [[Diversity + Equity + Inclusion]] — 18 sessões
+- [[⚡ Lightning Talks]] — 16 sessões
+- [[Application + Development]] — 13 sessões
+- [[Application Development]] — 12 sessões
+- [[Cloud Native Novice]] — 12 sessões
+- [[Inclusion + Accessibility]] — 12 sessões
+- [[Interactive Sessions]] — 12 sessões
+- [[Business Value]] — 11 sessões
+- [[Badge Pick-up]] — 10 sessões
+- [[Emerging + Advanced]] — 9 sessões
+- [[SDLC]] — 8 sessões
+- [[Sponsor Theater]] — 7 sessões
+- [[COVID-19 Test Kit Pick-Up]] — 6 sessões
+- [[Sponsor-hosted Co-located Events]] — 6 sessões
+- [[🚨 ContribFest]] — 6 sessões
+- [[Sponsored Demos]] — 5 sessões
+- [[Student]] — 5 sessões
+- [[Diversity + Inclusion]] — 4 sessões
+- [[Operations]] — 4 sessões
+- [[Sponsor Hosted Co-Located Event]] — 4 sessões
+- [[Tutorials]] — 4 sessões
+- [[🪧 Poster Sessions]] — 4 sessões
+- [[Capture The Flag]] — 3 sessões
+- [[Connectivity]] — 3 sessões
+- [[Lightning Talks]] — 3 sessões
+- [[Office Hours]] — 3 sessões
+- [[Project Pavilion]] — 3 sessões
+- [[Serverless]] — 3 sessões
+- [[Wellness Activities]] — 3 sessões
+- [[Birds of a Feather]] — 2 sessões
+- [[Co-located Event]] — 2 sessões
+- [[Diversity + Inclusion Sessions]] — 2 sessões
+- [[Hackathon]] — 2 sessões
+- [[Open Interfaces + Interoperability]] — 2 sessões
+- [[Student Track]] — 2 sessões
+- [[Cloud Native Startup]] — 1 sessões
+- [[Multi-tenancy]] — 1 sessões
+- [[Project Working Sessions]] — 1 sessões
+- [[Research + Academia]] — 1 sessões
+- [[Research + Academia + HPC + Advanced Concepts]] — 1 sessões
+- [[📚 Tutorials]] — 1 sessões

@@ -1,0 +1,32 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+.obsidian/workspace*.json
+
+# Temporary/runtime
+_tmp/
+*.part
+*.tmp
+
+# Local binaries/tools
+bin/
+
+# Raw fetch caches (rebuildable)
+_sources/raw/
+
+# Subtitle formats; keep normalized .txt transcripts instead
+*.vtt
+*.srt
+*.ttml
+*.srv1
+*.srv2
+*.srv3
+
+# Python/cache
+__pycache__/
+*.pyc
+.venv/
+.deps/
+
+# Logs
+*.log

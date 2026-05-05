@@ -1,0 +1,98 @@
+# Solutions Showcase
+
+Sessões KubeCon classificadas neste tema.
+
+- [[solutions-showcase--solutions-showcase-e94d5d35|Solutions Showcase]] — KubeCon + CloudNativeCon Europe 2021 - Virtual, Virtual / Solutions Showcase
+- [[solutions-showcase--solutions-showcase-1897a7ed|Solutions Showcase]] — KubeCon + CloudNativeCon Europe 2021 - Virtual, Virtual / Solutions Showcase
+- [[solutions-showcase--solutions-showcase-9d95aff4|Solutions Showcase]] — KubeCon + CloudNativeCon Europe 2021 - Virtual, Virtual / Solutions Showcase
+- [[solutions-showcase--solutions-showcase-482b9832|Solutions Showcase]] — KubeCon + CloudNativeCon Europe 2021 - Virtual, Virtual / Solutions Showcase
+- [[project-pavilion--project-pavilion-9dab8fb4|Project Pavilion]] — KubeCon + CloudNativeCon North America 2021 - Los Angeles, United States / Solutions Showcase
+- [[project-pavilion--project-pavilion-322c9a2d|Project Pavilion]] — KubeCon + CloudNativeCon North America 2021 - Los Angeles, United States / Solutions Showcase
+- [[project-pavilion--project-pavilion-b1de9d42|Project Pavilion]] — KubeCon + CloudNativeCon North America 2021 - Los Angeles, United States / Solutions Showcase
+- [[solutions-showcase--solutions-showcase-bc4d2647|Solutions Showcase]] — KubeCon + CloudNativeCon North America 2021 - Los Angeles, United States / Solutions Showcase
+- [[solutions-showcase--solutions-showcase-8f3fd1cb|Solutions Showcase]] — KubeCon + CloudNativeCon North America 2021 - Los Angeles, United States / Solutions Showcase
+- [[solutions-showcase--solutions-showcase-e3ad9239|Solutions Showcase]] — KubeCon + CloudNativeCon North America 2021 - Los Angeles, United States / Solutions Showcase
+- [[solutions-showcase--solutions-showcase-369c7383|Solutions Showcase]] — KubeCon + CloudNativeCon Europe 2022 - Valencia, Spain / Solutions Showcase
+- [[solutions-showcase--solutions-showcase-15f2dace|Solutions Showcase]] — KubeCon + CloudNativeCon Europe 2022 - Valencia, Spain / Solutions Showcase
+- [[solutions-showcase--solutions-showcase-aff1a032|Solutions Showcase]] — KubeCon + CloudNativeCon Europe 2022 - Valencia, Spain / Solutions Showcase
+- [[solutions-showcase--solutions-showcase-50f55f5e|Solutions Showcase]] — KubeCon + CloudNativeCon North America 2022 - Detroit, United States / Solutions Showcase
+- [[solutions-showcase--solutions-showcase-9c7acda2|Solutions Showcase]] — KubeCon + CloudNativeCon North America 2022 - Detroit, United States / Solutions Showcase
+- [[solutions-showcase--solutions-showcase-04d1eb1b|Solutions Showcase]] — KubeCon + CloudNativeCon North America 2022 - Detroit, United States / Solutions Showcase
+- [[kubecrawl-cloudnativefest-sponsored-by-gitpod--kubecrawl-cloudnativefes-fce37bb6|KubeCrawl + CloudNativeFest sponsored by Gitpod]] — KubeCon + CloudNativeCon Europe 2023 - Amsterdam, Netherlands / Solutions Showcase
+- [[solutions-showcase--solutions-showcase-8d513639|Solutions Showcase]] — KubeCon + CloudNativeCon Europe 2023 - Amsterdam, Netherlands / Solutions Showcase
+- [[solutions-showcase--solutions-showcase-1b235e42|Solutions Showcase]] — KubeCon + CloudNativeCon Europe 2023 - Amsterdam, Netherlands / Solutions Showcase
+- [[solutions-showcase--solutions-showcase-e6e75459|Solutions Showcase]] — KubeCon + CloudNativeCon Europe 2023 - Amsterdam, Netherlands / Solutions Showcase
+- [[clbo-clashloopbackoff--clbo-clashloopbackoff-e91893ca|CLBO: ClashLoopBackOff]] — KubeCon + CloudNativeCon North America 2023 - Chicago, United States / Solutions Showcase
+- [[project-pavilion--project-pavilion-567c2458|Project Pavilion]] — KubeCon + CloudNativeCon North America 2023 - Chicago, United States / Solutions Showcase
+- [[project-pavilion--project-pavilion-9b76a4b6|Project Pavilion]] — KubeCon + CloudNativeCon North America 2023 - Chicago, United States / Solutions Showcase
+- [[project-pavilion--project-pavilion-d315617e|Project Pavilion]] — KubeCon + CloudNativeCon North America 2023 - Chicago, United States / Solutions Showcase
+- [[solutions-showcase--solutions-showcase-01a60b0b|Solutions Showcase]] — KubeCon + CloudNativeCon North America 2023 - Chicago, United States / Solutions Showcase
+- [[solutions-showcase--solutions-showcase-2ecdfe14|Solutions Showcase]] — KubeCon + CloudNativeCon North America 2023 - Chicago, United States / Solutions Showcase
+- [[solutions-showcase--solutions-showcase-71ba40dc|Solutions Showcase]] — KubeCon + CloudNativeCon North America 2023 - Chicago, United States / Solutions Showcase
+- [[solutions-showcase--solutions-showcase-90afd049|Solutions Showcase]] — KubeCon + CloudNativeCon Europe 2024 - Paris, France / Solutions Showcase
+- [[solutions-showcase--solutions-showcase-f23e5e27|Solutions Showcase]] — KubeCon + CloudNativeCon Europe 2024 - Paris, France / Solutions Showcase
+- [[solutions-showcase--solutions-showcase-6a80ee4d|Solutions Showcase]] — KubeCon + CloudNativeCon Europe 2024 - Paris, France / Solutions Showcase
+- [[solutions-showcase--solutions-showcase-865778cc|Solutions Showcase]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Solutions Showcase
+- [[solutions-showcase--solutions-showcase-3a7f351c|Solutions Showcase]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Solutions Showcase
+- [[solutions-showcase--solutions-showcase-d408c910|Solutions Showcase]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Solutions Showcase
+- [[solutions-showcase--solutions-showcase-238d6dae|Solutions Showcase]] — KubeCon + CloudNativeCon China 2025 - Hong Kong, China / Solutions Showcase
+- [[solutions-showcase--solutions-showcase-6400a174|Solutions Showcase]] — KubeCon + CloudNativeCon China 2025 - Hong Kong, China / Solutions Showcase
+- [[gold-sponsor-in-booth-demos--gold-sponsor-in-booth-de-418c5d86|Gold Sponsor In-Booth Demos]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Solutions Showcase
+- [[gold-sponsor-in-booth-demos--gold-sponsor-in-booth-de-cae681fe|Gold Sponsor In-Booth Demos]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Solutions Showcase
+- [[gold-sponsor-in-booth-demos--gold-sponsor-in-booth-de-48f0f8ed|Gold Sponsor In-Booth Demos]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Solutions Showcase
+- [[gold-sponsor-in-booth-demos--gold-sponsor-in-booth-de-619ea42b|Gold Sponsor In-Booth Demos]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Solutions Showcase
+- [[gold-sponsor-in-booth-demos--gold-sponsor-in-booth-de-914d6051|Gold Sponsor In-Booth Demos]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Solutions Showcase
+- [[gold-sponsor-in-booth-demos--gold-sponsor-in-booth-de-10dd2ed5|Gold Sponsor In-Booth Demos]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Solutions Showcase
+- [[gold-sponsor-in-booth-demos--gold-sponsor-in-booth-de-feacaee7|Gold Sponsor In-Booth Demos]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Solutions Showcase
+- [[gold-sponsor-in-booth-demos--gold-sponsor-in-booth-de-45f9d292|Gold Sponsor In-Booth Demos]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Solutions Showcase
+- [[gold-sponsor-in-booth-demos--gold-sponsor-in-booth-de-ec88ac5f|Gold Sponsor In-Booth Demos]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Solutions Showcase
+- [[gold-sponsor-in-booth-demos--gold-sponsor-in-booth-de-9f7982de|Gold Sponsor In-Booth Demos]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Solutions Showcase
+- [[gold-sponsor-in-booth-demos--gold-sponsor-in-booth-de-de83831e|Gold Sponsor In-Booth Demos]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Solutions Showcase
+- [[gold-sponsor-in-booth-demos--gold-sponsor-in-booth-de-39f4cb3d|Gold Sponsor In-Booth Demos]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Solutions Showcase
+- [[solutions-showcase--solutions-showcase-f8015070|Solutions Showcase]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Solutions Showcase
+- [[solutions-showcase--solutions-showcase-fa73c2ba|Solutions Showcase]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Solutions Showcase
+- [[solutions-showcase--solutions-showcase-ebe393d5|Solutions Showcase]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Solutions Showcase
+- [[sponsored-demo-focus-on-your-apps-not-infrastructure-with-heroku--sponsored-demo-focus-on-908a078f|Sponsored Demo: Focus on your apps not infrastructure with Heroku]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Solutions Showcase
+- [[sponsored-demo-from-zero-to-nkp-hero-jimmi-dyson-nutanix--sponsored-demo-from-zero-86de7779|Sponsored Demo: From Zero To (NKP) Hero - Jimmi Dyson, Nutanix]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Solutions Showcase
+- [[gold-sponsor-in-booth-demos--gold-sponsor-in-booth-de-b2b75b9a|Gold Sponsor In-Booth Demos]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Solutions Showcase
+- [[gold-sponsor-in-booth-demos--gold-sponsor-in-booth-de-086ea400|Gold Sponsor In-Booth Demos]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Solutions Showcase
+- [[gold-sponsor-in-booth-demos--gold-sponsor-in-booth-de-05df6a80|Gold Sponsor In-Booth Demos]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Solutions Showcase
+- [[gold-sponsor-in-booth-demos--gold-sponsor-in-booth-de-505af61a|Gold Sponsor In-Booth Demos]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Solutions Showcase
+- [[gold-sponsor-in-booth-demos--gold-sponsor-in-booth-de-4642832d|Gold Sponsor In-Booth Demos]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Solutions Showcase
+- [[gold-sponsor-in-booth-demos--gold-sponsor-in-booth-de-f1c96a95|Gold Sponsor In-Booth Demos]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Solutions Showcase
+- [[gold-sponsor-in-booth-demos--gold-sponsor-in-booth-de-9abea84a|Gold Sponsor In-Booth Demos]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Solutions Showcase
+- [[gold-sponsor-in-booth-demos--gold-sponsor-in-booth-de-fc053049|Gold Sponsor In-Booth Demos]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Solutions Showcase
+- [[gold-sponsor-in-booth-demos--gold-sponsor-in-booth-de-94898580|Gold Sponsor In-Booth Demos]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Solutions Showcase
+- [[gold-sponsor-in-booth-demos--gold-sponsor-in-booth-de-c2d2f9c0|Gold Sponsor In-Booth Demos]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Solutions Showcase
+- [[gold-sponsor-in-booth-demos--gold-sponsor-in-booth-de-574c5c84|Gold Sponsor In-Booth Demos]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Solutions Showcase
+- [[gold-sponsor-in-booth-demos--gold-sponsor-in-booth-de-b93526f6|Gold Sponsor In-Booth Demos]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Solutions Showcase
+- [[gold-sponsor-in-booth-demos--gold-sponsor-in-booth-de-4f64d097|Gold Sponsor In-Booth Demos]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Solutions Showcase
+- [[gold-sponsor-in-booth-demos--gold-sponsor-in-booth-de-90adee4d|Gold Sponsor In-Booth Demos]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Solutions Showcase
+- [[solutions-showcase--solutions-showcase-9be69912|Solutions Showcase]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Solutions Showcase
+- [[solutions-showcase--solutions-showcase-e437f4d1|Solutions Showcase]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Solutions Showcase
+- [[solutions-showcase--solutions-showcase-d23e83dc|Solutions Showcase]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Solutions Showcase
+- [[sponsored-demo-haproxy-universal-mesh-connect-every-service-app--sponsored-demo-haproxy-u-3d929417|Sponsored Demo: HAProxy & Universal Mesh: Connect Every Service, App, and Cloud]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Solutions Showcase
+- [[sponsored-demo-the-dra-paradigm-shift-request-a-capability-not-a--sponsored-demo-the-dra-p-dd4b85b4|Sponsored Demo: The DRA Paradigm Shift: Request a Capability, Not a Node]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Solutions Showcase
+- [[sponsored-demo-whats-new-in-tetragon--sponsored-demo-whats-new-71d624bc|Sponsored Demo: What's New in Tetragon]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Solutions Showcase
+- [[gold-sponsor-in-booth-demos--gold-sponsor-in-booth-de-4e3117d6|Gold Sponsor In-Booth Demos]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Solutions Showcase
+- [[gold-sponsor-in-booth-demos--gold-sponsor-in-booth-de-62de8042|Gold Sponsor In-Booth Demos]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Solutions Showcase
+- [[gold-sponsor-in-booth-demos--gold-sponsor-in-booth-de-45800eb8|Gold Sponsor In-Booth Demos]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Solutions Showcase
+- [[gold-sponsor-in-booth-demos--gold-sponsor-in-booth-de-b06a612c|Gold Sponsor In-Booth Demos]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Solutions Showcase
+- [[gold-sponsor-in-booth-demos--gold-sponsor-in-booth-de-b96df08e|Gold Sponsor In-Booth Demos]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Solutions Showcase
+- [[gold-sponsor-in-booth-demos--gold-sponsor-in-booth-de-c9d482ab|Gold Sponsor In-Booth Demos]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Solutions Showcase
+- [[gold-sponsor-in-booth-demos--gold-sponsor-in-booth-de-1cb6ec83|Gold Sponsor In-Booth Demos]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Solutions Showcase
+- [[gold-sponsor-in-booth-demos--gold-sponsor-in-booth-de-28c9ea80|Gold Sponsor In-Booth Demos]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Solutions Showcase
+- [[gold-sponsor-in-booth-demos--gold-sponsor-in-booth-de-f8eb615a|Gold Sponsor In-Booth Demos]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Solutions Showcase
+- [[gold-sponsor-in-booth-demos--gold-sponsor-in-booth-de-bc8920f4|Gold Sponsor In-Booth Demos]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Solutions Showcase
+- [[gold-sponsor-in-booth-demos--gold-sponsor-in-booth-de-941270da|Gold Sponsor In-Booth Demos]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Solutions Showcase
+- [[learning-lounge-cnpa-or-cnpe-roles-skills-which-one-is-right-for--learning-lounge-cnpa-or-3c9f6811|Learning Lounge: CNPA or CNPE? Roles, Skills & Which One is Right For You?]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Solutions Showcase
+- [[learning-lounge-dont-cross-wires-cross-skill-aligning-teams-arou--learning-lounge-dont-cro-5312b12f|Learning Lounge: Don’t Cross Wires - Cross-Skill: Aligning Teams Around Smart Learning Paths]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Solutions Showcase
+- [[learning-lounge-dont-cross-wires-cross-skill-aligning-teams-arou--learning-lounge-dont-cro-520d8266|Learning Lounge: Don’t Cross Wires - Cross-Skill: Aligning Teams Around Smart Learning Paths]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Solutions Showcase
+- [[learning-lounge-knowledge-is-a-map-not-a-badge--learning-lounge-knowledg-f7a9b671|Learning Lounge: Knowledge is a Map, Not a Badge]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Solutions Showcase
+- [[learning-lounge-starting-your-kubestronaut-journey-with-the-kcna--learning-lounge-starting-9f8054c5|Learning Lounge: Starting Your Kubestronaut Journey with the KCNA, CKA and CKAD]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Solutions Showcase
+- [[solutions-showcase--solutions-showcase-9f2571b1|Solutions Showcase]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Solutions Showcase
+- [[solutions-showcase--solutions-showcase-ce41a2fb|Solutions Showcase]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Solutions Showcase
+- [[solutions-showcase--solutions-showcase-a556568c|Solutions Showcase]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Solutions Showcase
+- [[sponsored-demo-api-collaboration-in-postman-your-git-repo-is-now--sponsored-demo-api-colla-8fce433e|Sponsored Demo: API Collaboration in Postman: Your Git Repo is now the Single Source of Truth for your APIs]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Solutions Showcase
+- [[sponsored-demo-context-is-all-you-need-the-art-and-science-of-in--sponsored-demo-context-i-8674594b|Sponsored Demo: Context is All You Need: The Art and Science of Information Design]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Solutions Showcase
+- [[sponsored-demo-ctrl-alt-deploy-windows-workloads-as-a-service-po--sponsored-demo-ctrl-alt-7bb9c585|Sponsored Demo: Ctrl+Alt+Deploy: Windows Workloads as a Service powered by kubeVirt]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Solutions Showcase

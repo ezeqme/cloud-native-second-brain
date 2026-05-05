@@ -1,0 +1,129 @@
+# Cloud Native
+
+Sessões KubeCon classificadas neste tema.
+
+- [[bingo--bingo-sponsored-by-cockr-3cec7672|Bingo]] — KubeCon + CloudNativeCon Europe 2021 - Virtual, Virtual / Unclassified
+- [[bingo--bingo-sponsored-by-cockr-e07ee558|Bingo]] — KubeCon + CloudNativeCon Europe 2021 - Virtual, Virtual / Unclassified
+- [[escape-room--escape-room-sponsored-by-cb0f0c1f|Escape Room]] — KubeCon + CloudNativeCon Europe 2021 - Virtual, Virtual / Unclassified
+- [[escape-room--escape-room-sponsored-by-b96f39c0|Escape Room]] — KubeCon + CloudNativeCon Europe 2021 - Virtual, Virtual / Unclassified
+- [[houston-weve-got-a-problem-how-to-debug-your-pipeline-in-tekton--houston-weve-got-a-probl-5bed513a|Houston, We’ve Got a Problem! : How to Debug your Pipeline in Tekton]] — KubeCon + CloudNativeCon Europe 2021 - Virtual, Virtual / Unclassified
+- [[live-experiments-with-k8s-applications-pitfalls-and-how-to-avoid--live-experiments-with-k8-cd11a7d8|Live Experiments with K8s Applications: Pitfalls and How to Avoid Them]] — KubeCon + CloudNativeCon Europe 2021 - Virtual, Virtual / Unclassified
+- [[pop-culture-trivia--pop-culture-trivia-spons-7c390391|Pop Culture Trivia]] — KubeCon + CloudNativeCon Europe 2021 - Virtual, Virtual / Unclassified
+- [[star-wars-trivia--star-wars-trivia-sponsor-3d157c10|Star Wars Trivia]] — KubeCon + CloudNativeCon Europe 2021 - Virtual, Virtual / Unclassified
+- [[ama-coffee-klatch-with-priyanka-sharma-gm-of-cncf--ama-coffee-klatch-with-p-9cdee9c0|AMA Coffee Klatch with Priyanka Sharma, GM of CNCF]] — KubeCon + CloudNativeCon North America 2021 - Los Angeles, United States / Unclassified
+- [[ama-happy-hour-with-priyanka-sharma-gm-of-cncf--ama-happy-hour-with-priy-67b99db9|AMA Happy Hour with Priyanka Sharma, GM of CNCF]] — KubeCon + CloudNativeCon North America 2021 - Los Angeles, United States / Unclassified
+- [[all-attendee-party-sponsored-by-kasten-by-veeam-and-humio--all-attendee-party-spons-bf2a4613|All-Attendee Party sponsored by Kasten by Veeam and Humio]] — KubeCon + CloudNativeCon North America 2021 - Los Angeles, United States / Unclassified
+- [[battlesnake-kubecon-cup--battlesnake-kubecon-cup-33df3c81|Battlesnake: KubeCon Cup]] — KubeCon + CloudNativeCon North America 2021 - Los Angeles, United States / Unclassified
+- [[battlesnake-kubecon-cup--battlesnake-kubecon-cup-a500b3d9|Battlesnake: KubeCon Cup]] — KubeCon + CloudNativeCon North America 2021 - Los Angeles, United States / Unclassified
+- [[bug-bash-kick-off--bug-bash-kick-off-251bf39b|Bug Bash Kick Off!]] — KubeCon + CloudNativeCon North America 2021 - Los Angeles, United States / Unclassified
+- [[bug-bash-online-kick-off--bug-bash-online-kick-off-56ddfab6|Bug Bash Online Kick Off!]] — KubeCon + CloudNativeCon North America 2021 - Los Angeles, United States / Unclassified
+- [[bug-bash-presented-by-cncf-sonatype--bug-bash-presented-by-cn-343db4bf|Bug Bash, presented by CNCF + Sonatype]] — KubeCon + CloudNativeCon North America 2021 - Los Angeles, United States / Unclassified
+- [[cncf-governing-board-session--cncf-governing-board-ses-5166a1be|CNCF Governing Board Session]] — KubeCon + CloudNativeCon North America 2021 - Los Angeles, United States / Unclassified
+- [[sig-events-using-cloudevents-to-create-an-interoperable-ci-cd-ec--sig-events-using-cloudev-5ba8866c|SIG Events: Using CloudEvents to Create an Interoperable CI/CD Ecosystem]] — KubeCon + CloudNativeCon North America 2021 - Los Angeles, United States / Unclassified
+- [[all-attendee-party-sponsored-by-kasten-by-veeam-and-snyk--all-attendee-party-spons-a9158227|All-Attendee Party 🎉 Sponsored by Kasten by Veeam and Snyk]] — KubeCon + CloudNativeCon Europe 2022 - Valencia, Spain / Unclassified
+- [[prow-leveraging-developer-centric-ci-for-your-oss-project--prow-leveraging-develope-a42ed249|Prow! Leveraging Developer-Centric CI for Your OSS Project!]] — KubeCon + CloudNativeCon Europe 2022 - Valencia, Spain / Unclassified
+- [[virtual-ama-happy-hour-with-priyanka-sharma--virtual-ama-happy-hour-w-ae0737df|Virtual AMA Happy Hour with Priyanka Sharma]] — KubeCon + CloudNativeCon Europe 2022 - Valencia, Spain / Unclassified
+- [[all-attendee-party-sponsored-by-kasten-by-veeam-and-snyk--all-attendee-party-spons-9e9e0b4b|All Attendee Party, Sponsored by Kasten by Veeam and Snyk 🎉]] — KubeCon + CloudNativeCon North America 2022 - Detroit, United States / Unclassified
+- [[bof-how-can-we-build-stronger-user-support-groups--bof-how-can-we-build-str-4c771365|BoF: How Can We Build Stronger User Support Groups?]] — KubeCon + CloudNativeCon North America 2022 - Detroit, United States / Unclassified
+- [[the-windows-operational-readiness-specification--the-windows-operational-d05668f9|The Windows Operational Readiness Specification]] — KubeCon + CloudNativeCon North America 2022 - Detroit, United States / Unclassified
+- [[cloud-native-authorization-bof--cloud-native-authorizati-51633d2e|Cloud Native Authorization BoF]] — KubeCon + CloudNativeCon Europe 2023 - Amsterdam, Netherlands / Unclassified
+- [[graduated-project-celebration--graduated-project-celebr-0ba2ea7a|Graduated Project Celebration 🎉]] — KubeCon + CloudNativeCon Europe 2023 - Amsterdam, Netherlands / Unclassified
+- [[marketing-lounge-office-hours--marketing-lounge-office-7b601166|Marketing Lounge Office Hours]] — KubeCon + CloudNativeCon Europe 2023 - Amsterdam, Netherlands / Unclassified
+- [[marketing-lounge-office-hours--marketing-lounge-office-0635a3e6|Marketing Lounge Office Hours]] — KubeCon + CloudNativeCon Europe 2023 - Amsterdam, Netherlands / Unclassified
+- [[marketing-lounge-office-hours--marketing-lounge-office-11fc0a82|Marketing Lounge Office Hours]] — KubeCon + CloudNativeCon Europe 2023 - Amsterdam, Netherlands / Unclassified
+- [[marketing-lounge-office-hours-by-appointment-only--marketing-lounge-office-629520cb|Marketing Lounge Office Hours (by appointment only)]] — KubeCon + CloudNativeCon Europe 2023 - Amsterdam, Netherlands / Unclassified
+- [[multi-arch-infrastructure-from-the-ground-up--multi-arch-infrastructur-19fad8ed|Multi-Arch Infrastructure from the Ground up]] — KubeCon + CloudNativeCon Europe 2023 - Amsterdam, Netherlands / Unclassified
+- [[open-metaverse-in-the-cloud-bof--open-metaverse-in-the-cl-3aca7c35|Open Metaverse in the Cloud BoF]] — KubeCon + CloudNativeCon Europe 2023 - Amsterdam, Netherlands / Unclassified
+- [[open-space-session-the-future-of-cncf-students--open-space-session-the-f-aed5f4e4|Open Space Session: The future of CNCF students]] — KubeCon + CloudNativeCon Europe 2023 - Amsterdam, Netherlands / Unclassified
+- [[open-space-session-cloudnative-coop-live-shared-cloud-cooperatio--open-space-session-cloud-f683ae53|Open Space Session: cloudnative.coop : Live Shared Cloud Cooperation]] — KubeCon + CloudNativeCon Europe 2023 - Amsterdam, Netherlands / Unclassified
+- [[verifiable-github-actions-with-ebpf--verifiable-github-action-77d0a0fe|Verifiable GitHub Actions with eBPF]] — KubeCon + CloudNativeCon Europe 2023 - Amsterdam, Netherlands / Unclassified
+- [[documentary-film--documentary-film-ebpf-un-a970b249|Documentary Film]] — KubeCon + CloudNativeCon North America 2023 - Chicago, United States / Unclassified
+- [[graduated-project-celebration--graduated-project-celebr-9c9d8af7|Graduated Project Celebration 🎉]] — KubeCon + CloudNativeCon North America 2023 - Chicago, United States / Unclassified
+- [[marketing-team-office-hours--marketing-team-office-ho-5afb7b85|Marketing Team Office Hours]] — KubeCon + CloudNativeCon North America 2023 - Chicago, United States / Unclassified
+- [[marketing-team-office-hours--marketing-team-office-ho-c3ceedac|Marketing Team Office Hours]] — KubeCon + CloudNativeCon North America 2023 - Chicago, United States / Unclassified
+- [[marketing-team-office-hours--marketing-team-office-ho-1c2c9c1b|Marketing Team Office Hours]] — KubeCon + CloudNativeCon North America 2023 - Chicago, United States / Unclassified
+- [[marketing-team-office-hours-by-appointment--marketing-team-office-ho-7109b79a|Marketing Team Office Hours (by appointment)]] — KubeCon + CloudNativeCon North America 2023 - Chicago, United States / Unclassified
+- [[ospology-live-north-america--ospology-live-north-amer-6bd74e9b|OSPOlogy Live North America]] — KubeCon + CloudNativeCon North America 2023 - Chicago, United States / Unclassified
+- [[observing-a-large-language-model-in-production--observing-a-large-langua-4c31a224|Observing a Large Language Model in Production]] — KubeCon + CloudNativeCon North America 2023 - Chicago, United States / Unclassified
+- [[open-space-session-ask-me-anything--open-space-session-ask-m-51e12b66|Open Space Session: "Ask Me Anything"]] — KubeCon + CloudNativeCon North America 2023 - Chicago, United States / Unclassified
+- [[open-space-session-cloud-native-adoption-in-higher-education--open-space-session-cloud-fa4306bf|Open Space Session: Cloud Native Adoption in Higher Education]] — KubeCon + CloudNativeCon North America 2023 - Chicago, United States / Unclassified
+- [[real-time-caching-for-cloud-native-applications-with-redis--real-time-caching-for-cl-eb5044e2|Real-Time Caching for Cloud Native Applications with Redis]] — KubeCon + CloudNativeCon North America 2023 - Chicago, United States / Unclassified
+- [[smart-global-replication-using-reinforcement-learning--smart-global-replication-b97bd104|Smart Global Replication Using Reinforcement Learning]] — KubeCon + CloudNativeCon North America 2023 - Chicago, United States / Unclassified
+- [[technical-advisory-groups-tag-meet-and-greet--technical-advisory-group-fee01782|Technical Advisory Groups (TAG) Meet and Greet]] — KubeCon + CloudNativeCon North America 2023 - Chicago, United States / Unclassified
+- [[clbo-clashloopbackoff-with-jeffrey-sica-cncf--clbo-clashloopbackoff-wi-6b0fc0ed|CLBO: ClashLoopBackOff with Jeffrey Sica, CNCF]] — KubeCon + CloudNativeCon Europe 2024 - Paris, France / Unclassified
+- [[cloud-native-learning-lounge--cloud-native-learning-lo-116ec76e|Cloud Native Learning Lounge]] — KubeCon + CloudNativeCon Europe 2024 - Paris, France / Unclassified
+- [[cloud-native-learning-lounge--cloud-native-learning-lo-647225a1|Cloud Native Learning Lounge]] — KubeCon + CloudNativeCon Europe 2024 - Paris, France / Unclassified
+- [[cloud-native-learning-lounge--cloud-native-learning-lo-fcd4ced5|Cloud Native Learning Lounge]] — KubeCon + CloudNativeCon Europe 2024 - Paris, France / Unclassified
+- [[fun-run--fun-run-78ca55a7|Fun Run]] — KubeCon + CloudNativeCon Europe 2024 - Paris, France / Unclassified
+- [[graduated-project-celebration--graduated-project-celebr-dd21405f|Graduated Project Celebration 🎉]] — KubeCon + CloudNativeCon Europe 2024 - Paris, France / Unclassified
+- [[open-space-session-ask-me-anything--open-space-session-ask-m-dd9a76a9|Open Space Session: "Ask Me Anything"]] — KubeCon + CloudNativeCon Europe 2024 - Paris, France / Unclassified
+- [[kubecrawl-cloudnativefest-sponsored-by-adevinta-and-upbound--kubecrawl-cloudnativefes-8e48fe80|🎉 #KubeCrawl + #CloudNativeFest Sponsored by Adevinta and Upbound]] — KubeCon + CloudNativeCon Europe 2024 - Paris, France / Unclassified
+- [[cloud-native-sign-language-crash-course-asl-is--cloud-native-sign-langua-a9263322|🤟 Cloud Native Sign Language Crash Course (ASL/IS)]] — KubeCon + CloudNativeCon Europe 2024 - Paris, France / Unclassified
+- [[clbo-clashloopbackoff--clbo-clashloopbackoff-95e98243|CLBO: ClashLoopBackOff]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Unclassified
+- [[clbo-clashloopbackoff-attendee-edition--clbo-clashloopbackoff-at-8320bcef|CLBO: ClashLoopBackOff | Attendee Edition]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Unclassified
+- [[clbo-clashloopbackoff-attendee-edition--clbo-clashloopbackoff-at-5b2c19ed|CLBO: ClashLoopBackOff | Attendee Edition]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Unclassified
+- [[cncf-public-sector-user-group-bof--cncf-public-sector-user-8ceab1cb|CNCF Public Sector User Group BoF]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Unclassified
+- [[graduated-projects-celebration--graduated-projects-celeb-cefdd1c0|Graduated Projects Celebration 🎉]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Unclassified
+- [[learning-lounge-ask-it-any-cncf-course-or-certification--learning-lounge-ask-it-a-3470b9fd|Learning Lounge: Ask It! Any CNCF Course or Certification]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Unclassified
+- [[learning-lounge-become-a-kubestronaut-engineering-for-the-cloud--learning-lounge-become-a-0e6c6fc3|Learning Lounge: Become a Kubestronaut: Engineering for the Cloud Native World]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Unclassified
+- [[learning-lounge-rag-meets-quantum-just-say-yes--learning-lounge-rag-meet-9d3fd2eb|Learning Lounge: RAG Meets Quantum - Just Say Yes!]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Unclassified
+- [[learning-lounge-the-value-of-higher-ed-the-linux-foundation-toge--learning-lounge-the-valu-31d50f2b|Learning Lounge: The Value of Higher Ed & the Linux Foundation Together]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Unclassified
+- [[learning-lounge-your-cloud-career-cncf-certifications--learning-lounge-your-clo-1685460a|Learning Lounge: Your Cloud Career & CNCF Certifications]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Unclassified
+- [[pet-a-pup-sponsored-by-sonatype--pet-a-pup-sponsored-by-s-43fb1399|Pet-a-Pup Sponsored by Sonatype]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Unclassified
+- [[pet-a-pup-sponsored-by-sonatype--pet-a-pup-sponsored-by-s-64512a8b|Pet-a-Pup Sponsored by Sonatype]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Unclassified
+- [[pet-a-pup-sponsored-by-sonatype--pet-a-pup-sponsored-by-s-a7575d88|Pet-a-Pup Sponsored by Sonatype]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Unclassified
+- [[project-pavilion-unconference-sessions--project-pavilion-unconfe-1978fb43|Project Pavilion Unconference Sessions]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Unclassified
+- [[project-pavilion-unconference-sessions--project-pavilion-unconfe-fcd4519c|Project Pavilion Unconference Sessions]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Unclassified
+- [[relaxation-station--relaxation-station-a1412ed1|Relaxation Station]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Unclassified
+- [[relaxation-station--relaxation-station-40b61ea2|Relaxation Station]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Unclassified
+- [[relaxation-station--relaxation-station-387b45a2|Relaxation Station]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Unclassified
+- [[self-led-morning-run-sponsored-by-sonatype--self-led-morning-run-spo-62bdbf88|Self-Led Morning Run Sponsored by Sonatype]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Unclassified
+- [[self-led-morning-run-sponsored-by-sonatype--self-led-morning-run-spo-0589b25e|Self-Led Morning Run Sponsored by Sonatype]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Unclassified
+- [[kubecrawl-cloudnativefest-sponsored-by-cdw--kubecrawl-cloudnativefes-1d7180b9|🎉 #KubeCrawl + #CloudNativeFest Sponsored by CDW]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Unclassified
+- [[appreciation-for-newly-graduated-projects--appreciation-for-newly-g-d5fcd1e7|Appreciation for Newly Graduated Projects 🎉]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Unclassified
+- [[bof-european-cloud-native-stories-sylva-project-and-neonephos--bof-european-cloud-nativ-33b9ee9c|BoF | European Cloud Native Stories: Sylva Project and NeoNephos]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Unclassified
+- [[bof-ospology-birds-of-a-feather--bof-ospology-birds-of-a-37e6ae35|BoF | OSPOlogy Birds of a Feather]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Unclassified
+- [[bof-openjs-live-for-javascript-node-js-web-devs--bof-openjs-live-for-java-d7990e6a|BoF | OpenJS Live for JavaScript, Node.js & Web Devs]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Unclassified
+- [[clbo-clashloopbackoff--clbo-clashloopbackoff-42fbf354|CLBO: ClashLoopBackOff]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Unclassified
+- [[clbo-clashloopbackoff-attendee-edition--clbo-clashloopbackoff-at-68bc02e3|CLBO: ClashLoopBackOff: Attendee Edition]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Unclassified
+- [[clbo-clashloopbackoff-attendee-edition--clbo-clashloopbackoff-at-34d578b6|CLBO: ClashLoopBackOff: Attendee Edition]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Unclassified
+- [[cncf-end-user-happy-hour--cncf-end-user-happy-hour-718babc8|CNCF End User Happy Hour]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Unclassified
+- [[fun-run-london-tour--fun-run-london-tour-nulb-591e7ad2|Fun Run + London Tour 🏃‍♀️🏃‍♂️]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Unclassified
+- [[learning-lounge-become-a-kubestronaut-pilot-the-cloud-native-wor--learning-lounge-become-a-e289089e|Learning Lounge: Become a Kubestronaut & Pilot the Cloud Native World!]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Unclassified
+- [[learning-lounge-certification-exam-rules-procedures--learning-lounge-certific-5f348a82|Learning Lounge: Certification Exam Rules & Procedures]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Unclassified
+- [[learning-lounge-cloud-native-career-growth--learning-lounge-cloud-na-d9d07dec|Learning Lounge: Cloud Native Career Growth]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Unclassified
+- [[learning-lounge-kcna-kcsa-certifications--learning-lounge-kcna-kcs-5705d79b|Learning Lounge: KCNA & KCSA Certifications]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Unclassified
+- [[learning-lounge-kcna-why-start-with-a-vendor-neutral-certificati--learning-lounge-kcna-why-a05c5532|Learning Lounge: KCNA: Why Start with a Vendor-neutral Certification]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Unclassified
+- [[learning-lounge-kubestronaut-golden-kubestronaut-program--learning-lounge-kubestro-8e47858a|Learning Lounge: Kubestronaut & Golden Kubestronaut Program]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Unclassified
+- [[learning-lounge-sensitive-keys-in-codebases-hidden-in-layers-con--learning-lounge-sensitiv-052d4e30|Learning Lounge: Sensitive Keys in Codebases & Hidden in Layers Contest]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Unclassified
+- [[learning-lounge-sensitive-keys-in-codebases-hidden-in-layers-con--learning-lounge-sensitiv-3dd65291|Learning Lounge: Sensitive Keys in Codebases & Hidden in Layers Contest]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Unclassified
+- [[kubecrawl-cloudnativefest--kubecrawl-cloudnativefes-f074d4ef|🎉 #KubeCrawl + #CloudNativeFest]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Unclassified
+- [[appreciation-for-newly-graduated-projects-project-birthdays-cele--appreciation-for-newly-g-27381b79|Appreciation for Newly Graduated Projects + Project Birthdays Celebration 🎉]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Unclassified
+- [[becoming-an-impactful-cncf-member--becoming-an-impactful-cn-c528830c|Becoming an Impactful CNCF Member]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Unclassified
+- [[becoming-an-impactful-cncf-member--becoming-an-impactful-cn-001243ab|Becoming an Impactful CNCF Member]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Unclassified
+- [[bof-public-sector-cncf-user-group--bof-public-sector-cncf-u-31fcd532|BoF | Public Sector CNCF User Group]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Unclassified
+- [[cncf-end-user-happy-hour--cncf-end-user-happy-hour-d15c33bf|CNCF End User Happy Hour]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Unclassified
+- [[learning-lounge-dont-cross-wires-cross-skill-aligning-teams-arou--learning-lounge-dont-cro-85bbffd2|Learning Lounge: Don’t Cross Wires - Cross-Skill: Aligning Teams Around Smart Learning Paths]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Unclassified
+- [[learning-lounge-sensitive-keys-in-codebases-hidden-in-layers-con--learning-lounge-sensitiv-754cecec|Learning Lounge: Sensitive Keys in Codebases & Hidden in Layers Contest]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Unclassified
+- [[learning-lounge-sensitive-keys-in-codebases-hidden-in-layers-con--learning-lounge-sensitiv-21a7c0f1|Learning Lounge: Sensitive Keys in Codebases & Hidden in Layers Contest]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Unclassified
+- [[learning-lounge-starting-your-kubestronaut-journey-with-the-kcna--learning-lounge-starting-72505b22|Learning Lounge: Starting your Kubestronaut Journey with the KCNA, CKA and CKAD]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Unclassified
+- [[learning-lounge-the-must-have-okr-for-2026--learning-lounge-the-must-1ef9c1e5|Learning Lounge: The "Must Have" OKR for 2026]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Unclassified
+- [[pet-a-pup--pet-a-pup-23ba781d|Pet-a-Pup]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Unclassified
+- [[pet-a-pup--pet-a-pup-c001e62f|Pet-a-Pup]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Unclassified
+- [[relaxation-station--relaxation-station-058eff0a|Relaxation Station]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Unclassified
+- [[relaxation-station--relaxation-station-0ed2b399|Relaxation Station]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Unclassified
+- [[relaxation-station--relaxation-station-c5f87031|Relaxation Station]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Unclassified
+- [[sound-bath--sound-bath-5eacb2c4|Sound Bath]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Unclassified
+- [[sound-bath--sound-bath-af365e02|Sound Bath]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Unclassified
+- [[sound-bath--sound-bath-9ea24dc9|Sound Bath]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Unclassified
+- [[kubecrawl-cloudnativefest--kubecrawl-cloudnativefes-e5819815|🎉 #KubeCrawl + #CloudNativeFest]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Unclassified
+- [[fun-run--fun-run-070d1b95|🏃 Fun Run]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Unclassified
+- [[an-introduction-to-capture-the-flag--an-introduction-to-captu-14f6743a|🚩An Introduction to Capture The Flag]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Unclassified
+- [[an-introduction-to-capture-the-flag--an-introduction-to-captu-c56ade27|🚩An Introduction to Capture The Flag]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Unclassified
+- [[capture-the-flag-experience--capture-the-flag-experie-0e369cc3|🚩Capture The Flag Experience]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Unclassified
+- [[capture-the-flag-experience--capture-the-flag-experie-e66a95bb|🚩Capture The Flag Experience]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Unclassified
+- [[elekto-working-session--elekto-working-session-d852f230|Elekto Working Session]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Unclassified
+- [[group-fun-run-walk--group-fun-runwalk-8ac6eb1d|Group Fun Run/Walk]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Unclassified
+- [[laughter-workshop--laughter-workshop-a06bd6ad|Laughter Workshop]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Unclassified
+- [[laughter-workshop--laughter-workshop-790fc552|Laughter Workshop]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Unclassified
+- [[kubecrawl-cloudnativefest--kubecrawl-cloudnativefes-8af22a8f|🎉 #KubeCrawl + #CloudNativeFest]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Unclassified

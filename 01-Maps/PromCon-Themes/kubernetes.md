@@ -1,0 +1,41 @@
+# Kubernetes
+
+Talks PromCon classificadas neste tema.
+
+- [[10x-improvement-for-kubernetes-performance|10x Improvement for Kubernetes Performance]] — PromCon 2016
+- [[hadoop-fluentd-cluster-monitoring-with-prometheus-and-grafana|Hadoop, Fluentd Cluster Monitoring with Prometheus and Grafana]] — PromCon 2016
+- [[prometheus-as-a-customer-facing-monitoring-tool-for-spatialos-simulations|Prometheus as a Customer-Facing Monitoring Tool for SpatialOS Simulations]] — PromCon 2016
+- [[scaling-to-a-million-machines-with-prometheus|Scaling to a Million Machines with Prometheus]] — PromCon 2016
+- [[alertmanager-and-high-availability|Alertmanager and High Availability]] — PromCon 2017
+- [[lightning-talks-day-two|Lightning Talks Day Two]] — PromCon 2017
+- [[prometheus-everything-observing-kubernetes-in-the-cloud|Prometheus Everything, Observing Kubernetes in the Cloud]] — PromCon 2017
+- [[storing-16-bytes-at-scale|Storing 16 Bytes at Scale]] — PromCon 2017
+- [[autoscaling-all-things-kubernetes-with-prometheus|Autoscaling All Things Kubernetes with Prometheus]] — PromCon 2018
+- [[prometheus-monitoring-mixins-using-jsonnet-to-package-together-dashboards-alerts-and-expor|Prometheus Monitoring Mixins: Using Jsonnet to Package Together Dashboards, Alerts, and Exporters]] — PromCon 2018
+- [[thanos-prometheus-at-scale|Thanos - Prometheus at Scale]] — PromCon 2018
+- [[using-the-flux-query-engine-to-query-multiple-prometheus-servers|Using the Flux Query Engine to Query Multiple Prometheus Servers]] — PromCon 2018
+- [[what-prometheus-means-for-monitoring-vendors|What Prometheus Means for Monitoring Vendors]] — PromCon 2018
+- [[lightning-talks-day-two|Lightning Talks Day Two]] — PromCon EU 2019
+- [[monitoring-nodeless-kubernetes-workloads-with-prometheus|Monitoring Nodeless Kubernetes Workloads with Prometheus]] — PromCon EU 2019
+- [[prometheus-and-jaeger-a-match-made-in-heaven|Prometheus and Jaeger: A Match Made in Heaven!]] — PromCon EU 2019
+- [[prometheus-in-small-and-medium-businesses-why-you-dont-need-to-do-rocket-science-kubernete|Prometheus in Small and Medium Businesses: Why You Don't Need to Do Rocket Science (Kubernetes) to Use It]] — PromCon EU 2019
+- [[centralized-vs-decentralized-how-doordash-collects-prometheus-metrics|Centralized vs. Decentralized - How DoorDash Collects Prometheus Metrics]] — PromCon EU 2022
+- [[securing-prometheus-lessons-learned-from-openshift|Securing Prometheus: Lessons Learned from OpenShift]] — PromCon EU 2022
+- [[configuring-your-opentelemetry-collector-for-prometheus|Configuring your OpenTelemetry collector for Prometheus]] — PromCon EU 2023
+- [[learning-from-mistakes-choosing-the-right-metrics-for-prometheus-alerting|Learning from Mistakes - Choosing the Right Metrics for Prometheus Alerting]] — PromCon EU 2023
+- [[perses-the-cncf-candidate-for-observability-visualisation|Perses: The CNCF candidate for observability visualisation]] — PromCon EU 2023
+- [[planet-scale-monitoring-handling-billions-of-active-series-with-prometheus-and-thanos|Planet scale monitoring: Handling billions of active series with Prometheus and Thanos]] — PromCon EU 2023
+- [[testing-kubernetes-apps-observability-end-to-end|Testing Kubernetes apps' observability end-to-end]] — PromCon EU 2023
+- [[wheres-your-money-going-the-beginners-guide-to-measuring-kubernetes-costs|Where's your money going? The Beginners Guide To Measuring Kubernetes Costs]] — PromCon EU 2023
+- [[agile-monitoring-at-scale-with-thanos|Agile Monitoring At Scale With Thanos]] — PromCon EU 2024
+- [[applying-gitops-principles-for-central-alert-management|Applying GitOps principles for central alert management]] — PromCon EU 2024
+- [[harnessing-the-potential-of-prometheus-agent-mode|Harnessing the potential of Prometheus Agent mode]] — PromCon EU 2024
+- [[inside-a-promql-query-understanding-the-mechanics|Inside a PromQL Query: Understanding the Mechanics]] — PromCon EU 2024
+- [[shopifys-journey-from-conventional-to-native-histograms|Shopify's journey from conventional to native histograms]] — PromCon EU 2024
+- [[the-weirdest-promql-youll-ever-see-promql-for-reporting-analytics-and-business-intelligenc|The weirdest PromQL you’ll ever see: PromQL for Reporting, Analytics, and Business Intelligence]] — PromCon EU 2024
+- [[unbreakable-prometheus-leveraging-limits-for-consistent-monitoring|Unbreakable Prometheus: Leveraging Limits for Consistent Monitoring]] — PromCon EU 2024
+- [[why-shipping-native-histograms-to-our-users-is-a-game-changer|Why Shipping Native Histograms To Our Users Is a Game Changer]] — PromCon EU 2024
+- [[gluing-it-all-together-aka-building-a-platform-around-prometheus|“Gluing it all together” aka building a platform around Prometheus]] — PromCon EU 2024
+- [[alertmanager-has-amnesia-should-we-fix-it|Alertmanager Has Amnesia – Should We Fix It?]] — PromCon EU 2025
+- [[from-manual-to-managed-prometheus-agent-deployment-at-scale|From Manual to Managed: Prometheus Agent Deployment at Scale]] — PromCon EU 2025
+- [[no-jsonnet-no-problem-prometheus-in-perses-powered-by-go|No Jsonnet? No Problem! Prometheus in Perses, Powered by Go]] — PromCon EU 2025

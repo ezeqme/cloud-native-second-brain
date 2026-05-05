@@ -1,0 +1,42 @@
+---
+type: kubecon-session
+event: "KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States"
+event_id: kccncna2024
+year: 2024
+region: "North America"
+city: "Salt Lake City"
+country: "United States"
+event_date: "2024-11-12/2024-11-15"
+track: "Unclassified"
+themes: ["Security"]
+speakers: ["Aleks Jones", "Linux Foundation Education"]
+sched_url: https://kccncna2024.sched.com/event/1rFnL/learning-lounge-take-the-cybersecurity-challenge-beat-the-1-minute-sql-injection-company-takeover-aleks-jones-linux-foundation-education
+youtube_search_url: https://www.youtube.com/results?search_query=Learning+Lounge%3A+Take+the+Cybersecurity+Challenge%3A+Beat+the+1-Minute+SQL+Injection+Company+Takeover+CNCF+KubeCon+2024
+slides: []
+status: parsed
+---
+
+# Learning Lounge: Take the Cybersecurity Challenge: Beat the 1-Minute SQL Injection Company Takeover - Aleks Jones, Linux Foundation Education
+
+## Identificação
+
+- Edição: KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States
+- Trilha oficial: [[Unclassified]]
+- Temas: [[Security]]
+- País/cidade: United States / Salt Lake City
+- Speakers: Aleks Jones, Linux Foundation Education
+- Schedule: https://kccncna2024.sched.com/event/1rFnL/learning-lounge-take-the-cybersecurity-challenge-beat-the-1-minute-sql-injection-company-takeover-aleks-jones-linux-foundation-education
+- Busca YouTube: https://www.youtube.com/results?search_query=Learning+Lounge%3A+Take+the+Cybersecurity+Challenge%3A+Beat+the+1-Minute+SQL+Injection+Company+Takeover+CNCF+KubeCon+2024
+
+## Resumo
+
+Sessão da KubeCon sobre Learning Lounge: Take the Cybersecurity Challenge: Beat the 1-Minute SQL Injection Company Takeover.
+
+## Descrição oficial
+
+_Descrição oficial não encontrada._
+
+## Links
+
+- Schedule oficial: https://kccncna2024.sched.com/event/1rFnL/learning-lounge-take-the-cybersecurity-challenge-beat-the-1-minute-sql-injection-company-takeover-aleks-jones-linux-foundation-education
+- YouTube search: https://www.youtube.com/results?search_query=Learning+Lounge%3A+Take+the+Cybersecurity+Challenge%3A+Beat+the+1-Minute+SQL+Injection+Company+Takeover+CNCF+KubeCon+2024

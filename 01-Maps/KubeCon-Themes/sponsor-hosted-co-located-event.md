@@ -1,0 +1,24 @@
+# Sponsor-hosted Co-located Event
+
+Sessões KubeCon classificadas neste tema.
+
+- [[aws-immersion-day-securing-your-infrastructure-as-code-hosted-by--aws-immersion-day-securi-eeab9189|AWS Immersion Day: Securing your Infrastructure as Code Hosted by Snyk, HashiCorp, and AWS]] — KubeCon + CloudNativeCon Europe 2024 - Paris, France / Sponsor-hosted Co-located Event
+- [[calicocon-hosted-by-tigera-creator-of-calico--calicocon-hosted-by-tige-f713ab77|CalicoCon Hosted by Tigera (creator of Calico)]] — KubeCon + CloudNativeCon Europe 2024 - Paris, France / Sponsor-hosted Co-located Event
+- [[house-of-kube-hosted-by-humanitec--house-of-kube-hosted-by-ace9a93a|House of Kube Hosted by Humanitec]] — KubeCon + CloudNativeCon Europe 2024 - Paris, France / Sponsor-hosted Co-located Event
+- [[paas-forward-feat-dj-kungs-hosted-by-ovhcloud-rancher-by-suse--paas-forward-feat-dj-kun-c8a0e802|PaaS Forward feat. DJ KUNGS Hosted by OVHcloud + Rancher by SUSE]] — KubeCon + CloudNativeCon Europe 2024 - Paris, France / Sponsor-hosted Co-located Event
+- [[rancher-day-hosted-by-rancher-by-suse--rancher-day-hosted-by-ra-05a7bb6e|Rancher Day Hosted by Rancher by SUSE]] — KubeCon + CloudNativeCon Europe 2024 - Paris, France / Sponsor-hosted Co-located Event
+- [[aws-immersion-day-securing-your-infrastructure-as-code-hosted-by--aws-immersion-day-securi-1a4f2c93|AWS Immersion Day: Securing your Infrastructure as Code Hosted by Snyk, HashiCorp, AWS]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Sponsor-hosted Co-located Event
+- [[calicocon-hosted-by-tigera-the-creators-of-project-calico--calicocon-hosted-by-tige-e895d93d|CalicoCon Hosted by Tigera, the creators of Project Calico]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Sponsor-hosted Co-located Event
+- [[countdown-to-graduation-bash-for-dapr-crossplane-hosted-by-diagr--countdown-to-graduation-3c3de090|Countdown to Graduation Bash for Dapr & Crossplane Hosted by Diagrid + Upbound]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Sponsor-hosted Co-located Event
+- [[distributed-sql-summit-hosted-by-yugabytedb--distributed-sql-summit-h-4981f83a|Distributed SQL Summit Hosted by YugabyteDB]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Sponsor-hosted Co-located Event
+- [[heroku-aws-evening-social-hosted-by-heroku--heroku-aws-evening-socia-e16a3671|Heroku + AWS Evening Social Hosted by Heroku]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Sponsor-hosted Co-located Event
+- [[house-of-kube-hosted-by-humanitec-dash0-and-cloudsmith--house-of-kube-hosted-by-d5d92d2c|House of Kube Hosted by Humanitec, Dash0 and Cloudsmith]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Sponsor-hosted Co-located Event
+- [[kick-off-party-hosted-by-harness--kick-off-party-hosted-by-8d01aaf0|Kick Off Party Hosted by Harness]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Sponsor-hosted Co-located Event
+- [[openshift-commons-gathering-hosted-by-red-hat--openshift-commons-gather-f985ac5e|OpenShift Commons Gathering Hosted by Red Hat]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Sponsor-hosted Co-located Event
+- [[rancher-day-2024-hosted-by-suse--rancher-day-2024-hosted-a4f81252|Rancher Day 2024 Hosted by SUSE]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Sponsor-hosted Co-located Event
+- [[calicocon-europe-2025-hosted-by-tigera--calicocon-europe-2025-ho-fee012f9|CalicoCon Europe 2025 Hosted by Tigera]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Sponsor-hosted Co-located Event
+- [[dagger-hack-night-hosted-by-dagger--dagger-hack-night-hosted-a0da3ef0|Dagger Hack Night Hosted by Dagger]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Sponsor-hosted Co-located Event
+- [[house-of-kube-hosted-by-platco--house-of-kube-hosted-by-dd8178eb|House of Kube Hosted by PlatCo]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Sponsor-hosted Co-located Event
+- [[openshift-commons-gathering-hosted-by-red-hat--openshift-commons-gather-32b90e35|OpenShift Commons Gathering Hosted by Red Hat]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Sponsor-hosted Co-located Event
+- [[suse-rancher-day-hosted-by-suse--suse-rancher-day-hosted-d1fa7ba7|SUSE Rancher Day Hosted by SUSE]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Sponsor-hosted Co-located Event
+- [[social-hour-hosted-by-heroku-aws--social-hour-hosted-by-he-958df2a8|Social Hour Hosted by Heroku + AWS]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Sponsor-hosted Co-located Event

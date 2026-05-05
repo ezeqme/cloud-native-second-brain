@@ -1,0 +1,62 @@
+# Registration
+
+Sessões KubeCon classificadas neste tema.
+
+- [[badge-pick-up--badge-pick-up-084bb211|Badge Pick-Up]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Registration
+- [[badge-pick-up--badge-pick-up-215c9fa8|Badge Pick-Up]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Registration
+- [[badge-pick-up--badge-pick-up-3b70ea69|Badge Pick-Up]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Registration
+- [[badge-pick-up--badge-pick-up-76be1366|Badge Pick-Up]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Registration
+- [[badge-pick-up--badge-pick-up-684ddd55|Badge Pick-Up]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Registration
+- [[badge-pick-up--badge-pick-up-8bd1694c|Badge Pick-Up]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Registration
+- [[badge-pick-up--badge-pick-up-c246aa58|Badge Pick-Up]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Registration
+- [[badge-pick-up--badge-pick-up-39c84609|Badge Pick-Up]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Registration
+- [[badge-pick-up--badge-pick-up-3831a61b|Badge Pick-Up]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Registration
+- [[badge-pick-up--badge-pick-up-8d756898|Badge Pick-Up]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Registration
+- [[coat-bag-check--coat-bag-check-8fb90d6e|Coat + Bag Check]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Registration
+- [[coat-bag-check--coat-bag-check-3f68a0a7|Coat + Bag Check]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Registration
+- [[coat-bag-check--coat-bag-check-698c1d93|Coat + Bag Check]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Registration
+- [[coat-bag-check--coat-bag-check-e89b8101|Coat + Bag Check]] — KubeCon + CloudNativeCon North America 2024 - Salt Lake City, United States / Registration
+- [[badge-pick-up--badge-pick-up-a5106dca|Badge Pick-Up]] — KubeCon + CloudNativeCon China 2025 - Hong Kong, China / Registration
+- [[badge-pick-up--badge-pick-up-b6621e81|Badge Pick-Up]] — KubeCon + CloudNativeCon China 2025 - Hong Kong, China / Registration
+- [[badge-pick-up--badge-pick-up-400e741a|Badge Pick-Up]] — KubeCon + CloudNativeCon China 2025 - Hong Kong, China / Registration
+- [[cloakroom--cloakroom-731fcee6|Cloakroom]] — KubeCon + CloudNativeCon China 2025 - Hong Kong, China / Registration
+- [[cloakroom--cloakroom-c95f70f1|Cloakroom]] — KubeCon + CloudNativeCon China 2025 - Hong Kong, China / Registration
+- [[badge-pick-up--badge-pick-up-81f3e497|Badge Pick-Up]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Registration
+- [[badge-pick-up--badge-pick-up-862df54f|Badge Pick-Up]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Registration
+- [[badge-pick-up--badge-pick-up-ee6e0a10|Badge Pick-Up]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Registration
+- [[badge-pick-up--badge-pick-up-b32fef36|Badge Pick-Up]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Registration
+- [[badge-pick-up--badge-pick-up-7bd06195|Badge Pick-Up]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Registration
+- [[cloakroom--cloakroom-d445e7ec|Cloakroom]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Registration
+- [[cloakroom--cloakroom-07a96885|Cloakroom]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Registration
+- [[cloakroom--cloakroom-5556a16d|Cloakroom]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Registration
+- [[cloakroom--cloakroom-11e339df|Cloakroom]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Registration
+- [[cloakroom--cloakroom-a23c6b23|Cloakroom]] — KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom / Registration
+- [[badge-pick-up--badge-pick-up-ca582fe8|Badge Pick-Up]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Registration
+- [[badge-pick-up--badge-pick-up-46137359|Badge Pick-Up]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Registration
+- [[badge-pick-up--badge-pick-up-be0228ca|Badge Pick-Up]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Registration
+- [[badge-pick-up--badge-pick-up-9dd3bd66|Badge Pick-Up]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Registration
+- [[badge-pick-up--badge-pick-up-43fa6a86|Badge Pick-Up]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Registration
+- [[coat-bag-check--coat-bag-check-316e8d6b|Coat + Bag Check]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Registration
+- [[coat-bag-check--coat-bag-check-b650eb61|Coat + Bag Check]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Registration
+- [[coat-bag-check--coat-bag-check-2a55dacd|Coat + Bag Check]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Registration
+- [[coat-bag-check--coat-bag-check-3e34f2aa|Coat + Bag Check]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Registration
+- [[coat-bag-check--coat-bag-check-5528d78e|Coat + Bag Check]] — KubeCon + CloudNativeCon North America 2025 - Atlanta, United States / Registration
+- [[badge-pick-up--badge-pick-up-28df19b2|Badge Pick-Up]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Registration
+- [[badge-pick-up--badge-pick-up-3265d5eb|Badge Pick-Up]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Registration
+- [[badge-pick-up--badge-pick-up-c4a4dce7|Badge Pick-Up]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Registration
+- [[badge-pick-up--badge-pick-up-a00df901|Badge Pick-Up]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Registration
+- [[badge-pick-up--badge-pick-up-c2a1094d|Badge Pick-Up]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Registration
+- [[badge-pick-up--badge-pick-up-6efb8186|Badge Pick-Up]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Registration
+- [[badge-pick-up--badge-pick-up-9e5984c5|Badge Pick-Up]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Registration
+- [[badge-pick-up--badge-pick-up-064a603b|Badge Pick-Up]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Registration
+- [[badge-pick-up--badge-pick-up-34ad48f8|Badge Pick-Up]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Registration
+- [[badge-pick-up--badge-pick-up-3a86579d|Badge Pick-Up]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Registration
+- [[cloakroom--cloakroom-f31f3707|Cloakroom]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Registration
+- [[cloakroom--cloakroom-63a62910|Cloakroom]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Registration
+- [[cloakroom--cloakroom-53094953|Cloakroom]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Registration
+- [[cloakroom--cloakroom-d35ed543|Cloakroom]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Registration
+- [[cloakroom--cloakroom-c057b3e4|Cloakroom]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Registration
+- [[cloakroom--cloakroom-61f4df8e|Cloakroom]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Registration
+- [[cloakroom--cloakroom-13365e6a|Cloakroom]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Registration
+- [[cloakroom--cloakroom-64904eaa|Cloakroom]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Registration
+- [[cloakroom--cloakroom-0c698e92|Cloakroom]] — KubeCon + CloudNativeCon Europe 2026 - Amsterdam, Netherlands / Registration

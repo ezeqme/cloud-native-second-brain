@@ -1,0 +1,42 @@
+---
+type: kubecon-session
+event: "KubeCon + CloudNativeCon North America 2025 - Atlanta, United States"
+event_id: kccncna2025
+year: 2025
+region: "North America"
+city: "Atlanta"
+country: "United States"
+event_date: "2025-11-10/2025-11-13"
+track: "Project Opportunities"
+themes: ["Project Opportunities"]
+speakers: ["Kieran McDermott", "The Linux Foundation"]
+sched_url: https://kccncna2025.sched.com/event/2AXUJ/lfx-overview-kieran-mcdermott-the-linux-foundation
+youtube_search_url: https://www.youtube.com/results?search_query=LFX+Overview+CNCF+KubeCon+2025
+slides: []
+status: parsed
+---
+
+# LFX Overview - Kieran McDermott, The Linux Foundation
+
+## Identificação
+
+- Edição: KubeCon + CloudNativeCon North America 2025 - Atlanta, United States
+- Trilha oficial: [[Project Opportunities]]
+- Temas: [[Project Opportunities]]
+- País/cidade: United States / Atlanta
+- Speakers: Kieran McDermott, The Linux Foundation
+- Schedule: https://kccncna2025.sched.com/event/2AXUJ/lfx-overview-kieran-mcdermott-the-linux-foundation
+- Busca YouTube: https://www.youtube.com/results?search_query=LFX+Overview+CNCF+KubeCon+2025
+
+## Resumo
+
+Sessão da KubeCon sobre LFX Overview.
+
+## Descrição oficial
+
+_Descrição oficial não encontrada._
+
+## Links
+
+- Schedule oficial: https://kccncna2025.sched.com/event/2AXUJ/lfx-overview-kieran-mcdermott-the-linux-foundation
+- YouTube search: https://www.youtube.com/results?search_query=LFX+Overview+CNCF+KubeCon+2025

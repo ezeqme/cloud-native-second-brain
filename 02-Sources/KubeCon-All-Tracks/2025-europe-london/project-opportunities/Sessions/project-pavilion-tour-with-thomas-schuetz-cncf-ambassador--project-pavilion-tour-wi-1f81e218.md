@@ -1,0 +1,42 @@
+---
+type: kubecon-session
+event: "KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom"
+event_id: kccnceu2025
+year: 2025
+region: "Europe"
+city: "London"
+country: "United Kingdom"
+event_date: "2025-04-01/2025-04-04"
+track: "Project Opportunities"
+themes: ["Project Opportunities"]
+speakers: []
+sched_url: https://kccnceu2025.sched.com/event/1vTiZ/project-pavilion-tour-with-thomas-schuetz-cncf-ambassador
+youtube_search_url: https://www.youtube.com/results?search_query=Project+Pavilion+Tour+with+Thomas+Schuetz%2C+CNCF+Ambassador+CNCF+KubeCon+2025
+slides: []
+status: parsed
+---
+
+# Project Pavilion Tour with Thomas Schuetz, CNCF Ambassador
+
+## Identificação
+
+- Edição: KubeCon + CloudNativeCon Europe 2025 - London, United Kingdom
+- Trilha oficial: [[Project Opportunities]]
+- Temas: [[Project Opportunities]]
+- País/cidade: United Kingdom / London
+- Speakers: N/A
+- Schedule: https://kccnceu2025.sched.com/event/1vTiZ/project-pavilion-tour-with-thomas-schuetz-cncf-ambassador
+- Busca YouTube: https://www.youtube.com/results?search_query=Project+Pavilion+Tour+with+Thomas+Schuetz%2C+CNCF+Ambassador+CNCF+KubeCon+2025
+
+## Resumo
+
+Sessão da KubeCon sobre Project Pavilion Tour with Thomas Schuetz, CNCF Ambassador.
+
+## Descrição oficial
+
+_Descrição oficial não encontrada._
+
+## Links
+
+- Schedule oficial: https://kccnceu2025.sched.com/event/1vTiZ/project-pavilion-tour-with-thomas-schuetz-cncf-ambassador
+- YouTube search: https://www.youtube.com/results?search_query=Project+Pavilion+Tour+with+Thomas+Schuetz%2C+CNCF+Ambassador+CNCF+KubeCon+2025
