@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2IlUn/your-voice-on-stage-the-iterative-pitch-lab
 - YouTube search: https://www.youtube.com/results?search_query=Your+Voice+on+Stage%3A+The+Iterative+Pitch+Lab+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: iterative
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

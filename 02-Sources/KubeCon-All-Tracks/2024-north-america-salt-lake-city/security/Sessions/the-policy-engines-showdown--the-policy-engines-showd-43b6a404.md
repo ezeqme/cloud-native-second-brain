@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2024.sched.com/event/1i7qp/the-policy-engines-showdown-gabriel-l-manor-permitio-andres-aguiar-okta-omri-gazitt-aserto-pauline-jamin-agicap-tyler-schade-geico-joy-scharmen-strongdm
 - YouTube search: https://www.youtube.com/results?search_query=The+Policy+Engines+Showdown+CNCF+KubeCon+2024
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: policy, engines, showdown
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1txCz/cllightning-talk-scaling-to-the-stars-simulating-massive-clusters-with-kwok-soumya-balakrishnan-nvidia
 - YouTube search: https://www.youtube.com/results?search_query=%E2%9A%A1Lightning+Talk%3A+Scaling+To+the+Stars%3A+Simulating+Massive+Clusters+With+KWOK+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: lightning, scaling, simulating, massive, clusters
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

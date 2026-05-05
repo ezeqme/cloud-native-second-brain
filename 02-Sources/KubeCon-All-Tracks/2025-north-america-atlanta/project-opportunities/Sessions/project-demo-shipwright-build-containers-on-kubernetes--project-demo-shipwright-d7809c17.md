@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/2AXOM/project-demo-shipwright-build-containers-on-kubernetes
 - YouTube search: https://www.youtube.com/results?search_query=Project+Demo%3A+Shipwright%3A+Build+Containers+on+Kubernetes%21+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: shipwright, containers
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

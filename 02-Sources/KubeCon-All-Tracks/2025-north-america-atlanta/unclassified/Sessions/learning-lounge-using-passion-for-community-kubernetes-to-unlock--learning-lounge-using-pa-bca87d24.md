@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/2AD1A/learning-lounge-using-passion-for-community-kubernetes-to-unlock-emerging-markets-angel-ramirez-cncf-ospo-ambassador
 - YouTube search: https://www.youtube.com/results?search_query=Learning+Lounge%3A+Using+Passion+for+Community+%26+Kubernetes+to+Unlock+Emerging+Markets+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: learning, lounge, passion, unlock, emerging, markets
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

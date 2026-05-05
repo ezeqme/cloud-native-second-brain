@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1x0HQ/sponsored-demo-ai-driven-cybersecurity-defense-with-cortex-cloud-bhavin-bhatt-palo-alto-networks
 - YouTube search: https://www.youtube.com/results?search_query=Sponsored+Demo%3A+AI-Driven+Cybersecurity+Defense+with+Cortex+Cloud+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sponsored, ai-driven, cybersecurity, defense, cortex
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

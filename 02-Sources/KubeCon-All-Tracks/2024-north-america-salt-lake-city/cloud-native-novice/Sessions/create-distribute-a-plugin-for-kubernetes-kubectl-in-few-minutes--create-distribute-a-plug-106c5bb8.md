@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2024.sched.com/event/1i7lr/create-distribute-a-plugin-for-kubernetes-kubectl-in-few-minutes-easy-aurelie-vache-ovhcloud-gaelle-acas-doctolib
 - YouTube search: https://www.youtube.com/results?search_query=Create+%26+Distribute+a+Plugin+for+Kubernetes+%28Kubectl%29+in+Few+Minutes%3F+Easy%21+%F0%9F%99%82+CNCF+KubeCon+2024
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: create, distribute, plugin, kubectl, minutes
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

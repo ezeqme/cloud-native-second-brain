@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/27FWK/tutorial-build-your-internal-developer-platform-with-the-experts-a-hands-on-workshop-ana-margarita-medina-upbound-cortney-nickerson-nirmata-scott-rosenberg-terasky-christian-hernandez-gitops-advocate
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%93%9A+Tutorial%3A+Build+Your+Internal+Developer+Platform+With+the+Experts%3A+A+Hands-On+Workshop+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: tutorial, internal, developer, platform, experts, hands-on, workshop
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

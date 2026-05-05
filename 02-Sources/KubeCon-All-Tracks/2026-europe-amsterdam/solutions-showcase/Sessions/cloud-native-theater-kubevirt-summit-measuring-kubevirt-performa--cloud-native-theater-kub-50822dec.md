@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2EG0k/cloud-native-theater-kubevirt-summit-measuring-kubevirt-performance-and-scale-with-kwok-sreeja-varnam-nvidia
 - YouTube search: https://www.youtube.com/results?search_query=Cloud+Native+Theater+%7C+KubeVirt+Summit%3A+Measuring+KubeVirt+Performance+and+Scale+with+KWOK+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=qbdNmWE5RQQ
+- YouTube title: Cloud Native Theater | KubeVirt Summit: Measuring KubeVirt Performance and Scale wi... Sreeja Varnam
+- Match score: 0.975
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: kubevirt, native, theater, summit, measuring, performance
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/2A7Dq/sponsored-demo-the-dra-paradigm-shift-request-a-capability-not-a-node
 - YouTube search: https://www.youtube.com/results?search_query=Sponsored+Demo%3A+The+DRA+Paradigm+Shift%3A+Request+a+Capability%2C+Not+a+Node+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sponsored, paradigm, request, capability
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/27FUy/taming-the-complexity-beast-how-organizations-are-rethinking-software-architecture-and-deployment-moderated-by-katie-norton-alex-zenla-edera-jason-hall-chainguard-jon-ceanfaglione-ibm
 - YouTube search: https://www.youtube.com/results?search_query=Taming+the+Complexity+Beast%3A+How+Organizations+Are+Rethinking+Software+Architecture+and+Deployment+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: taming, complexity, organizations, rethinking, software, architecture, deployment
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

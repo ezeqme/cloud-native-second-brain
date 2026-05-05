@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/27FUj/keynote-cloud-native-for-good-faseela-k-ericsson-software-technology-omar-mohsine-united-nations-roberto-machorro-child-rescue-coalition-bodhish-thomas-open-healthcare-network-jayson-workman-american-red-cross
 - YouTube search: https://www.youtube.com/results?search_query=Keynote%3A+Cloud+Native+for+Good+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: keynote, native
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

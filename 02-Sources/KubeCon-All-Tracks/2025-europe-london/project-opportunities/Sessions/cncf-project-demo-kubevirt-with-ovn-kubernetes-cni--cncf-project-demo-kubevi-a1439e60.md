@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1yJU8/cncf-project-demo-kubevirt-with-ovn-kubernetes-cni
 - YouTube search: https://www.youtube.com/results?search_query=CNCF+Project+Demo+%7C+KubeVirt+with+OVN-Kubernetes+CNI+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: kubevirt, ovn-kubernetes
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

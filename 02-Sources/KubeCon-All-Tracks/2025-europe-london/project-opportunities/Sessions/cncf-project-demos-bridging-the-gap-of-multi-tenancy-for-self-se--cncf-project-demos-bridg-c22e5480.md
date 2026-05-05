@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1yJUD/cncf-project-demos-bridging-the-gap-of-multi-tenancy-for-self-service-tenants-with-project-capsule
 - YouTube search: https://www.youtube.com/results?search_query=CNCF+Project+Demos+%7C+Bridging+the+Gap+of+Multi-Tenancy+for+Self+Service+Tenants+with+Project+Capsule+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: bridging, multi-tenancy, tenants, capsule
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/27Nmz/package-management-for-your-cluster-reimagined-jordan-keister-rashmi-gottipati-joe-lanford-red-hat-attila-meszaros-apple
 - YouTube search: https://www.youtube.com/results?search_query=Package+Management+for+Your+Cluster%2C+Reimagined+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: package, management, cluster, reimagined
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncchn2025.sched.com/event/1xjz2/project-lightning-talk-build-secure-build-easy-with-buildpacks-ram-iyengar-maintainer
 - YouTube search: https://www.youtube.com/results?search_query=Project+Lightning+Talk%3A+Build+Secure%2C+Build+Easy%2C+with+Buildpacks+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: lightning, secure, buildpacks
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

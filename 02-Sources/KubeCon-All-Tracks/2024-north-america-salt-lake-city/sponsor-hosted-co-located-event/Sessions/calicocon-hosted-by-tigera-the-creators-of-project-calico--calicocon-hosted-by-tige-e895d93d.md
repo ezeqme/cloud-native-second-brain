@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2024.sched.com/event/1iZQd/calicocon-hosted-by-tigera-the-creators-of-project-calico-sold-out
 - YouTube search: https://www.youtube.com/results?search_query=CalicoCon+Hosted+by+Tigera%2C+the+creators+of+Project+Calico+CNCF+KubeCon+2024
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: calicocon, hosted, tigera, creators, calico
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

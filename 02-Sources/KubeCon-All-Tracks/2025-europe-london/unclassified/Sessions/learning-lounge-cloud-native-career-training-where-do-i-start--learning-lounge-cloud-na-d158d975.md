@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1vpy6/learning-lounge-cloud-native-career-training-where-do-i-start-fazlur-rahman-khan-linux-foundation-education
 - YouTube search: https://www.youtube.com/results?search_query=Learning+Lounge%3A+Cloud+Native+Career+Training%3A+Where+Do+I+Start%3F+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: learning, lounge, native, career, training
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncchn2025.sched.com/event/1x5is/cl-lightning-talk-kata-confidential-containers-meet-persistent-storage-overcoming-csi-driver-challenges-andy-zhang-archana-choudhary-microsoft
 - YouTube search: https://www.youtube.com/results?search_query=%E2%9A%A1+Lightning+Talk%3A+Kata+Confidential+Containers+Meet+Persistent+Storage%3A+Overcoming+CSI+Driver+Challenges+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: lightning, confidential, containers, persistent, storage, overcoming, driver, challenges
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

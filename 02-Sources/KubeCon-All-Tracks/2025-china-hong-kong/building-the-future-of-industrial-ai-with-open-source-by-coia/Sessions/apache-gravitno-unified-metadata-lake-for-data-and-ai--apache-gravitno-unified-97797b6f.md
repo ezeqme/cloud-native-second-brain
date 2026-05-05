@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncchn2025.sched.com/event/25EUN/apache-gravitno-unified-metadata-lake-for-data-and-ai-shaofeng-shi-datastrato
 - YouTube search: https://www.youtube.com/results?search_query=Apache+Gravitno%3A+unified+metadata+lake+for+Data+and+AI+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: apache, gravitno, unified, metadata
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

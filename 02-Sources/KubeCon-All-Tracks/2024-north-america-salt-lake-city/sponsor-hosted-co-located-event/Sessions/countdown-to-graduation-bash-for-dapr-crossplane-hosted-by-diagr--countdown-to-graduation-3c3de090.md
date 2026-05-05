@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2024.sched.com/event/1mMsP/countdown-to-graduation-bash-for-dapr-crossplane-hosted-by-diagrid-+-upbound
 - YouTube search: https://www.youtube.com/results?search_query=Countdown+to+Graduation+Bash+for+Dapr+%26+Crossplane+Hosted+by+Diagrid+%2B+Upbound+CNCF+KubeCon+2024
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: countdown, graduation, crossplane, hosted, diagrid, upbound
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

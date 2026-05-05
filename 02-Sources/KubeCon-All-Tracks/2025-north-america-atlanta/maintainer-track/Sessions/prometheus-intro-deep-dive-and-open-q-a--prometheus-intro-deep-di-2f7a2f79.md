@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/27Nm4/prometheus-intro-deep-dive-and-open-q+a-owen-williams-grafana-labs-david-ashpole-google
 - YouTube search: https://www.youtube.com/results?search_query=Prometheus+Intro%2C+Deep+Dive%2C+and+Open+Q%2BA+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: prometheus
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

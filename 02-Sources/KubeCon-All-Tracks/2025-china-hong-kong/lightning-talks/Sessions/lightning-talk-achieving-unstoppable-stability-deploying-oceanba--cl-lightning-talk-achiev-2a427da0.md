@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncchn2025.sched.com/event/1x5iL/cl-lightning-talk-achieving-unstoppable-stability-deploying-oceanbase-across-multiple-kubernetes-clusters-peng-wang-oceanbase
 - YouTube search: https://www.youtube.com/results?search_query=%E2%9A%A1+Lightning+Talk%3A+Achieving+Unstoppable+Stability%3A+Deploying+OceanBase+Across+Multiple+Kubernetes+Clusters+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: lightning, achieving, unstoppable, stability, deploying, oceanbase, across, multiple, clusters
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

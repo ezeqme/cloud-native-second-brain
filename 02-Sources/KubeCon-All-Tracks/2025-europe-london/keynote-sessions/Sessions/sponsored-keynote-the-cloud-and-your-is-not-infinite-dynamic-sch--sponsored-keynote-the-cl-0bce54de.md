@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1txBU/sponsored-keynote-the-cloud-and-your-is-not-infinite-dynamic-scheduling-at-every-layer-corentin-debains-software-engineer-google-laura-lorenz-software-engineer-google
 - YouTube search: https://www.youtube.com/results?search_query=Sponsored+Keynote%3A+The+Cloud+%28And+Your+%24%24%24%29+is+Not+Infinite%3A+Dynamic+Scheduling+at+Every+Layer+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sponsored, keynote, infinite, dynamic, scheduling
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

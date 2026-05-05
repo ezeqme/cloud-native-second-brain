@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2EF3f/helm-4-is-here-so-now-what-andrew-block-red-hat-scott-rigby-replicated-robert-sirchia-suse
 - YouTube search: https://www.youtube.com/results?search_query=Helm+4+Is+Here.+So%2C+Now+What%3F+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords:
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

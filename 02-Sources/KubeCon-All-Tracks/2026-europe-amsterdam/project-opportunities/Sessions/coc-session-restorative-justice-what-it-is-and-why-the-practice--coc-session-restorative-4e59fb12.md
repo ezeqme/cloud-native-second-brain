@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2ITdo/coc-session-restorative-justice-what-it-is-and-why-the-practice-is-critical-to-community
 - YouTube search: https://www.youtube.com/results?search_query=CoC+Session%3A+Restorative+Justice%3A+What+It+Is%2C+and+Why+The+Practice+is+Critical+to+Community+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: session, restorative, justice, practice, critical
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

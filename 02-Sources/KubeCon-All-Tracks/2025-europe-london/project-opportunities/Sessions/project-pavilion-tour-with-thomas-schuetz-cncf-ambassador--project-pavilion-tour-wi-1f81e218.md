@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1vTiZ/project-pavilion-tour-with-thomas-schuetz-cncf-ambassador
 - YouTube search: https://www.youtube.com/results?search_query=Project+Pavilion+Tour+with+Thomas+Schuetz%2C+CNCF+Ambassador+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: pavilion, thomas, schuetz, ambassador
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

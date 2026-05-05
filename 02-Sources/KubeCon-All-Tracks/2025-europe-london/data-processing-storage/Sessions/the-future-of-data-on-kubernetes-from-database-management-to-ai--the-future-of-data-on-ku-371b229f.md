@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1txEy/the-future-of-data-on-kubernetes-from-database-management-to-ai-foundation-rob-strechay-siliconangle-nimisha-mehta-confluent-gabriele-bartolini-edb-brian-kaufman-google
 - YouTube search: https://www.youtube.com/results?search_query=The+Future+of+Data+on+Kubernetes%3A+From+Database+Management+To+AI+Foundation+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: future, database, management, foundation
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

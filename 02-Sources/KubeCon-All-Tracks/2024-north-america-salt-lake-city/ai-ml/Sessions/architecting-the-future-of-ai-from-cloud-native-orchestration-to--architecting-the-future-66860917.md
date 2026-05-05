@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2024.sched.com/event/1i7lY/architecting-the-future-of-ai-from-cloud-native-orchestration-to-advanced-llmops-lily-xiaoxuan-liu-anyscale
 - YouTube search: https://www.youtube.com/results?search_query=Architecting+the+Future+of+AI%3A+From+Cloud-Native+Orchestration+to+Advanced+LLMOps+CNCF+KubeCon+2024
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: architecting, future, cloud-native, orchestration, advanced, llmops
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

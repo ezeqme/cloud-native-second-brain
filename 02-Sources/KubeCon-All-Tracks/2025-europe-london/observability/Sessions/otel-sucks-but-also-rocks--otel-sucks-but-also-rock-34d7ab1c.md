@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1txHm/otel-sucks-but-also-rocks-juraci-paixao-krohling-ollygarden-daniel-dyla-dynatrace
 - YouTube search: https://www.youtube.com/results?search_query=OTel+Sucks+%28But+Also+Rocks%21%29+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=t1Riygj98WY
+- YouTube title: “OpenTelemetry sucks… but also rocks”
+- Match score: 0.847
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: otel
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

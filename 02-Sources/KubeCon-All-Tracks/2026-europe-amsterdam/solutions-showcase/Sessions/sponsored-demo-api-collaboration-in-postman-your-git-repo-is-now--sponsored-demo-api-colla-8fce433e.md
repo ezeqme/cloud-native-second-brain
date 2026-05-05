@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2IEHC/sponsored-demo-api-collaboration-in-postman-your-git-repo-is-now-the-single-source-of-truth-for-your-apis
 - YouTube search: https://www.youtube.com/results?search_query=Sponsored+Demo%3A+API+Collaboration+in+Postman%3A+Your+Git+Repo+is+now+the+Single+Source+of+Truth+for+your+APIs+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sponsored, collaboration, postman, single, source
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

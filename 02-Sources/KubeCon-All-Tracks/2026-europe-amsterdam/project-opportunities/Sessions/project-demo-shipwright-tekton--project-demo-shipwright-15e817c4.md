@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2HJRd/project-demo-shipwright-vnulb-tekton-build-containers-in-tekton-pipelines
 - YouTube search: https://www.youtube.com/results?search_query=Project+Demo%3A+Shipwright+%E2%9D%A4%EF%B8%8F+Tekton+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: shipwright, tekton
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

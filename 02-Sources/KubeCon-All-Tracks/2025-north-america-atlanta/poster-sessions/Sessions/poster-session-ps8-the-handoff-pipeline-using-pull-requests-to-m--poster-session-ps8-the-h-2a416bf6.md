@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/27i4K/poster-session-ps8-the-handoff-pipeline-using-pull-requests-to-manage-integration-points-prajakta-kashalkar-joshi-socheat-sou-ibm
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%AA%A7+Poster+Session+%28PS8%29%3A+The+Handoff+Pipeline%3A+Using+Pull+Requests+to+Manage+Integration+Points+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: poster, session, handoff, pipeline, requests, manage, integration, points
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

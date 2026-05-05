@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1x0H2/sponsored-demo-signed-sealed-delivered-github-attestations-for-secure-code-april-yoho-github
 - YouTube search: https://www.youtube.com/results?search_query=Sponsored+Demo%3A+Signed%2C+Sealed%2C+Delivered%3A+GitHub+Attestations+for+Secure+Code+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sponsored, signed, sealed, delivered, github, attestations, secure
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

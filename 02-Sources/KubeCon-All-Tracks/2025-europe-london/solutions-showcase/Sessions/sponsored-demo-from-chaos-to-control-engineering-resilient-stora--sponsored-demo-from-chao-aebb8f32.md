@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1x0Gw/sponsored-demo-from-chaos-to-control-engineering-resilient-storage-for-vms-containers-and-databases-on-kubernetes-venkat-ramakrishnan-portworx-by-pure-storage
 - YouTube search: https://www.youtube.com/results?search_query=Sponsored+Demo%3A+From+Chaos+to+Control%3A+Engineering+Resilient+Storage+for+VMs%2C+Containers%2C+and+Databases+on+Kubernetes+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sponsored, control, engineering, resilient, storage, containers, databases
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

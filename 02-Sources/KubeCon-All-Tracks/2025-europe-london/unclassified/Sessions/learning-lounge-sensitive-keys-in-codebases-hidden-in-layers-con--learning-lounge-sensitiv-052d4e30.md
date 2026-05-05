@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1vpxW/learning-lounge-sensitive-keys-in-codebases-hidden-in-layers-contest-fazlur-rahman-khan-linux-foundation-education
 - YouTube search: https://www.youtube.com/results?search_query=Learning+Lounge%3A+Sensitive+Keys+in+Codebases+%26+Hidden+in+Layers+Contest+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: learning, lounge, sensitive, codebases, hidden, layers, contest
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

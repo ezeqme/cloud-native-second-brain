@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/27Fcc/cl-lightning-talk-threat-modeling-kubernetes-fast-practical-and-llm-driven-maxime-coquerel-royal-bank-of-canada
 - YouTube search: https://www.youtube.com/results?search_query=%E2%9A%A1+Lightning+Talk%3A+Threat+Modeling+Kubernetes%3A+Fast%2C+Practical%2C+and+LLM-Driven+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: lightning, threat, modeling, practical, llm-driven
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2CW4Q/cl-lightning-talk-naming-things-is-hard-a-guide-to-naming-using-network-science-nick-travaglini-honeycombio
 - YouTube search: https://www.youtube.com/results?search_query=%E2%9A%A1+Lightning+Talk%3A+%E2%80%9CNaming+Things+Is+Hard%E2%80%9D%3A+A+Guide+to+Naming+Using+Network+Science+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: naming, lightning, network, science
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

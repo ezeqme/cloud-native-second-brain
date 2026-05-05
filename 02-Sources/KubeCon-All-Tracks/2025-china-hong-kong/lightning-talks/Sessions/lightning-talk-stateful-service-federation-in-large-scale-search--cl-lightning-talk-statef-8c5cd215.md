@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncchn2025.sched.com/event/1x5j4/cl-lightning-talk-stateful-service-federation-in-large-scale-search-ads-and-recommendation-scenarios-at-xiaohongshu-yang-song-vec-sun-xiaohongshu
 - YouTube search: https://www.youtube.com/results?search_query=%E2%9A%A1+Lightning+Talk%3A+Stateful+Service+Federation+in+Large-Scale+Search%2C+Ads%2C+and+Recommendation+Scenarios+at+Xiaohongshu+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: lightning, stateful, federation, large-scale, search, recommendation, scenarios, xiaohongshu
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

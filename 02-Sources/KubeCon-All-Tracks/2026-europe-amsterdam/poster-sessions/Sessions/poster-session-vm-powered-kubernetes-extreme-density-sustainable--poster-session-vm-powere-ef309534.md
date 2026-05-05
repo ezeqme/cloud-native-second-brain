@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2CW15/poster-session-vm-powered-kubernetes-extreme-density-sustainable-efficiency-chen-zhang-jdcom
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%AA%A7+Poster+Session%3A+VM-Powered+Kubernetes%3A+Extreme+Density+%26+Sustainable+Efficiency+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: poster, session, vm-powered, extreme, density, sustainable, efficiency
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

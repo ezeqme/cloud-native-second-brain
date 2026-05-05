@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1x0Gb/sponsored-demo-from-zero-to-nkp-hero-jimmi-dyson-nutanix
 - YouTube search: https://www.youtube.com/results?search_query=Sponsored+Demo%3A%C2%A0From+Zero+To+%28NKP%29+Hero+-%C2%A0Jimmi+Dyson%2C+Nutanix+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sponsored, nutanix
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/27FbG/tutorial-unlock-the-future-of-kubernetes-and-accelerators-with-dynamic-resource-allocation-dra-rey-lejano-red-hat
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%93%9A+Tutorial%3A+Unlock+the+Future+of+Kubernetes+and+Accelerators+With+Dynamic+Resource+Allocation+%28DRA%29+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: tutorial, unlock, future, accelerators, dynamic, resource, allocation
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

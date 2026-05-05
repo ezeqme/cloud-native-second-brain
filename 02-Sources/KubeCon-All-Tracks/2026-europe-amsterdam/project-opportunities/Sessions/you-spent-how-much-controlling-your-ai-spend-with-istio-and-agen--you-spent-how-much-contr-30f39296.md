@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2Jo6x/you-spent-how-much-controlling-your-ai-spend-with-istio-and-agentgateway-mitch-connors
 - YouTube search: https://www.youtube.com/results?search_query=You+Spent+How+Much%3F+Controlling+Your+AI+Spend+with+Istio+and+agentgateway+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: controlling, istio, agentgateway
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

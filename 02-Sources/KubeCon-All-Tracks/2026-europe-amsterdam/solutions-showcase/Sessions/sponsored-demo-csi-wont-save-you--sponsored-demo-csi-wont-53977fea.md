@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2IEH9/sponsored-demo-csi-wont-save-you-why-csi-support-is-not-a-storage-strategy-and-you-are-being-setup-to-fail
 - YouTube search: https://www.youtube.com/results?search_query=Sponsored+Demo%3A+CSI+WON%E2%80%99T+SAVE+YOU+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sponsored
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

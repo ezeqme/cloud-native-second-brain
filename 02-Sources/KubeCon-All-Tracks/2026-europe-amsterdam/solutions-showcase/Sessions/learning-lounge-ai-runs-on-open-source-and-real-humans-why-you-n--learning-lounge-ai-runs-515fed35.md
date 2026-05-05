@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2HEN8/learning-lounge-ai-runs-on-open-source-and-real-humans-why-you-need-linux-and-cloud-native-skills-to-power-ai-at-scale-christophe-sauthier-cncf
 - YouTube search: https://www.youtube.com/results?search_query=Learning+Lounge%3A+AI+Runs+on+Open+Source+and+Real+Humans%3A+Why+You+Need+Linux+and+Cloud+Native+Skills+to+Power+AI+at+Scale+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: learning, lounge, source, humans, native, skills
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

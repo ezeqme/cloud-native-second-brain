@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncchn2025.sched.com/event/22JRk/keynote-optimizing-ai-workload-scheduling-bilibilis-journey-to-an-efficient-cloud-native-ai-platform-long-xu-bilibili-kevin-wang-huawei
 - YouTube search: https://www.youtube.com/results?search_query=Keynote%3A+Optimizing+AI+Workload+Scheduling%3A+Bilibili%27s+Journey+To+an+Efficient+Cloud+Native+AI+Platform+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=akdwHaV_R5o
+- YouTube title: Keynote: Optimizing AI Workload Scheduling: Bilibili's Journey To an Effici...  Long Xu & Kevin Wang
+- Match score: 0.907
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: keynote, optimizing, workload, scheduling, bilibili, journey, efficient, native, platform
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

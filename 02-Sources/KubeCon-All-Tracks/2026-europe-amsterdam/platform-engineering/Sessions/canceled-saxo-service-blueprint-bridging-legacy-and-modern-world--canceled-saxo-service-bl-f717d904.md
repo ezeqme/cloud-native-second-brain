@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2CW4E/canceled-saxo-service-blueprint-bridging-legacy-and-modern-world-with-kubernetes-operators-jinhong-brejnholt-saxo-bank
 - YouTube search: https://www.youtube.com/results?search_query=CANCELED%3A+Saxo+Service+Blueprint%3A+Bridging+Legacy+and+Modern+World+With+Kubernetes+Operators+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: canceled, blueprint, bridging, legacy, modern, operators
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

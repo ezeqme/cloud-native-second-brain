@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1txCw/cllightning-talk-rust-here-rust-there-rust-everywhere-how-a-crab-conquers-the-cloud-native-landscape-sascha-grunert-red-hat
 - YouTube search: https://www.youtube.com/results?search_query=%E2%9A%A1Lightning+Talk%3A+Rust+Here%2C+Rust+There%2C+Rust+Everywhere%21+How+a+Crab+Conquers+the+Cloud+Native+Landscape.+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: lightning, everywhere, conquers, native, landscape
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

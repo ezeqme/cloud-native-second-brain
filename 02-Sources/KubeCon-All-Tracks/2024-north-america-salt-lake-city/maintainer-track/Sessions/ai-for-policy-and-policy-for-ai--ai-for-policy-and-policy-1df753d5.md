@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2024.sched.com/event/1hovX/ai-for-policy-and-policy-for-ai-poonam-lamba-google-boris-kurktchiev-nirmata-andy-suderman-fairwinds-ronald-petty-rx-m-jimmy-ray-capital-one
 - YouTube search: https://www.youtube.com/results?search_query=AI+for+Policy+and+Policy+for+AI%21+CNCF+KubeCon+2024
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: policy
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

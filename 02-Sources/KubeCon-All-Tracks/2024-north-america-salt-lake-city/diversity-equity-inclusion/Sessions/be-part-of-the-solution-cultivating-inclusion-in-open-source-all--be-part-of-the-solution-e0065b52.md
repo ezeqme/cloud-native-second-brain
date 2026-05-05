@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2024.sched.com/event/1pee5/be-part-of-the-solution-cultivating-inclusion-in-open-source-allyship-workshop
 - YouTube search: https://www.youtube.com/results?search_query=Be+Part+of+the+Solution%3A+Cultivating+Inclusion+in+Open+Source+%7C+Allyship+Workshop+CNCF+KubeCon+2024
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: solution, cultivating, inclusion, source, allyship, workshop
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

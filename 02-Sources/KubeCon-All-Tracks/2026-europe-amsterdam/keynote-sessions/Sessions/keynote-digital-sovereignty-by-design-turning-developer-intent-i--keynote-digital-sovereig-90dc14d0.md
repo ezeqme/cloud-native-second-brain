@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2I17q/keynote-digital-sovereignty-by-design-turning-developer-intent-into-portable-enterprise-scale-automation-oskar-kristiansen-enterprise-platform-engineer-saxo-bank
 - YouTube search: https://www.youtube.com/results?search_query=Keynote%3A+Digital+Sovereignty+by+Design%3A+Turning+Developer+Intent+into+Portable%2C+Enterprise-Scale+Automation+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=Ue3uXQc0eTo
+- YouTube title: Keynote: Digital Sovereignty by Design: Turning Developer Intent into Portable... Oskar Kristiansen
+- Match score: 0.928
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: keynote, digital, sovereignty, design, turning, developer, intent, portable, enterprise-scale, automation
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

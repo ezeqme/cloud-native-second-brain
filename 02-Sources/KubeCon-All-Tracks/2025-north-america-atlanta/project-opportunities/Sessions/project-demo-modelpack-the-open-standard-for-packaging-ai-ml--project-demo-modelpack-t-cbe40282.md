@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/2BQEP/project-demo-modelpack-the-open-standard-for-packaging-ai-ml
 - YouTube search: https://www.youtube.com/results?search_query=Project+Demo%3A+Modelpack%3A+The+Open+Standard+for+Packaging+AI+ML+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: modelpack, standard, packaging
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

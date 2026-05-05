@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/27Fa3/canceled-anti-patterns-for-platform-teams-number-3-will-surprise-you-david-stenglein-missing-mass-llc
 - YouTube search: https://www.youtube.com/results?search_query=CANCELED%3A+Anti+Patterns+for+Platform+Teams+%28number+3+Will+Surprise+You%21%29+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: canceled, patterns, platform, number, surprise
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

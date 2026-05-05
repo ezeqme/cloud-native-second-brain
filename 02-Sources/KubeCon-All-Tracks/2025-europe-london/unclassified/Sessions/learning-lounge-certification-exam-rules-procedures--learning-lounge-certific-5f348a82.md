@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1vpxx/learning-lounge-certification-exam-rules-procedures-zuzanna-piskorz-nalecka-linux-foundation-education
 - YouTube search: https://www.youtube.com/results?search_query=Learning+Lounge%3A+Certification+Exam+Rules+%26+Procedures+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: learning, lounge, certification, procedures
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2IEI1/sponsored-demo-cloud-native-hardening-beyond-defaults-secure-hosting-for-mission-critical-workloads
 - YouTube search: https://www.youtube.com/results?search_query=Sponsored+Demo%3A+Cloud-Native+Hardening+Beyond+Defaults%3A+Secure+Hosting+for+Mission-Critical+workloads+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sponsored, cloud-native, hardening, beyond, defaults, secure, hosting, mission-critical, workloads
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

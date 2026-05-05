@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2024.sched.com/event/1i7mx/poster-session-ps03-unleashing-the-power-of-init-and-sidecar-containers-in-kubernetes-carlos-sanchez-natalia-angulo-adobe
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%AA%A7+Poster+Session+%28PS03%29%3A+Unleashing+the+Power+of+Init+and+Sidecar+Containers+in+Kubernetes+CNCF+KubeCon+2024
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: poster, session, unleashing, sidecar, containers
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

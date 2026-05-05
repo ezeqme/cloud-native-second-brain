@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncchn2025.sched.com/event/1x5kE/high-performance-cloud-native-traffic-authentication-solutions-muyang-tian-zengzeng-yao-huawei
 - YouTube search: https://www.youtube.com/results?search_query=High-Performance+Cloud+Native+Traffic+Authentication+Solutions+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=D9zumj3ffk4
+- YouTube title: High-Performance Cloud Native Traffic Authentication Solutions - Muyang Tian & Zengzeng Yao, Huawei
+- Match score: 0.875
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: high-performance, native, traffic, authentication, solutions
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

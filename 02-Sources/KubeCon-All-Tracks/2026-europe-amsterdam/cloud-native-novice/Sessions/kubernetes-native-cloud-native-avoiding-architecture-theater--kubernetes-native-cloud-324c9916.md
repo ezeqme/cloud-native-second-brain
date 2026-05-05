@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2CW3M/kubernetes-native-cloud-native-avoiding-architecture-theater-prerit-munjal-groupon
 - YouTube search: https://www.youtube.com/results?search_query=Kubernetes-Native+%E2%89%A0+Cloud+Native%3A+Avoiding+Architecture+Theater+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: kubernetes-native, native, avoiding, architecture, theater
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

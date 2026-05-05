@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2CW2a/istios-ambient-mesh-the-real-cost-of-sidecar-less-tracing-mofesola-babalola-tempoio-hannah-olukoye-mobilede
 - YouTube search: https://www.youtube.com/results?search_query=Istio%27s+Ambient+Mesh%3A+The+Real+Cost+of+Sidecar-less+Tracing+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=wI9a3GuJw7U
+- YouTube title: Istio's Ambient Mesh: The Real Cost of Sidecar-less Tracing - Mofesola Babalola & Hannah Olukoye
+- Match score: 0.856
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: istio, ambient, mesh, cost, sidecar-less, tracing
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

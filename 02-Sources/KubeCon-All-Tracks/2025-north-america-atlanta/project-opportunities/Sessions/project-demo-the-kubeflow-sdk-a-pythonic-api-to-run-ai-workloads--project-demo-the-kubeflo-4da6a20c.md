@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/2BTVS/project-demo-the-kubeflow-sdk-a-pythonic-api-to-run-ai-workloads-at-scale
 - YouTube search: https://www.youtube.com/results?search_query=Project+Demo%3A+The+Kubeflow+SDK%3A+A+Pythonic+API+to+Run+AI+Workloads+at+Scale+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: kubeflow, pythonic, workloads
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/2AXPD/project-demo-bits-of-brilliance-your-guide-to-fluent-bit-and-the-latest-v42-release
 - YouTube search: https://www.youtube.com/results?search_query=Project+Demo%3A+Bits+of+Brilliance%3A+Your+Guide+to+Fluent+Bit+and+the+Latest+v4.2+Release+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: brilliance, fluent, latest, release
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

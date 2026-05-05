@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1txDr/poster-session-ps-06-nomadic-how-to-build-a-flexible-and-automated-compute-continuum-from-a-telco-operators-perspective-xuan-du-adam-morsman-bt
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%AA%A7+Poster+Session+%28PS+06%29%3A+NOMADIC%3A+How+To+Build+a+Flexible+and+Automated+Compute+Continuum+From+a+Telco+Operator%E2%80%99s+Perspective+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: poster, session, nomadic, flexible, automated, compute, continuum, operator, perspective
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

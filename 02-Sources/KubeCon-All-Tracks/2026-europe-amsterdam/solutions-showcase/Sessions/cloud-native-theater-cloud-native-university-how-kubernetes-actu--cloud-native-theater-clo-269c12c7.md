@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2EG0P/cloud-native-theater-cloud-native-university-how-kubernetes-actually-ships-an-educators-guide-to-core-releases-sigs-and-staying-current-michael-forrester-and-mumshad-mannambeth-kodekloud
 - YouTube search: https://www.youtube.com/results?search_query=Cloud+Native+Theater+%7C+Cloud+Native+University%3A+How+Kubernetes+Actually+Ships%3A+An+Educator%27s+Guide+to+Core+Releases%2C+SIGs%2C+and+Staying+Current+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: native, theater, university, actually, educator, releases, staying, current
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

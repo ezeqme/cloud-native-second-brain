@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2024.sched.com/event/1i7ms/poster-session-ps08-unveiling-anomalies-ebpf-based-detection-in-high-volume-encrypted-network-traffic-ben-smith-foley-rensselaer-center-for-open-source
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%AA%A7+Poster+Session+%28PS08%29%3A+Unveiling+Anomalies%3A+eBPF-Based+Detection+in+High-Volume+Encrypted+Network+Traffic+CNCF+KubeCon+2024
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: poster, session, unveiling, anomalies, ebpf-based, detection, high-volume, encrypted, network, traffic
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2CW0h/poster-session-fantastic-keps-part-ii-writing-and-contributing-to-kubernetes-enhancements-priyanka-saggu-suse-mario-jason-braganza-janusworx
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%AA%A7+Poster+Session%3A+Fantastic+KEPs+%E2%80%93+Part+II%3A+Writing+and+Contributing+To+Kubernetes+Enhancements+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: poster, session, fantastic, writing, contributing, enhancements
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

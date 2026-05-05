@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2CVz3/tutorial-ai-on-kubernetes-without-the-chaos-building-reproducible-ml-environments-with-argo-and-kubeflow-nourhan-mohamed-kodekloud
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%93%9A+Tutorial%3A+AI+on+Kubernetes+Without+the+Chaos%3A+Building+Reproducible+ML+Environments+with+Argo+and+Kubeflow+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: tutorial, without, reproducible, environments, argo, kubeflow
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

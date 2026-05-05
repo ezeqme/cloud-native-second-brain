@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/27FfN/finally-a-cluster-inventory-i-can-use-corentin-debains-google-ryan-zhang-microsoft
 - YouTube search: https://www.youtube.com/results?search_query=Finally%2C+a+Cluster+Inventory+I+Can+USE%21+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: finally, cluster, inventory
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

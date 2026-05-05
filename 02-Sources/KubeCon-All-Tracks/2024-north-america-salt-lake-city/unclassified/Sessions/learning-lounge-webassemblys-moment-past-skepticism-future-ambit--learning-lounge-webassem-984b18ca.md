@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2024.sched.com/event/1rFnx/learning-lounge-webassemblys-moment-past-skepticism-future-ambitions-aleks-jones-linux-foundation-education
 - YouTube search: https://www.youtube.com/results?search_query=Learning+Lounge%3A+WebAssembly%27s+Moment%3A+Past+Skepticism+%26+Future+Ambitions+CNCF+KubeCon+2024
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: learning, lounge, webassembly, moment, skepticism, future, ambitions
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

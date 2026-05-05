@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2CtKn/keynote-keeping-sovereignty-on-track-kubernetes-powering-a-national-railway-platform-thomas-comtet-senior-staff-engineer-sncf-yann-rotilio-senior-staff-engineer-kubernetes-specialist-sncf
 - YouTube search: https://www.youtube.com/results?search_query=Keynote%3A+Keeping+Sovereignty+on+Track%3A+Kubernetes+Powering+a+National+Railway+Platform+-+Thomas+Comtet%2C+Senior+Staff+Engineer%2C+SNCF+%26+Yann+Rotilio%2C+Senior+Staff+Engineer+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=rEcTzLdjmJA
+- YouTube title: Keynote: Keeping Sovereignty on Track: Kubernetes Powering a Nationa... Thomas Comtet & Yann Rotilio
+- Match score: 0.815
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: senior, engineer, keynote, keeping, sovereignty, powering, national, railway, platform, thomas, comtet, rotilio
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

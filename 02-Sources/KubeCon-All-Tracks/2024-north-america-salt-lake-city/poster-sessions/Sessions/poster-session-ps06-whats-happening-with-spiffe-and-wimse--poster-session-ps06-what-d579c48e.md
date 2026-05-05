@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2024.sched.com/event/1i7n0/poster-session-ps06-whats-happening-with-spiffe-and-wimse-daniel-feldman-qusaic
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%AA%A7+Poster+Session+%28PS06%29%3A+What%27s+Happening+with+SPIFFE+and+WIMSE%3F+CNCF+KubeCon+2024
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: poster, session, happening, spiffe
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

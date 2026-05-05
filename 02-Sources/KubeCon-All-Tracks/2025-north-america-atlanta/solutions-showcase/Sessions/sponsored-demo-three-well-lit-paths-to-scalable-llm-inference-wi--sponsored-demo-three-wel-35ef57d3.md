@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/2A7E2/sponsored-demo-three-well-lit-paths-to-scalable-llm-inference-with-llm-d-on-kubernetes
 - YouTube search: https://www.youtube.com/results?search_query=Sponsored+Demo%3A+Three+Well-Lit+Paths+to+Scalable+LLM+Inference+with+llm-d+on+Kubernetes+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sponsored, well-lit, scalable, llm, inference
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

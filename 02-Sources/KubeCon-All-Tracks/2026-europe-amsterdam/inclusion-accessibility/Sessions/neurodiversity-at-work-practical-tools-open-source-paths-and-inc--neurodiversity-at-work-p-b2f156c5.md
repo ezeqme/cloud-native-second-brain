@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2IWqL/neurodiversity-at-work-practical-tools-open-source-paths-and-inclusive-community-building
 - YouTube search: https://www.youtube.com/results?search_query=Neurodiversity+at+Work%3A+Practical+Tools%2C+Open+Source+Paths%2C+and+Inclusive+Community+Building+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: neurodiversity, practical, source, inclusive
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

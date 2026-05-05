@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1xLN9/azure-day-with-kubernetes-london-2025-hosted-by-microsoft-sold-out
 - YouTube search: https://www.youtube.com/results?search_query=Azure+Day+with+Kubernetes+London+2025+Hosted+by+Microsoft+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: london, hosted, microsoft
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

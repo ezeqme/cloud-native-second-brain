@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2CW5a/canceled-building-a-scalable-and-cost-effective-mlops-platform-at-pepsico-using-cncf-tools-chaitanya-g-pepsico
 - YouTube search: https://www.youtube.com/results?search_query=CANCELED%3A+Building+a+Scalable+and+Cost-Effective+MLOps+Platform+at+PepsiCo+Using+CNCF+Tools+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: canceled, scalable, cost-effective, platform, pepsico
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2EF7L/contribfest-dive-into-cert-manager-and-start-contributing-richard-wall-mladen-rusev-palo-alto-networks
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%9A%A8+Contribfest%3A+Dive+Into+cert-manager+and+Start+Contributing%21+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: contribfest, cert-manager, contributing
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

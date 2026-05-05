@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1xu4J/sponsored-demo-beyond-basic-routing-building-an-ai-aware-haproxy-gateway-for-llm-security-jakub-suchy-haproxy
 - YouTube search: https://www.youtube.com/results?search_query=Sponsored+Demo%3A+Beyond+Basic+Routing%3A+Building+an+AI-Aware+HAProxy+Gateway+for+LLM+Security+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sponsored, beyond, routing, ai-aware, haproxy, gateway, llm, security
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

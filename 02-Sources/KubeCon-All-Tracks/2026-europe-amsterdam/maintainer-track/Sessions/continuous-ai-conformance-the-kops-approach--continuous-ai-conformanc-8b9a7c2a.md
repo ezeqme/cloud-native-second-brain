@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2EoJq/continuous-ai-conformance-the-kops-approach-arnaud-meukam-indpendent-janet-kuo-justin-santa-barbara-google-ciprian-hacman-microsoft
 - YouTube search: https://www.youtube.com/results?search_query=Continuous+AI+Conformance%3A+The+kOps+Approach+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: continuous, conformance, approach
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2HJTH/project-demo-opa-how-to-optimize-your-policy-development-experience
 - YouTube search: https://www.youtube.com/results?search_query=Project+Demo%3A+OPA%3A+How+to+Optimize+Your+Policy+Development+Experience+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: optimize, policy, development, experience
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

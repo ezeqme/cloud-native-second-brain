@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2HEkp/learning-lounge-living-open-source-foundation-how-linux-foundation-education-is-used-to-open-source-a-country-sander-van-vugt-chisha-mambwe-living-open-source-foundation
 - YouTube search: https://www.youtube.com/results?search_query=Learning+Lounge%3A+Living+Open+Source+Foundation+-+How+Linux+Foundation+Education+is+Used+to+Open+Source+a+Country+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: source, foundation, learning, lounge, living, education, country
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

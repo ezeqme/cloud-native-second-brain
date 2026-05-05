@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2EF7p/contribfest-prometheus-new-contributor-introduction-bryan-boreham-grafana-labs-saswata-mukherjee-red-hat-arianna-vespri-ollygarden-ben-kochie-reddit
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%9A%A8+Contribfest%3A+Prometheus+New+Contributor+Introduction+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: contribfest, prometheus, contributor, introduction
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

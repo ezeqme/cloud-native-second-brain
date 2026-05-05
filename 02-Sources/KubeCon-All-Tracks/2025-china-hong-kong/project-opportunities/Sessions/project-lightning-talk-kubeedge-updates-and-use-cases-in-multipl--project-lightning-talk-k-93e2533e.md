@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncchn2025.sched.com/event/1xjzK/project-lightning-talk-kubeedge-updates-and-use-cases-in-multiple-scenarios-yue-bao-maintainer
 - YouTube search: https://www.youtube.com/results?search_query=Project+Lightning+Talk%3A+KubeEdge+Updates+and+Use+Cases+in+Multiple+Scenarios+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=NkrsyM4Wxs0
+- YouTube title: Project Lightning Talk: KubeEdge Updates and Use Cases in Multiple Scenarios - Yue Bao, Maintainer
+- Match score: 0.968
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: lightning, kubeedge, updates, multiple, scenarios
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

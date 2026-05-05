@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2HJRU/project-demo-oscal-compass-just-got-agentic-ai-powered-compliance-authoring
 - YouTube search: https://www.youtube.com/results?search_query=Project+Demo%3A+OSCAL+Compass+Just+Got+Agentic%3A+AI-Powered+Compliance+Authoring+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: compass, agentic, ai-powered, compliance, authoring
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

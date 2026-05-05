@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/27Y2M/opentelemetry-unpacking-2025-charting-2026-alolita-sharma-apple-morgan-mclean-splunk-josh-suereth-google-austin-parker-honeycombio
 - YouTube search: https://www.youtube.com/results?search_query=OpenTelemetry%3A+Unpacking+2025%2C+Charting+2026+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: opentelemetry, unpacking, charting
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

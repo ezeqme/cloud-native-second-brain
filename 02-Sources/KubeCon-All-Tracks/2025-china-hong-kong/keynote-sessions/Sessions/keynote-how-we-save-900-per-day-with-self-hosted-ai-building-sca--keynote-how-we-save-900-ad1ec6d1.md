@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncchn2025.sched.com/event/1x5hf/keynote-how-we-save-900-per-day-with-self-hosted-ai-building-scalable-local-llm-infrastructure-vivian-hu-product-manager-second-state-lv-yi-cto-5miles
 - YouTube search: https://www.youtube.com/results?search_query=Keynote%3A+How+We+Save+%24900+per+Day+with+Self-Hosted+AI%3A+Building+Scalable+Local+LLM+Infrastructure+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=RyITa7SMnJ0
+- YouTube title: Keynote: How We Save $900 per Day with Self-Hosted AI: Building Scalable Local... Vivian Hu & Lv Yi
+- Match score: 0.934
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: keynote, self-hosted, scalable, llm, infrastructure
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

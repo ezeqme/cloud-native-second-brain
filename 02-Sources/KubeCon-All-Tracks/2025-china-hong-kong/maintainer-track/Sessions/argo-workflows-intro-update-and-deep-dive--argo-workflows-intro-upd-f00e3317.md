@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncchn2025.sched.com/event/1x5h8/argo-workflows-intro-update-and-deep-dive-shuangkun-tian-yashi-su-alibaba-cloud
 - YouTube search: https://www.youtube.com/results?search_query=Argo+Workflows%3A+Intro%2C+Update+and+Deep+Dive+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=Wl5i2XZwREk
+- YouTube title: Argo Workflows: Intro, Update and Deep Dive - Shuangkun Tian & Yashi Su, Alibaba Cloud
+- Match score: 0.763
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: argo, workflows, update
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

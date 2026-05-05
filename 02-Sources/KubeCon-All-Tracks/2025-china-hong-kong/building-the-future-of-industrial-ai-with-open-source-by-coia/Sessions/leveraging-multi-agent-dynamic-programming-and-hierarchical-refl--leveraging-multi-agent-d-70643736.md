@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncchn2025.sched.com/event/25EU8/leveraging-multi-agent-dynamic-programming-and-hierarchical-reflection-for-next-generation-ai-decision-making-co-sight-shiqing-jiang-zte-corporation
 - YouTube search: https://www.youtube.com/results?search_query=Leveraging+Multi-Agent+Dynamic+Programming+and+Hierarchical+Reflection+for+Next-Generation+AI+Decision-Making+%28Co-sight%29+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: leveraging, multi-agent, dynamic, programming, hierarchical, reflection, next-generation, decision-making, co-sight
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

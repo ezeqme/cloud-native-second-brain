@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1txBF/failure-is-not-an-option-durable-execution-+-dapr-marc-duiker-diagrid
 - YouTube search: https://www.youtube.com/results?search_query=Failure+Is+Not+an+Option%3A+Durable+Execution+%2B+Dapr+%3D+%F0%9F%9A%80+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: failure, option, durable, execution
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

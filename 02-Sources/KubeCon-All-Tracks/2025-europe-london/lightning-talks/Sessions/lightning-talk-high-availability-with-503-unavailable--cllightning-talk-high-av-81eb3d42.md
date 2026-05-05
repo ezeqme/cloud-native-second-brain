@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1txCk/cllightning-talk-high-availability-with-503-unavailable-robert-jan-huijsman-reboot
 - YouTube search: https://www.youtube.com/results?search_query=%E2%9A%A1Lightning+Talk%3A+High+Availability+With+%27503%3A+Unavailable%27+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: lightning, availability, unavailable
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

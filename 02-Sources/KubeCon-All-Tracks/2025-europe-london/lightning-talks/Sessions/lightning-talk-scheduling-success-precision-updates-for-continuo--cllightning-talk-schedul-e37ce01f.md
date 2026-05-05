@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1txD2/cllightning-talk-scheduling-success-precision-updates-for-continuous-manufacturing-operations-juan-camilo-orozco-bosch-connected-industry
 - YouTube search: https://www.youtube.com/results?search_query=%E2%9A%A1Lightning+Talk%3A+Scheduling+Success%3A+Precision+Updates+for+Continuous+Manufacturing+Operations+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: lightning, scheduling, success, precision, updates, continuous, manufacturing, operations
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

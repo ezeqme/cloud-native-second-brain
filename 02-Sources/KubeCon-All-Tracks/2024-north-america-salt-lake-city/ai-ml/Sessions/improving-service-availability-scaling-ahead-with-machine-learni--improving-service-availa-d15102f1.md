@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2024.sched.com/event/1i7q4/improving-service-availability-scaling-ahead-with-machine-learning-for-hpa-optimization-avni-sharma-estela-ramirez-intuit
 - YouTube search: https://www.youtube.com/results?search_query=Improving+Service+Availability%3A+Scaling+Ahead+with+Machine+Learning+for+HPA+Optimization+CNCF+KubeCon+2024
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=wg66TXytlps
+- YouTube title: Improving Service Availability: Scaling Ahead with Machine Learning for HP... A. Sharma & E. Ramirez
+- Match score: 0.952
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: improving, availability, scaling, machine, learning, optimization
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

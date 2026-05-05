@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/2A7EN/sponsored-demo-streamlining-kubernetes-operations-with-model-context-protocol
 - YouTube search: https://www.youtube.com/results?search_query=Sponsored+Demo%3A+Streamlining+Kubernetes+Operations+with+Model+Context+Protocol+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sponsored, streamlining, operations, context, protocol
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

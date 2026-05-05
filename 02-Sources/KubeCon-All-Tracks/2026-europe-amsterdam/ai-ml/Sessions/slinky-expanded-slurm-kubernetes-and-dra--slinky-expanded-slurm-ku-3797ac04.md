@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2CW04/slinky-expanded-slurm-kubernetes-and-dra-praveen-krishna-google-marlow-warnicke-schedmd-llc
 - YouTube search: https://www.youtube.com/results?search_query=Slinky+Expanded%3A+Slurm%2C+Kubernetes%2C+and+DRA+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: slinky, expanded
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

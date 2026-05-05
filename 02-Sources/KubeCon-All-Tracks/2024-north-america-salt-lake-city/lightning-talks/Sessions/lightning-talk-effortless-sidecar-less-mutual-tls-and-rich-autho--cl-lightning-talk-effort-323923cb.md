@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2024.sched.com/event/1i7k0/cl-lightning-talk-effortless-sidecar-less-mutual-tls-and-rich-authorization-policies-up-and-running-in-5-minutes-lin-sun-soloio
 - YouTube search: https://www.youtube.com/results?search_query=%E2%9A%A1+Lightning+Talk%3A+Effortless%2C+Sidecar-Less+Mutual+TLS+and+Rich+Authorization+Policies+up+and+Running+in+5+Minutes+CNCF+KubeCon+2024
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: lightning, effortless, sidecar-less, mutual, authorization, policies, running, minutes
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

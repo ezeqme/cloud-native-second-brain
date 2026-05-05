@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2IEHa/sponsored-demo-life-after-ingress-nginx-how-to-unify-kubernetes-traffic-in-one-stack
 - YouTube search: https://www.youtube.com/results?search_query=Sponsored+Demo%3A+Life+After+Ingress+NGINX%3A+How+To+Unify+Kubernetes+Traffic+In+One+Stack+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sponsored, ingress, traffic
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

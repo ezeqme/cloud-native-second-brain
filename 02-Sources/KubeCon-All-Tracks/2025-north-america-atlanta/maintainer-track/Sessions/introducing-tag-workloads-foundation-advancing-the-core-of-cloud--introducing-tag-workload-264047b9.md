@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/27NnE/introducing-tag-workloads-foundation-advancing-the-core-of-cloud-native-execution-yuan-tang-red-hat-paco-xu-daocloud-alex-scammon-g-research-rajas-kakodkar-broadcom-stephen-rust-akamai
 - YouTube search: https://www.youtube.com/results?search_query=Introducing+TAG+Workloads+Foundation%3A+Advancing+the+Core+of+Cloud+Native+Execution+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: introducing, workloads, foundation, advancing, native, execution
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/2BUA0/project-demo-deploy-and-scale-etcd-clusters-with-the-etcd-operator
 - YouTube search: https://www.youtube.com/results?search_query=Project+Demo%3A+Deploy+and+Scale+etcd+Clusters+with+the+etcd-operator+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: deploy, clusters, etcd-operator
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

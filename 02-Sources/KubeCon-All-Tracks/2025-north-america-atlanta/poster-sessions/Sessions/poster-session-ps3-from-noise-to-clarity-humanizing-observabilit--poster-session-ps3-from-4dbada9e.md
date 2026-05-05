@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/27FYM/poster-session-ps3-from-noise-to-clarity-humanizing-observability-in-cloud-native-systems-nikita-verma-zscaler-harshita-varma-juspay
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%AA%A7+Poster+Session+%28PS3%29%3A+From+Noise+To+Clarity%3A+Humanizing+Observability+in+Cloud+Native+Systems+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: poster, session, clarity, humanizing, observability, native, systems
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

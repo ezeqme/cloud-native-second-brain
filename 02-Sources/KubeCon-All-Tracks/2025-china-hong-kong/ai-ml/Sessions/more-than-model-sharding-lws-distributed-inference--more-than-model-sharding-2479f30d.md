@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncchn2025.sched.com/event/1x5i6/more-than-model-sharding-lws-distributed-inference-peter-pan-nicole-li-daocloud-shane-wang-intel
 - YouTube search: https://www.youtube.com/results?search_query=More+Than+Model+Sharding%3A+LWS+%26+Distributed+Inference+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=Yzk30z_exIs
+- YouTube title: More Than Model Sharding: LWS & Distributed Inference - Peter Pan, Nicole Li & Shane Wang
+- Match score: 0.843
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sharding, distributed, inference
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

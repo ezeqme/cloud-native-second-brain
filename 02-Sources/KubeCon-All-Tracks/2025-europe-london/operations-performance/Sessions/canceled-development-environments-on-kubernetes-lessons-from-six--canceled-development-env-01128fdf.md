@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1tx9G/canceled-development-environments-on-kubernetes-lessons-from-six-years-at-internet-scale-christian-weichel-alejandro-de-brito-fontes-gitpod
 - YouTube search: https://www.youtube.com/results?search_query=CANCELED%3A+Development+Environments+on+Kubernetes%3A+Lessons+From+Six+Years+at+Internet+Scale+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: canceled, development, environments, lessons, internet
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

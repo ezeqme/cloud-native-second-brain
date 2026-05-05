@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncchn2025.sched.com/event/1x5hW/the-next-steps-for-ingress-nginx-and-the-ingate-project-jintao-zhang-kong-inc
 - YouTube search: https://www.youtube.com/results?search_query=The+Next+Steps+for+Ingress-NGINX+and+the+Ingate+Project+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=ZjXCSLpMHwo
+- YouTube title: The Next Steps for Ingress-NGINX and the Ingate Project - Jintao Zhang, Kong Inc.
+- Match score: 0.913
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: ingress-nginx, ingate
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

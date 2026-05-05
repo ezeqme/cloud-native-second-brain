@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2EG04/cloud-native-theater-data-on-kubernetes-day-kubevirt-benchmarking-at-scale-a-vendor-neutral-end-to-end-testing-framework-for-cloud-native-virtualization-bhumitra-nagar-and-dhruv-bhatnagar-portworx-by-pure-storage
 - YouTube search: https://www.youtube.com/results?search_query=Cloud+Native+Theater+%7C+Data+on+Kubernetes+Day%3A+KubeVirt+Benchmarking+at+Scale%3A+A+Vendor-Neutral%2C+End-to-End+Testing+Framework+for+Cloud-Native+Virtualization+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: native, theater, kubevirt, benchmarking, vendor-neutral, end-to-end, testing, framework, cloud-native, virtualization
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

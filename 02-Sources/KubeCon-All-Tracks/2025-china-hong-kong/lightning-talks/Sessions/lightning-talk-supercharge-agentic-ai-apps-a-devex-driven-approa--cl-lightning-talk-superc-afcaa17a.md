@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncchn2025.sched.com/event/1x5j7/cl-lightning-talk-supercharge-agentic-ai-apps-a-devex-driven-approach-to-cloud-native-scaffolding-daniel-oh-red-hat
 - YouTube search: https://www.youtube.com/results?search_query=%E2%9A%A1+Lightning+Talk%3A+Supercharge+Agentic+AI+Apps%3A+A+DevEx-Driven+Approach+To+Cloud+Native+Scaffolding+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: lightning, supercharge, agentic, devex-driven, approach, native, scaffolding
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

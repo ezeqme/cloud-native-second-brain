@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/2A7EQ/sponsored-demo-smarter-scaling-for-kubernetes-real-time-optimization-for-cost-and-performance
 - YouTube search: https://www.youtube.com/results?search_query=Sponsored+Demo%3A+Smarter+Scaling+for+Kubernetes%3A+Real+Time+Optimization+for+Cost+and+Performance+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sponsored, smarter, scaling, optimization, cost, performance
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

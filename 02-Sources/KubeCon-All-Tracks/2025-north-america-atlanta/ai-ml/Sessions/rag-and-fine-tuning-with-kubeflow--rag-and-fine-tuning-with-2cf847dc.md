@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/27FY7/rag-and-fine-tuning-with-kubeflow-francisco-javier-arceo-red-hat-andrey-velichkevich-apple
 - YouTube search: https://www.youtube.com/results?search_query=RAG+and+Fine+Tuning+With+Kubeflow+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: tuning, kubeflow
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

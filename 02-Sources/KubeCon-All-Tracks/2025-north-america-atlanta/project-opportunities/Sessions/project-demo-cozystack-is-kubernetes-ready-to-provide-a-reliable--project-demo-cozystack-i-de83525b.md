@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/2BTVV/project-demo-cozystack-is-kubernetes-ready-to-provide-a-reliable-alternative-to-traditional-virtualization-platforms
 - YouTube search: https://www.youtube.com/results?search_query=Project+Demo%3A+Cozystack%3A+Is+Kubernetes+Ready+to+Provide+a+Reliable+Alternative+to+Traditional+Virtualization+Platforms%3F+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: cozystack, provide, reliable, alternative, traditional, virtualization, platforms
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

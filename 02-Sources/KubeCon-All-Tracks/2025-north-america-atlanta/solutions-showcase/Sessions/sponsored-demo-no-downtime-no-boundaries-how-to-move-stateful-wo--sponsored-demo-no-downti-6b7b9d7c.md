@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/2AWTP/sponsored-demo-no-downtime-no-boundaries-how-to-move-stateful-workloads-with-zero-downtime-with-cast-ai
 - YouTube search: https://www.youtube.com/results?search_query=Sponsored+Demo%3A+No+Downtime%2C+No+Boundaries%3A+How+to+Move+Stateful+Workloads+With+Zero+Downtime+with+Cast+AI+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: downtime, sponsored, boundaries, stateful, workloads
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

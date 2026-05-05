@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/27Nkx/contribfest-kyverno-lets-build-together-jim-bugwadia-cortney-nickerson-nirmata
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%9A%A8+Contribfest%3A+Kyverno+-+Let%27s+Build+Together%21+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: contribfest, kyverno, together
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

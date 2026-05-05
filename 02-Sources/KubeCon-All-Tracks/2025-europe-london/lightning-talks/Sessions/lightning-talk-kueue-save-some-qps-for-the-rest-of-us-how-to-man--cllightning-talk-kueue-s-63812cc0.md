@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1txCn/cllightning-talk-kueue-save-some-qps-for-the-rest-of-us-how-to-manage-100k-updates-per-second-patryk-bundyra-google
 - YouTube search: https://www.youtube.com/results?search_query=%E2%9A%A1Lightning+Talk%3A+Kueue%3A+Save+Some+QPS+for+the+Rest+of+Us%21+How+To+Manage+100k+Updates+Per+Second+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: lightning, manage, updates, second
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2024.sched.com/event/1lWb7/project-pavilion-tour-with-aditya-soni-cncf-ambassador
 - YouTube search: https://www.youtube.com/results?search_query=Project+Pavilion+Tour+with+Aditya+Soni%2C+CNCF+Ambassador+CNCF+KubeCon+2024
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: pavilion, aditya, ambassador
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1zfs7/cncf-project-demos-bgp-beyond-loadbalancers-with-metallb-and-frr-k8s
 - YouTube search: https://www.youtube.com/results?search_query=CNCF+Project+Demos+%7C+BGP+Beyond+Loadbalancers+with+MetalLB+and+FRR-K8s+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: beyond, loadbalancers, metallb, frr-k8s
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

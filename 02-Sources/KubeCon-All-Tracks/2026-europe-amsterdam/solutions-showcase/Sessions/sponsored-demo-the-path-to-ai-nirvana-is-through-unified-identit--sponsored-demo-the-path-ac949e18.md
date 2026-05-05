@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2IEHy/sponsored-demo-the-path-to-ai-nirvana-is-through-unified-identity
 - YouTube search: https://www.youtube.com/results?search_query=Sponsored+Demo%3A+The+Path+to+AI+Nirvana+Is+Through+Unified+Identity+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sponsored, nirvana, unified, identity
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/27Fa0/no-more-gpu-cold-starts-making-serverless-ml-inference-truly-real-time-nikunj-goyal-adobe-aditi-gupta-disney-plus-hotstar
 - YouTube search: https://www.youtube.com/results?search_query=No+More+GPU+Cold+Starts%3A+Making+Serverless+ML+Inference+Truly+Real-Time+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: gpu, starts, making, serverless, inference, real-time
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

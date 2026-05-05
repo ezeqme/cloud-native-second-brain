@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncchn2025.sched.com/event/1x5hc/new-pattern-for-sailing-multi-host-llm-inference-kante-yin-daocloud
 - YouTube search: https://www.youtube.com/results?search_query=New+Pattern+for+Sailing+Multi-host+LLM+Inference+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=Jou7j-X_VJA
+- YouTube title: New Pattern for Sailing Multi-host LLM Inference - Kante Yin, DaoCloud
+- Match score: 0.915
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: pattern, sailing, multi-host, llm, inference
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

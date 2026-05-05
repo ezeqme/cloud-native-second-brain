@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1tcyE/contribfest-expanding-the-helm-ecosystem-with-helm-4
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%9A%A8+Contribfest%3A+Expanding+the+Helm+Ecosystem+With+Helm+4+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: contribfest, expanding, ecosystem
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1yJTh/cncf-project-demos-kairos-factory-webui-aka-auroraboot
 - YouTube search: https://www.youtube.com/results?search_query=CNCF+Project+Demos+%7C+Kairos+Factory+WebUI+%28aka+Auroraboot%29+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: kairos, factory, auroraboot
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

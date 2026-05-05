@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/2A7EE/sponsored-demo-kubehound-identifying-attack-paths-in-kubernetes-clusters-at-scale
 - YouTube search: https://www.youtube.com/results?search_query=Sponsored+Demo%3A+KubeHound%3A+Identifying+Attack+Paths+in+Kubernetes+Clusters+at+Scale+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sponsored, kubehound, identifying, attack, clusters
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

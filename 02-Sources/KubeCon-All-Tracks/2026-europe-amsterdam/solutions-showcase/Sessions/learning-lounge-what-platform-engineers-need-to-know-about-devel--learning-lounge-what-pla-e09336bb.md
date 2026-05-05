@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2HEjm/learning-lounge-what-platform-engineers-need-to-know-about-developer-experience-max-korbacher-liquid-reply
 - YouTube search: https://www.youtube.com/results?search_query=Learning+Lounge%3A+What+Platform+Engineers+Need+to+Know+About+Developer+Experience+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: learning, lounge, platform, engineers, developer, experience
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

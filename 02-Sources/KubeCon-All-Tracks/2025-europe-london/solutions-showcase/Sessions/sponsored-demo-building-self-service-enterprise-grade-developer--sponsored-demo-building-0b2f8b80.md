@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1yKRY/sponsored-demo-building-self-service-enterprise-grade-developer-platforms-with-open-source-and-cloud-native-tools-matt-farina-robert-sirchia-suse
 - YouTube search: https://www.youtube.com/results?search_query=Sponsored+Demo%3A+Building+Self-Service+Enterprise+Grade+Developer+Platforms+with+Open+Source+and+Cloud-Native+Tools+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sponsored, self-service, enterprise, developer, platforms, source, cloud-native
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

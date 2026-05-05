@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2Im18/sponsored-demo-driftlessaf-the-reconciliation-pattern-that-builds-2000-container-images
 - YouTube search: https://www.youtube.com/results?search_query=Sponsored+Demo%3A+DriftlessAF%3A+The+Reconciliation+Pattern+That+Builds+2%2C000+Container+Images+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sponsored, driftlessaf, reconciliation, pattern, builds, container, images
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

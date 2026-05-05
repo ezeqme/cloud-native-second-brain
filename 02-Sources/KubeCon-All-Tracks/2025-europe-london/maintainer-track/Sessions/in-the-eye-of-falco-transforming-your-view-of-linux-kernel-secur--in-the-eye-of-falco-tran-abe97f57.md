@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1tczs/in-the-eye-of-falco-transforming-your-view-of-linux-kernel-security-luca-guerra-jason-dellaluce-aldo-lacuku-leonardo-grasso-sysdig-aurelie-vache-ovhcloud
 - YouTube search: https://www.youtube.com/results?search_query=In+the+Eye+of+Falco%3A+Transforming+Your+View+of+Linux+Kernel+Security+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: transforming, kernel, security
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1wiPo/fairgame-the-funfair-party-hosted-by-arm-+-google-cloud
 - YouTube search: https://www.youtube.com/results?search_query=Fairgame%3A+The+Funfair+Party+Hosted+by+Arm+%2B+Google+Cloud+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: fairgame, funfair, hosted, google
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

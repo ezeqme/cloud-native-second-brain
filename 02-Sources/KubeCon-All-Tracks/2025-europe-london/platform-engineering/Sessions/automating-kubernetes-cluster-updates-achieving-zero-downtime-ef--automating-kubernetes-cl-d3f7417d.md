@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1txBC/automating-kubernetes-cluster-updates-achieving-zero-downtime-effortlessly-haitao-zhang-ling-ling-wei-jiang-cloudpilot-ai-baofa-fan-daocloud
 - YouTube search: https://www.youtube.com/results?search_query=Automating+Kubernetes+Cluster+Updates%3A+Achieving+Zero+Downtime+Effortlessly+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: automating, cluster, updates, achieving, downtime, effortlessly
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

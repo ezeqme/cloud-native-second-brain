@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2EVld/project-pavilion-tour-with-marino-wijay-cncf-ambassador
 - YouTube search: https://www.youtube.com/results?search_query=Project+Pavilion+Tour+with+Marino+Wijay%2C+CNCF+Ambassador+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: pavilion, marino, ambassador
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

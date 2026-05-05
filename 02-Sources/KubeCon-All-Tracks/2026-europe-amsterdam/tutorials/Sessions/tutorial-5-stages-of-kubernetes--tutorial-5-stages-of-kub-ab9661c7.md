@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2CVxw/tutorial-5-stages-of-kubernetes-rick-rackow-stackit
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%93%9A+Tutorial%3A+5+Stages+of+Kubernetes+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=FxXN_KmdYko
+- YouTube title: Tutorial: 5 Stages of Kubernetes - Rick Rackow, STACKIT
+- Match score: 0.836
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: tutorial, stages
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

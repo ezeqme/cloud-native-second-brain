@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1txDQ/poster-session-ps-02-catch-more-hackers-with-koney-automated-honeytokens-for-cloud-native-apps-mario-kahlhofer-dynatrace-matteo-golinelli-university-of-trento
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%AA%A7+Poster+Session+%28PS+02%29%3A+Catch+More+Hackers+With+Koney%3A+Automated+Honeytokens+for+Cloud+Native+Apps+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: poster, session, hackers, automated, honeytokens, native
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

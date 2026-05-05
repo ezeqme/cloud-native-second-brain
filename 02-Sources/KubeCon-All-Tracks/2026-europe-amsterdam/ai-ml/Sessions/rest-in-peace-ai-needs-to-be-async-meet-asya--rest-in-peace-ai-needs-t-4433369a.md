@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2CW2j/rest-in-peace-ai-needs-to-be-async-meet-asya-artem-yushkovskiy-delivery-hero
 - YouTube search: https://www.youtube.com/results?search_query=REST+in+Peace%3A+AI+Needs+to+Be+Async+-+Meet+Asya%F0%9F%8E%AD+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords:
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

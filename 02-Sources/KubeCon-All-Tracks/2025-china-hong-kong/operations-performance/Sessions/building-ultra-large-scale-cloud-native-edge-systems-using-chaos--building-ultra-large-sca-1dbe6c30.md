@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncchn2025.sched.com/event/1x5hu/building-ultra-large-scale-cloud-native-edge-systems-using-chaos-engineering-yue-bao-huawei-cloud-computing-technology-yue-li-daocloud
 - YouTube search: https://www.youtube.com/results?search_query=Building+Ultra-Large-Scale+Cloud+Native+Edge+Systems+Using+Chaos+Engineering+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=_51bffwxEQM
+- YouTube title: Building Ultra-Large-Scale Cloud Native Edge Systems Using Chaos Engineering - Yue Bao & Yue Li
+- Match score: 0.99
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: ultra-large-scale, native, systems, engineering
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

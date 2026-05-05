@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/27Nl9/contribfest-inspektor-gadget-contribfest-enhancing-the-observability-and-security-of-your-k8s-clusters-through-an-easy-to-use-framework-mauricio-vasquez-bernal-jose-blanquicet-microsoft
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%9A%A8+Contribfest%3A+Inspektor+Gadget+Contribfest%3A+Enhancing+the+Observability+and+Security+of+Your+K8s+Clusters+Through+an+easy+to+use+Framework+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: contribfest, inspektor, gadget, enhancing, observability, security, clusters, framework
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1zuR4/cncf-project-demo-postgres-in-kubernetes-with-cloudnativepg
 - YouTube search: https://www.youtube.com/results?search_query=CNCF+Project+Demo+%7C+Postgres+in+Kubernetes+with+CloudNativePG+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: postgres, cloudnativepg
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

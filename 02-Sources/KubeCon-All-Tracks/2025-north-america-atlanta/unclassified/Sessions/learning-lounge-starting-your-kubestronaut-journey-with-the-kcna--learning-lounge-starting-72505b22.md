@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/2AD1V/learning-lounge-starting-your-kubestronaut-journey-with-the-kcna-cka-and-ckad-james-spurin-diveinto-ramesh-kumar
 - YouTube search: https://www.youtube.com/results?search_query=Learning+Lounge%3A+Starting+your+Kubestronaut+Journey+with+the+KCNA%2C+CKA+and+CKAD+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: learning, lounge, starting, kubestronaut, journey
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

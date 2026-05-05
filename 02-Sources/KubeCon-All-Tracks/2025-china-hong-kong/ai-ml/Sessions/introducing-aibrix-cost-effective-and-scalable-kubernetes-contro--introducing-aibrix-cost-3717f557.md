@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncchn2025.sched.com/event/1x5im/introducing-aibrix-cost-effective-and-scalable-kubernetes-control-plane-for-vllm-jiaxin-shan-liguang-xie-bytedance
 - YouTube search: https://www.youtube.com/results?search_query=Introducing+AIBrix%3A+Cost-Effective+and+Scalable+Kubernetes+Control+Plane+for+VLLM+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=QAhx8kdzvEI
+- YouTube title: Introducing AIBrix: Cost-Effective and Scalable Kubernetes Control Plan... Jiaxin Shan & Liguang Xie
+- Match score: 0.896
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: introducing, aibrix, cost-effective, scalable, control
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

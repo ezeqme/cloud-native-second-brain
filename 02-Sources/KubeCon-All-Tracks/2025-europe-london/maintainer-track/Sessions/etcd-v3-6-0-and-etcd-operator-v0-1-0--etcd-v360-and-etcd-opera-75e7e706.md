@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1td07/etcd-v360-and-etcd-operator-v010-benjamin-wang-vmware-by-broadcom-ivan-valdes-castillo-inmar-intelligence-siyuan-zhang-google-arka-saha-vmware-by-broadcom-ciprian-hacman-microsoft
 - YouTube search: https://www.youtube.com/results?search_query=etcd+V3.6.0+and+etcd-operator+V0.1.0+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: v3.6.0, etcd-operator, v0.1.0
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

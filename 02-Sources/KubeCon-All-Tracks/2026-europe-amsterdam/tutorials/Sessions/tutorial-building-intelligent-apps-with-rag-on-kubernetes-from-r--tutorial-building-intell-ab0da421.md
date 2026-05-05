@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2CW1f/tutorial-building-intelligent-apps-with-rag-on-kubernetes-from-raw-data-to-real-time-insights-cedric-clyburn-natale-vinto-christopher-nuland-legare-kerrison-red-hat
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%93%9A+Tutorial%3A+Building+Intelligent+Apps+with+RAG+on+Kubernetes%3A+From+Raw+Data+to+Real-Time+Insights+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: tutorial, intelligent, real-time, insights
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

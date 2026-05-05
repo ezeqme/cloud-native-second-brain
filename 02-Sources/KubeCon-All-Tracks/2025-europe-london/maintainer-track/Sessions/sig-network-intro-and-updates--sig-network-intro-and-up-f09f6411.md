@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1tczU/sig-network-intro-and-updates-dan-winship-nadia-pinaeva-red-hat-bowei-du-google-daman-arora-broadcom
 - YouTube search: https://www.youtube.com/results?search_query=SIG+Network+Intro+and+Updates+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: network, updates
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

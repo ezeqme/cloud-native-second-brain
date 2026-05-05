@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncchn2025.sched.com/event/23wxN/sponsored-demo-build-compute-affinity-cloud-native-eco-system
 - YouTube search: https://www.youtube.com/results?search_query=Sponsored+Demo%3A+Build+Compute+Affinity+Cloud+Native+Eco-System+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sponsored, compute, affinity, native, eco-system
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

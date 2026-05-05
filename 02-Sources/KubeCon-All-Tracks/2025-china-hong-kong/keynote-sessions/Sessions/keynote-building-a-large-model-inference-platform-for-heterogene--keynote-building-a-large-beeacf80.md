@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncchn2025.sched.com/event/1x5jP/keynote-building-a-large-model-inference-platform-for-heterogeneous-chinese-chips-based-on-vllm-kante-yin-daocloud
 - YouTube search: https://www.youtube.com/results?search_query=Keynote%3A+Building+a+Large+Model+Inference+Platform+for+Heterogeneous+Chinese+Chips+Based+on+VLLM+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=iGXJ1eIsvuU
+- YouTube title: Keynote: Building a Large Model Inference Platform for Heterogeneous Chinese Chips Base... Kante Yin
+- Match score: 1.012
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: keynote, inference, platform, heterogeneous, chinese
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

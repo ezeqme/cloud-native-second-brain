@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncchn2025.sched.com/event/1x5id/cl-lightning-talk-empowering-sustainable-living-with-ores-a-cloud-native-approach-to-software-defined-home-energy-net-chris-xie-futurewei-karl-xiofeng-yang-degcent
 - YouTube search: https://www.youtube.com/results?search_query=%E2%9A%A1+Lightning+Talk%3A+Empowering+Sustainable+Living+With+ORES%3A+A+Cloud+Native+Approach+To+Software-Defined+Home+Energy+Net+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: lightning, empowering, sustainable, living, native, approach, software-defined, energy
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

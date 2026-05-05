@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1txDT/poster-session-ps-03-effortlessly-build-high-performance-aiml-pipelines-with-accelerator-chaining-and-k8s-native-tech-kazuki-yamamoto-ntt-derek-wang-intuit
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%AA%A7+Poster+Session+%28PS+03%29%3A+Effortlessly+Build+High-Performance+AI%2FML+Pipelines+With+Accelerator+Chaining+and+K8s+Native+Tech+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: poster, session, effortlessly, high-performance, pipelines, accelerator, chaining, native
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

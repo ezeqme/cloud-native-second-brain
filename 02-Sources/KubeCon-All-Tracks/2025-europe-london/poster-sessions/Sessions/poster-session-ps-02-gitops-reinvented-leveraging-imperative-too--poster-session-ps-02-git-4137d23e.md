@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1txDi/poster-session-ps-02-gitops-reinvented-leveraging-imperative-tools-for-capi-clusters-management-damien-dassieu-independent
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%AA%A7+Poster+Session+%28PS+02%29%3A+GitOps+Reinvented%3A+Leveraging+Imperative+Tools+for+CAPI+Clusters+Management+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: poster, session, gitops, reinvented, leveraging, imperative, clusters, management
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

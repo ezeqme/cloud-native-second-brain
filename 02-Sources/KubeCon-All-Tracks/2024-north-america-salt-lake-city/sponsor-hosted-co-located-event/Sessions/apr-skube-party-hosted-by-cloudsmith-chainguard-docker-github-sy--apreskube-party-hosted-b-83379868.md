@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2024.sched.com/event/1mMok/apreskube-party-hosted-by-cloudsmith-chainguard-docker-github-sysdig-+-tailscale
 - YouTube search: https://www.youtube.com/results?search_query=Apr%C3%A9sKube+Party+Hosted+by+Cloudsmith%2C+Chainguard%2C+Docker%2C+GitHub%2C+Sysdig+%2B+Tailscale+CNCF+KubeCon+2024
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: hosted, cloudsmith, chainguard, docker, github, sysdig, tailscale
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

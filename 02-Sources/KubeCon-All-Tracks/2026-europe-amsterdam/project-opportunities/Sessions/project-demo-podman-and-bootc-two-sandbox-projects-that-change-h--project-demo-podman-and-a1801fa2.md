@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2JrHf/project-demo-podman-and-bootc-two-sandbox-projects-that-change-how-you-build-and-deploy-operating-systems
 - YouTube search: https://www.youtube.com/results?search_query=Project+Demo%3A+Podman+and+Bootc%2C+Two+Sandbox+Projects+That+Change+How+You+Build+and+Deploy+Operating+Systems+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: podman, sandbox, projects, change, deploy, operating, systems
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

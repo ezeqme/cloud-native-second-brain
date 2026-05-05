@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2JHVv/ask-the-experts-behind-the-electric-glider-open-science-edge-computing-and-real-time-data-in-flight-ricardo-rocha-cern-klaus-ohlmann-mountain-wave-project
 - YouTube search: https://www.youtube.com/results?search_query=Ask+the+Experts%3A+Behind+the+Electric+Glider+-+Open+Science%2C+Edge+Computing%2C+and+Real-Time+Data+in+Flight+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: experts, behind, electric, glider, science, computing, real-time, flight
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

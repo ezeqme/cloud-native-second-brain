@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncchn2025.sched.com/event/1x5jn/solidigm-csal-solution-brings-advanced-io-shaping-caching-and-data-placement-into-nvidia-dpu-doca-s-wayne-gao-solidigm-long-chen-nvidia
 - YouTube search: https://www.youtube.com/results?search_query=Solidigm+CSAL+Solution+Brings+Advanced+IO+Shaping%2C+Caching+and+Data+Placement+Into+NVIDIA+DPU+DOCA+S+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=JB0mpdU58XI
+- YouTube title: Solidigm CSAL Solution Brings Advanced IO Shaping, Caching and Da... Wayne Gao, Solidigm & Long Chen
+- Match score: 0.861
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: solidigm, solution, brings, advanced, shaping, caching, placement, nvidia
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

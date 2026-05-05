@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1tcxw/simplifying-the-networking-and-security-stack-with-cilium-hubble-and-tetragon-bill-mulligan-anna-kapuscinska-isovalent-at-cisco-bowei-du-google-amir-kheirkhahan-dbschenker
 - YouTube search: https://www.youtube.com/results?search_query=Simplifying+the+Networking+and+Security+Stack+With+Cilium%2C+Hubble%2C+and+Tetragon+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=cKPW67D7X10
+- YouTube title: Simplifying the Networking and Security Stack With Cilium, Hubble, and Tet... Liyi Huang & Kaixi Fan
+- Match score: 0.962
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: simplifying, networking, security, cilium, hubble, tetragon
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

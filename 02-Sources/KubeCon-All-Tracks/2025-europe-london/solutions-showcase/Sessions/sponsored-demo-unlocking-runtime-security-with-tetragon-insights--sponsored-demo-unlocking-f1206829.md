@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1x0HT/sponsored-demo-unlocking-runtime-security-with-tetragon-insights-from-v115-duffie-cooley-isovalent-at-cisco
 - YouTube search: https://www.youtube.com/results?search_query=Sponsored+Demo%3A+Unlocking+Runtime+Security+with+Tetragon%3A+Insights+from+v1.15+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sponsored, unlocking, runtime, security, tetragon, insights
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

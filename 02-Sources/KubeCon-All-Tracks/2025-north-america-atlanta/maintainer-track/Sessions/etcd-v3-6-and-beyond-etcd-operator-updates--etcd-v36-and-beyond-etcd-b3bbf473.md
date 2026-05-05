@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/27Nnc/etcd-v36-and-beyond-+-etcd-operator-updates-siyuan-zhang-justin-santa-barbara-google-wei-fu-microsoft-arka-saha-vmware-by-broadcom-ivan-valdes-castillo-inmar-intelligence
 - YouTube search: https://www.youtube.com/results?search_query=etcd+V3.6+and+Beyond+%2B+etcd-operator+Updates+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: beyond, etcd-operator, updates
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

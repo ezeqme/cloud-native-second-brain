@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1vpxZ/learning-lounge-cka-the-essential-kubernetes-certification-chad-m-crowell-kubeskills
 - YouTube search: https://www.youtube.com/results?search_query=Learning+Lounge%3A+CKA%3A+The+Essential+Kubernetes+Certification+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: learning, lounge, essential, certification
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

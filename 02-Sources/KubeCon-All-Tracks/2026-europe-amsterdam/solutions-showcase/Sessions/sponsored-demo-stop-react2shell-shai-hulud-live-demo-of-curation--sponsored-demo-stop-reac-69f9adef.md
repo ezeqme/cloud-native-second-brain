@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2IEHO/sponsored-demo-stop-react2shell-shai-hulud-live-demo-of-curation-with-compliant-version-selection
 - YouTube search: https://www.youtube.com/results?search_query=Sponsored+Demo%3A+Stop+React2Shell+%26+Shai+Hulud%3A+Live+Demo+of+Curation+with+Compliant+Version+Selection+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sponsored, react2shell, curation, compliant, version, selection
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

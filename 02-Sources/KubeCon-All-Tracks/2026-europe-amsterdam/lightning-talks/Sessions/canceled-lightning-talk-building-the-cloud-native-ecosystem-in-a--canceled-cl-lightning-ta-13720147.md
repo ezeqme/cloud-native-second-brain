@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2CW4Z/canceled-cl-lightning-talk-building-the-cloud-native-ecosystem-in-africa-stories-from-the-field-daniel-osarokutamwen-rarefy-consulting-ileriayo-adebiyi-cloudnativeafricaio
 - YouTube search: https://www.youtube.com/results?search_query=CANCELED%3A+%E2%9A%A1+Lightning+Talk%3A+Building+the+Cloud+Native+Ecosystem+in+Africa%3A+Stories+From+the+Field+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: canceled, lightning, native, ecosystem, africa, stories
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

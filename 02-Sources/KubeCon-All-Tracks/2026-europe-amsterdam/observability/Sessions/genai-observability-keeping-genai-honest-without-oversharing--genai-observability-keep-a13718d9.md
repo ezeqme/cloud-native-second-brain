@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2CW3h/genai-observability-keeping-genai-honest-without-oversharing-liudmila-molkova-grafana-labs
 - YouTube search: https://www.youtube.com/results?search_query=GenAI+Observability%3A+Keeping+GenAI+Honest+Without+Oversharing+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=Q4E9GDAslIk
+- YouTube title: GenAI Observability: Keeping GenAI Honest Without Oversharing - Liudmila Molkova, Grafana Labs
+- Match score: 0.88
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: observability, keeping, honest, without, oversharing
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

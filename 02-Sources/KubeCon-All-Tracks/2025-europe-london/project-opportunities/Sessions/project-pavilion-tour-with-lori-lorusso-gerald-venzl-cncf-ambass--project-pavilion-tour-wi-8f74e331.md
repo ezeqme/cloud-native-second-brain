@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1vTHQ/project-pavilion-tour-with-lori-lorusso-gerald-venzl-cncf-ambassadors
 - YouTube search: https://www.youtube.com/results?search_query=Project+Pavilion+Tour+with+Lori+Lorusso+%26+Gerald+Venzl%2C+CNCF+Ambassadors+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: pavilion, lorusso, gerald, ambassadors
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

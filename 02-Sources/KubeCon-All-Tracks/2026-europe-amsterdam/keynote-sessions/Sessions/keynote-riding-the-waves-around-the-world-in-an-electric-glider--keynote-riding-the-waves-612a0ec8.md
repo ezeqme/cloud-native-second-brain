@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2CtJP/keynote-riding-the-waves-around-the-world-in-an-electric-glider-powered-by-nature-data-and-open-science-ricardo-rocha-lead-platforms-infrastructure-cern-klaus-ohlmann-founder-mountain-wave-project
 - YouTube search: https://www.youtube.com/results?search_query=Keynote%3A+Riding+the+Waves%3A+Around+the+World+in+an+Electric+Glider+-+Powered+by+Nature%2C+Data%2C+and+Open+Science+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=kgNyNZ0AvW4
+- YouTube title: Keynote: Riding the Waves: Around the World in an Electric Glider - P... R. Rocha & K. Ohlmann (ASL)
+- Match score: 0.848
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: keynote, riding, around, electric, glider, powered, nature, science
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

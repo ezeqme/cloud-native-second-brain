@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2ITd4/deep-roots-black-indigenous-and-people-of-color-community-gathering
 - YouTube search: https://www.youtube.com/results?search_query=Deep+Roots%3A+Black%2C+Indigenous%2C+and+People+of+Color+Community+Gathering+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: indigenous, gathering
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

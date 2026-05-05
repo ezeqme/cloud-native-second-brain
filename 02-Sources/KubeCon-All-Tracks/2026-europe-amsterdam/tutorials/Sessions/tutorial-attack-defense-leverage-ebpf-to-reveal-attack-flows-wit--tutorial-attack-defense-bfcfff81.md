@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2CW07/tutorial-attack-defense-leverage-ebpf-to-reveal-attack-flows-with-rich-context-constanze-roedig-fusioncoreai-markus-gierlinger-independent-teodor-janez-podobnik-prewave-gmbh
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%93%9A+Tutorial%3A+Attack+Defense%3A+Leverage+eBPF+To+Reveal+Attack+Flows+With+Rich+Context+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: attack, tutorial, defense, leverage, ebpf, reveal, context
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

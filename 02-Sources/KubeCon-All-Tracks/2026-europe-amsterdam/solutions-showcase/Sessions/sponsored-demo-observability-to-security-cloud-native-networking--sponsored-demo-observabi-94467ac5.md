@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2IEHU/sponsored-demo-observability-to-security-cloud-native-networking-with-cilium-hubble-timescape
 - YouTube search: https://www.youtube.com/results?search_query=Sponsored+Demo%3A+Observability+to+Security%3A+Cloud+Native+Networking+with+Cilium+%26+Hubble+Timescape+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sponsored, observability, security, native, networking, cilium, hubble, timescape
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

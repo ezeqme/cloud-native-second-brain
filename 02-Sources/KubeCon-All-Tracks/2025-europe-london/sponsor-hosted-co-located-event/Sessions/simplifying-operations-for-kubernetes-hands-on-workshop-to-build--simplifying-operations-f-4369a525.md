@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1wnje/simplifying-operations-for-kubernetes-hands-on-workshop-to-build-production-ready-applications-hosted-by-aws-afternoon-session
 - YouTube search: https://www.youtube.com/results?search_query=Simplifying+Operations+for+Kubernetes%3A+Hands-On+Workshop+to+Build+Production-Ready+Applications+Hosted+by+AWS+%28Afternoon+Session%29+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: simplifying, operations, hands-on, workshop, production-ready, applications, hosted, afternoon, session
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

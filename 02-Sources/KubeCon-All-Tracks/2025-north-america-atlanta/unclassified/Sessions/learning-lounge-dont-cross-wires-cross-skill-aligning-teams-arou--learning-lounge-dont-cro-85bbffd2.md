@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/2AD1M/learning-lounge-dont-cross-wires-cross-skill-aligning-teams-around-smart-learning-paths-mary-campbell-randi-armour-lf-education
 - YouTube search: https://www.youtube.com/results?search_query=Learning+Lounge%3A+Don%E2%80%99t+Cross+Wires+-+Cross-Skill%3A+Aligning+Teams+Around+Smart+Learning+Paths+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: learning, lounge, cross-skill, aligning, around
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

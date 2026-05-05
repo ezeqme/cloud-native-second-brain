@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1vUeb/keynote-cloud-native-evolution-in-telecom-5g-6g-and-beyond-faseela-k-ericsson-software-technology-tom-kivlin-vodafone-philippe-ensarguet-orange-joel-studler-swisscom
 - YouTube search: https://www.youtube.com/results?search_query=Keynote%3A+Cloud+Native+Evolution+in+Telecom+%3A+5G%2C+6G+and+Beyond%21+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=qLkvDNJsCb0
+- YouTube title: Keynote: Cloud Native Evolution in Telecom : 5G, 6G and Beyond! - Panel (ISL)
+- Match score: 1.001
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: keynote, native, evolution, telecom, beyond
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

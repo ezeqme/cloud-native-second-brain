@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/27FcZ/cl-lightning-talk-summarizing-the-noise-llm-observability-with-open-data-hub-vllm-kserve-and-prometheus-twinkll-sisodia-red-hat
 - YouTube search: https://www.youtube.com/results?search_query=%E2%9A%A1+Lightning+Talk%3A+Summarizing+the+Noise%3A+LLM+Observability+With+Open+Data+Hub%2C+VLLM%2C+KServe+and+Prometheus+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: lightning, summarizing, llm, observability, kserve, prometheus
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

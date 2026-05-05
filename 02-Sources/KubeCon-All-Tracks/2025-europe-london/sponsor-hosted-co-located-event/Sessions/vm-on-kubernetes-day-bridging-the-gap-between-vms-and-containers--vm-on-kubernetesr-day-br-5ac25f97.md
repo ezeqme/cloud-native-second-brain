@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1w9iu/vm-on-kubernetesr-day-bridging-the-gap-between-vms-and-containers-hosted-by-portworx-by-pure-storage
 - YouTube search: https://www.youtube.com/results?search_query=VM+on+Kubernetes%C2%AE+Day%3A+Bridging+the+gap+between+VMs+and+Containers+hosted+by+Portworx+by+Pure+Storage+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: bridging, containers, hosted, portworx, storage
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

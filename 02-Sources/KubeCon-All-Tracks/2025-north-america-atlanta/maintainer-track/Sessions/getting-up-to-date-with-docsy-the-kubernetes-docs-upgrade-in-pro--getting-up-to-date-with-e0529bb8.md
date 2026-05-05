@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/27NnW/getting-up-to-date-with-docsy-the-kubernetes-docs-upgrade-in-progress-natali-vlatko-cisco-rey-lejano-red-hat-divya-mohan-suse-sayak-mukhopadhyay-gemini-solutions
 - YouTube search: https://www.youtube.com/results?search_query=Getting+up+To+Date+With+Docsy%3A+The+Kubernetes+Docs+Upgrade+in+Progress+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: getting, upgrade, progress
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

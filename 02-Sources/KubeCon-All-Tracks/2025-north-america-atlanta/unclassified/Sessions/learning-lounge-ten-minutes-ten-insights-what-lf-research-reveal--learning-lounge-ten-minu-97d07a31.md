@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/2AD1G/learning-lounge-ten-minutes-ten-insights-what-lf-research-reveals-about-cloud-ai-and-open-source-hilary-carter-lf-research
 - YouTube search: https://www.youtube.com/results?search_query=Learning+Lounge%3A+Ten+Minutes%2C+Ten+Insights%3A+What+LF+Research+Reveals+About+Cloud%2C+AI%2C+and+Open+Source+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: learning, lounge, minutes, insights, research, reveals, source
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

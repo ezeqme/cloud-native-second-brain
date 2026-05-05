@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2EF7I/contribfest-improving-submariner-in-support-of-privacy-preserving-federated-statistics-research-on-kubernetes-stephen-kitt-red-hat-julien-d-lausanne-university-hospital
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%9A%A8+Contribfest%3A+Improving+Submariner+in+Support+of+Privacy-preserving+Federated+Statistics+Research+on+Kubernetes+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: contribfest, improving, submariner, support, privacy-preserving, federated, statistics, research
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

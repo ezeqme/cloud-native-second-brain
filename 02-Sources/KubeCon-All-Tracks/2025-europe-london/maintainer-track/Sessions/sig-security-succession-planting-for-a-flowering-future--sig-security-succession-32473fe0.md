@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1tczL/sig-security-succession-planting-for-a-flowering-future-cailyn-edwards-okta-iain-smart-amberwolf-rory-mccune-tabitha-sable-datadog-mahe-tardy-isovalent-at-cisco
 - YouTube search: https://www.youtube.com/results?search_query=SIG+Security%3A+Succession+Planting+for+a+Flowering+Future+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: security, succession, planting, flowering, future
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

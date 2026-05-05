@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1zokB/cncf-project-demos-armoring-up-workloads-with-kubearmor
 - YouTube search: https://www.youtube.com/results?search_query=CNCF+Project+Demos+%7C+Armoring+Up+Workloads+with+KubeArmor+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: armoring, workloads, kubearmor
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

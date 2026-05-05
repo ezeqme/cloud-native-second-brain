@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2024.sched.com/event/1rFnL/learning-lounge-take-the-cybersecurity-challenge-beat-the-1-minute-sql-injection-company-takeover-aleks-jones-linux-foundation-education
 - YouTube search: https://www.youtube.com/results?search_query=Learning+Lounge%3A+Take+the+Cybersecurity+Challenge%3A+Beat+the+1-Minute+SQL+Injection+Company+Takeover+CNCF+KubeCon+2024
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: learning, lounge, cybersecurity, challenge, minute, injection, company, takeover
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

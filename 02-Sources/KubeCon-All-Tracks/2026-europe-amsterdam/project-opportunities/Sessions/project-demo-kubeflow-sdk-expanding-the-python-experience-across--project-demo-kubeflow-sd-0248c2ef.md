@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2HJTX/project-demo-kubeflow-sdk-expanding-the-python-experience-across-kubeflow
 - YouTube search: https://www.youtube.com/results?search_query=Project+Demo%3A+Kubeflow+SDK%3A+Expanding+the+Python+Experience+Across+Kubeflow+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: kubeflow, expanding, python, experience, across
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

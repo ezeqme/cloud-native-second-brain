@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1x0HE/sponsored-demo-kubernetes-security-2030-lessons-from-45-of-fortune-100-and-the-next-big-challenge-shay-berkovich-wiz
 - YouTube search: https://www.youtube.com/results?search_query=Sponsored+Demo%3A+Kubernetes+Security+2030%3A+Lessons+From+45%25+of+Fortune+100+and+the+Next+Big+Challenge+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sponsored, security, lessons, fortune, challenge
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

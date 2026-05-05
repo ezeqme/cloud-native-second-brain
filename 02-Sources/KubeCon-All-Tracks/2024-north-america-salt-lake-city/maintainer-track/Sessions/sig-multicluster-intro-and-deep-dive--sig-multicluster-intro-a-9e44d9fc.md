@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2024.sched.com/event/1hove/sig-multicluster-intro-and-deep-dive-jeremy-olmsted-thompson-laura-lorenz-google-ryan-zhang-microsoft-stephen-kitt-red-hat
 - YouTube search: https://www.youtube.com/results?search_query=SIG-Multicluster+Intro+and+Deep+Dive+CNCF+KubeCon+2024
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sig-multicluster
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

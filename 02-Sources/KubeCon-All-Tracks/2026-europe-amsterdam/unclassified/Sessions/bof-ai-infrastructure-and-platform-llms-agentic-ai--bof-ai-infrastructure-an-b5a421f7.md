@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2IGXo/bof-ai-infrastructure-and-platform-llms-agentic-ai
 - YouTube search: https://www.youtube.com/results?search_query=BoF%3A+AI+Infrastructure+and+Platform%3A+LLMs%2C+Agentic+AI+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: infrastructure, platform, agentic
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

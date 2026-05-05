@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2024.sched.com/event/1iW9r/slimtoolkit-improving-dx-with-containers-making-it-easy-to-understand-optimize-and-debug-your-containers-project-lightning-talk
 - YouTube search: https://www.youtube.com/results?search_query=SlimToolkit%3A+Improving+DX+with+Containers+CNCF+KubeCon+2024
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: slimtoolkit, improving, containers
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

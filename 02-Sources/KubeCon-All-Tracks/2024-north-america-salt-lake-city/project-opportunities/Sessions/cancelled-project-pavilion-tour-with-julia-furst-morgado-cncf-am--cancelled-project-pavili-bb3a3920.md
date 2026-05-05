@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2024.sched.com/event/1lWbS/cancelled-project-pavilion-tour-with-julia-furst-morgado-cncf-ambassador
 - YouTube search: https://www.youtube.com/results?search_query=CANCELLED%3A+Project+Pavilion+Tour+with+Julia+Furst+Morgado%2C+CNCF+Ambassador+CNCF+KubeCon+2024
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: cancelled, pavilion, morgado, ambassador
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

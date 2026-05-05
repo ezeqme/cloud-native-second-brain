@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2IEI4/sponsored-demo-from-symptom-to-root-cause-a-cross-layer-approach-to-kubernetes-troubleshooting
 - YouTube search: https://www.youtube.com/results?search_query=Sponsored+Demo%3A+From+Symptom+to+Root+Cause%3A+A+Cross-Layer+Approach+to+Kubernetes+Troubleshooting+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sponsored, symptom, cross-layer, approach, troubleshooting
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

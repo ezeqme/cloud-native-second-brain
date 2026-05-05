@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2CW4W/cl-lightning-talk-avoiding-cpu-throttling-how-go-125s-container-aware-runtime-fixes-gomaxprocs-adarsh-k-kumar-rapido
 - YouTube search: https://www.youtube.com/results?search_query=%E2%9A%A1+Lightning+Talk%3A+Avoiding+CPU+Throttling%3A+How+Go+1.25%27s+Container-Aware+Runtime+Fixes+GOMAXPROCS+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: lightning, avoiding, throttling, container-aware, runtime, gomaxprocs
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

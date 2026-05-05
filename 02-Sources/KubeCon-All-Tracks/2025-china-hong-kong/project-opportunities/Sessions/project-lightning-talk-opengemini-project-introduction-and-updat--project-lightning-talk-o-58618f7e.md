@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncchn2025.sched.com/event/1xjz5/project-lightning-talk-opengemini-project-introduction-and-updates-yu-xiang-maintainer
 - YouTube search: https://www.youtube.com/results?search_query=Project+Lightning+Talk%3A+openGemini%3A+Project+Introduction+and+Updates+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=JGoxRoNhtAw
+- YouTube title: Project Lightning Talk: openGemini: Project Introduction and Updates - Yu Xiang, Maintainer
+- Match score: 0.948
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: lightning, opengemini, introduction, updates
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

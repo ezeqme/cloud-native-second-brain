@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2024.sched.com/event/1i7l7/tutorial-confidential-containers-101-a-hands-on-workshop-archana-choudhary-suraj-deshmukh-microsoft
 - YouTube search: https://www.youtube.com/results?search_query=Tutorial%3A+Confidential+Containers+101%3A+A+Hands-on+Workshop+CNCF+KubeCon+2024
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: tutorial, confidential, containers, hands-on, workshop
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

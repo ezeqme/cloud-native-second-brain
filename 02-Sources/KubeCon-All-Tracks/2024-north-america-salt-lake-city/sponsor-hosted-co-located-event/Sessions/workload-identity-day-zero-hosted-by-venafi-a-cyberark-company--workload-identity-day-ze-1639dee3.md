@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2024.sched.com/event/1nons/workload-identity-day-zero-hosted-by-venafi-a-cyberark-company-sold-out
 - YouTube search: https://www.youtube.com/results?search_query=Workload+Identity+Day+Zero+Hosted+by+Venafi%2C+a+CyberArk+Company+CNCF+KubeCon+2024
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: workload, identity, hosted, venafi, cyberark, company
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

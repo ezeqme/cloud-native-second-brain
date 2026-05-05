@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2CW78/tutorial-your-application-batteries-included-packaging-for-deterministic-secure-and-portable-delivery-brandt-keller-austin-abro-william-crum-defense-unicorns-merijn-keppel-truefullstaq-jessica-keppel-drost-isala
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%93%9A+Tutorial%3A+Your+Application%2C+Batteries+Included%3A+Packaging+for+Deterministic%2C+Secure%2C+and+Portable+Delivery+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: tutorial, application, batteries, included, packaging, deterministic, secure, portable, delivery
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

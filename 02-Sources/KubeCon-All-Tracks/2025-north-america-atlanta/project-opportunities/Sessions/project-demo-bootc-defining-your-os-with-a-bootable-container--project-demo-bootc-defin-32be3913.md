@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/2BTlu/project-demo-bootc-defining-your-os-with-a-bootable-container
 - YouTube search: https://www.youtube.com/results?search_query=Project+Demo%3A+Bootc%3A+Defining+your+OS+with+a+Bootable+Container+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: defining, bootable, container
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

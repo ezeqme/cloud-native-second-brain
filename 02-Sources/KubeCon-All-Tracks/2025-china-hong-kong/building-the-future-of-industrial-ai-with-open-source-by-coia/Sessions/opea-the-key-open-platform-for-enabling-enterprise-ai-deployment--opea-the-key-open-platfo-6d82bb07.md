@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncchn2025.sched.com/event/25EUD/opea-the-key-open-platform-for-enabling-enterprise-ai-deployment-kenny-chen-intel-corporation-coia
 - YouTube search: https://www.youtube.com/results?search_query=OPEA%3A+The+Key+Open+Platform+for+Enabling+Enterprise+AI+Deployment+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: platform, enabling, enterprise, deployment
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

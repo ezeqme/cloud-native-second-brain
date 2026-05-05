@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1txB3/can-you-maintain-1000-apps-wasmcloud-k8s-the-ultimate-golden-template-liam-randall-cosmonic
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%A4%94%F0%9F%94%A7+%22Can+You+Maintain+1000+Apps%3F+WasmCloud+%26+K8s%3A+The+Ultimate+Golden+Template+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: maintain, wasmcloud, ultimate, golden, template
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

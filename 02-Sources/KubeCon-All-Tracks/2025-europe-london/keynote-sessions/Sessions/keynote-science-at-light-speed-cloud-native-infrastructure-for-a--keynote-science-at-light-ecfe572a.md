@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1txCJ/keynote-science-at-light-speed-cloud-native-infrastructure-for-astronomy-workloads-carolina-lindqvist-system-specialist-epfl
 - YouTube search: https://www.youtube.com/results?search_query=Keynote%3A+Science+at+Light+Speed%3A+Cloud+Native+Infrastructure+for+Astronomy+Workloads+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=CciMlmTCpME
+- YouTube title: Keynote: Science at Light Speed: Cloud Native Infrastructure for Astronomy Wor... C. Lindqvist (ISL)
+- Match score: 0.988
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: keynote, science, native, infrastructure, astronomy, workloads
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

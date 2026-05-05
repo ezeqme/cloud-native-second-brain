@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/2A7Dk/sponsored-demo-beware-argo-cd-app-promotion-anti-patterns-and-embrace-scalable-promotion-in-gitops-cloud
 - YouTube search: https://www.youtube.com/results?search_query=Sponsored+Demo%3A+Beware+Argo+CD+App+Promotion+Anti-Patterns+and+Embrace+Scalable+Promotion+in+GitOps+Cloud+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: promotion, sponsored, beware, argo, anti-patterns, embrace, scalable, gitops
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

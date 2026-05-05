@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/2AD1P/learning-lounge-ai-may-be-the-lead-singer-but-you-still-need-the-band-clyde-seepersad-lf-education
 - YouTube search: https://www.youtube.com/results?search_query=Learning+Lounge%3A+AI+May+Be+the+Lead+Singer%2C+But+You+Still+Need+the+Band+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: learning, lounge, singer
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

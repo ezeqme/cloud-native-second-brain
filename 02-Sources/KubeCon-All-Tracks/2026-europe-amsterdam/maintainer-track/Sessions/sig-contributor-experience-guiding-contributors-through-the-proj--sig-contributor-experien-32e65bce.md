@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2EF6T/sig-contributor-experience-guiding-contributors-through-the-project-nabarun-pal-broadcom-priyanka-saggu-suse-arpit-agrawal-kubernetes-mario-fahlandt-kubermatic
 - YouTube search: https://www.youtube.com/results?search_query=SIG+Contributor+Experience%3A+Guiding+Contributors+Through+the+Project+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: contributor, experience, guiding, contributors
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1txFS/gpu-sharing-at-cern-cutting-the-cake-without-losing-a-slice-diana-gaponcic-cern
 - YouTube search: https://www.youtube.com/results?search_query=GPU+Sharing+at+CERN%3A+Cutting+the+Cake+Without+Losing+a+Slice%21+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=_pgOuaYwvBQ
+- YouTube title: GPU Sharing at CERN: Cutting the Cake Without Losing a Slice! - Diana Gaponcic, CERN
+- Match score: 0.935
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: gpu, sharing, cutting, without, losing
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/27NmJ/canceled-discover-cortex-high-scalability-metrics-in-2025-friedrich-gonzalez-charlie-le-alolita-sharma-apple-anand-rajagopal-amazon-web-services
 - YouTube search: https://www.youtube.com/results?search_query=CANCELED%3A+Discover+Cortex%3A+High+Scalability+Metrics+in+2025+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: canceled, discover, cortex, scalability, metrics
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

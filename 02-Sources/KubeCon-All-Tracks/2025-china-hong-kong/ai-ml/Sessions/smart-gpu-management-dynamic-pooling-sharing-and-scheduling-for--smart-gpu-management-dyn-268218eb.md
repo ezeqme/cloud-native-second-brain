@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncchn2025.sched.com/event/1x5iF/smart-gpu-management-dynamic-pooling-sharing-and-scheduling-for-ai-workloads-in-kubernetes-wei-chen-china-unicom-cloud-data-mengxuan-li-dynamia
 - YouTube search: https://www.youtube.com/results?search_query=Smart+GPU+Management%3A+Dynamic+Pooling%2C+Sharing%2C+and+Scheduling+for+AI+Workloads+in+Kubernetes+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=VQJBxquobQc
+- YouTube title: Smart GPU Management: Dynamic Pooling, Sharing, and Scheduling for AI Work... Wei Chen & Mengxuan Li
+- Match score: 0.926
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: gpu, management, dynamic, pooling, sharing, scheduling, workloads
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

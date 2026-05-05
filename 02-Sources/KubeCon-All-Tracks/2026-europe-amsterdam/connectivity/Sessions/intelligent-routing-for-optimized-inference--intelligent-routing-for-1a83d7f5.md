@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2CVy2/intelligent-routing-for-optimized-inference-antonio-berben-soloio-felipe-vicens-telefonica
 - YouTube search: https://www.youtube.com/results?search_query=Intelligent+Routing+for+Optimized+Inference+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=5ds6_J8qu7Q
+- YouTube title: Intelligent Routing for Optimized LLM Inference | KubeCon EU 2026 Demo
+- Match score: 0.835
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: intelligent, routing, optimized, inference
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

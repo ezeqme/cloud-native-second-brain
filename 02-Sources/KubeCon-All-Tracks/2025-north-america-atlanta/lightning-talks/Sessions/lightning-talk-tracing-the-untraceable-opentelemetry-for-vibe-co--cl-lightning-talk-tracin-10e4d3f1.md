@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/27Fcf/cl-lightning-talk-tracing-the-untraceable-opentelemetry-for-vibe-coded-llm-apps-pranay-prateek-signoz
 - YouTube search: https://www.youtube.com/results?search_query=%E2%9A%A1+Lightning+Talk%3A+Tracing+the+Untraceable%3A+OpenTelemetry+for+%E2%80%98Vibe-Coded%E2%80%99+LLM+Apps+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: lightning, tracing, untraceable, opentelemetry, vibe-coded, llm
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

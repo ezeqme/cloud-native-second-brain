@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncchn2025.sched.com/event/1x5jz/guardians-of-multi-tenancy-enhanced-authorization-to-prevent-lateral-node-escape-dahu-kuang-cheng-gao-alibaba-cloud
 - YouTube search: https://www.youtube.com/results?search_query=Guardians+of+Multi-Tenancy%3A+Enhanced+Authorization+To+Prevent+Lateral+Node+Escape+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=J9tge_ygyhU
+- YouTube title: Guardians of Multi-Tenancy: Enhanced Authorization To Prevent Lateral Node... Dahu Kuang & Cheng Gao
+- Match score: 0.954
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: guardians, multi-tenancy, enhanced, authorization, prevent, lateral, escape
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2JILw/sponsored-demo-running-ha-kubernetes-on-interruptible-infrastructure-at-picnic
 - YouTube search: https://www.youtube.com/results?search_query=Sponsored+Demo%3A+Running+HA+Kubernetes+on+Interruptible+Infrastructure+at+Picnic+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sponsored, running, interruptible, infrastructure, picnic
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

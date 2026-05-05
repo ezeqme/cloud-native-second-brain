@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2024.sched.com/event/1mSm2/hands-on-cloud-native-security-workshop-hosted-by-sysdig-+-google
 - YouTube search: https://www.youtube.com/results?search_query=Hands-On+Cloud+Native+Security+Workshop+Hosted+by+Sysdig+%2B+Google+CNCF+KubeCon+2024
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: hands-on, native, security, workshop, hosted, sysdig, google
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

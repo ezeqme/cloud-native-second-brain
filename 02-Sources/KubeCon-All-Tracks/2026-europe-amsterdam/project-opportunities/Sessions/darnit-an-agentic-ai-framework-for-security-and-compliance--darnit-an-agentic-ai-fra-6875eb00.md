@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2Jp7g/darnit-an-agentic-ai-framework-for-security-and-compliance-michael-lieberman
 - YouTube search: https://www.youtube.com/results?search_query=Darnit%3A+An+Agentic+AI+Framework+for+Security+and+Compliance+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: darnit, agentic, framework, security, compliance
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

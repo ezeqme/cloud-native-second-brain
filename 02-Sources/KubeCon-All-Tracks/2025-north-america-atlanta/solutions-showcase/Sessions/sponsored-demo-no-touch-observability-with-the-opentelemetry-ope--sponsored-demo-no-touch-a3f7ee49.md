@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/2A7DS/sponsored-demo-no-touch-observability-with-the-opentelemetry-operator-and-dash0
 - YouTube search: https://www.youtube.com/results?search_query=Sponsored+Demo%3A+No-Touch+Observability+with+the+OpenTelemetry+Operator+and+Dash0+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sponsored, no-touch, observability, opentelemetry, operator
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

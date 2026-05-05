@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2EF4X/kubeflow-in-cloud-native-ai-orchestrating-the-next-wave-of-agentic-ai-and-llmops-johnu-george-nutanix-valentina-rodriguez-sosa-antonin-stefanutti-red-hat-alexander-perlman-michael-zazula-capital-one
 - YouTube search: https://www.youtube.com/results?search_query=Kubeflow+in+Cloud+Native+AI%3A+Orchestrating+the+Next+Wave+of+Agentic+AI+and+LLMOps+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: kubeflow, native, orchestrating, agentic, llmops
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

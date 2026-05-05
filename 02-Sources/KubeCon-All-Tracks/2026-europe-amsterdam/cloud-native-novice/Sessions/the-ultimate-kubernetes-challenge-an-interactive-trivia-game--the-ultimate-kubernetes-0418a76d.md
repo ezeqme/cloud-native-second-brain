@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2CW4r/the-ultimate-kubernetes-challenge-an-interactive-trivia-game-aurelie-vache-ovhcloud
 - YouTube search: https://www.youtube.com/results?search_query=The+Ultimate+Kubernetes+Challenge%3A+An+Interactive+Trivia+Game+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=7LeveaxQtGs
+- YouTube title: The Ultimate Kubernetes Challenge: An Interactive Trivia Game - Aurélie Vache, OVHcloud
+- Match score: 0.919
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: ultimate, challenge, interactive, trivia
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

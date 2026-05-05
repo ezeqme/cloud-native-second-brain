@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncchn2025.sched.com/event/1x5ho/an-alternative-metadata-system-for-large-kubernetes-clusters-yingcai-xue-yixiang-chen-bytedance
 - YouTube search: https://www.youtube.com/results?search_query=An+Alternative+Metadata+System+for+Large+Kubernetes+Clusters+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=MGOa8Nn8_S0
+- YouTube title: An Alternative Metadata System for Large Kubernetes Clusters - Yingcai Xue & Yixiang Chen, ByteDance
+- Match score: 0.854
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: alternative, metadata, clusters
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

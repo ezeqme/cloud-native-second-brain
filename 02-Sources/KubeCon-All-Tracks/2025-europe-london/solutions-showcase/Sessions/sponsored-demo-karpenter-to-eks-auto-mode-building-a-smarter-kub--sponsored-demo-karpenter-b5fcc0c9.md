@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1x0Ge/sponsored-demo-karpenter-to-eks-auto-mode-building-a-smarter-kubernetes-foundation-rajdeep-saha-aws
 - YouTube search: https://www.youtube.com/results?search_query=Sponsored+Demo%3A+Karpenter+to+EKS+Auto+Mode%3A+Building+a+Smarter+Kubernetes+Foundation+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sponsored, karpenter, smarter, foundation
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

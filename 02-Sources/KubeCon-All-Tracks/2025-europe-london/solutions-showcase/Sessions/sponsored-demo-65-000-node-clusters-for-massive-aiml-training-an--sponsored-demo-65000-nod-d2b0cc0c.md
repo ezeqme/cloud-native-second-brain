@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1x0Gn/sponsored-demo-65000-node-clusters-for-massive-aiml-training-and-inference-workload-mofi-rahman-maciek-rozacki-google
 - YouTube search: https://www.youtube.com/results?search_query=Sponsored+Demo%3A+65%2C000+Node+Clusters+for+Massive+AIML+Training+and+Inference+Workload+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sponsored, clusters, massive, training, inference, workload
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1txDc/poster-session-ps-03-introducing-the-last-level-cache-alignment-feature-in-kubernetes-for-performance-optimization-charles-wong-amd
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%AA%A7+Poster+Session+%28PS+03%29%3A+Introducing+the+Last+Level+Cache+Alignment+Feature+in+Kubernetes+for+Performance+Optimization+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: poster, session, introducing, alignment, feature, performance, optimization
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

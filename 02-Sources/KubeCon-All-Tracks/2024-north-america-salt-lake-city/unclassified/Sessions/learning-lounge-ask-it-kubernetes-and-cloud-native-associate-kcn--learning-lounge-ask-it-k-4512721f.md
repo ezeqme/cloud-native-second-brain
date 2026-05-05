@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2024.sched.com/event/1rFoC/learning-lounge-ask-it-kubernetes-and-cloud-native-associate-kcna-kubernetes-and-cloud-native-security-associate-kcsa-james-spurin-diveinto-chad-m-crowell-civo
 - YouTube search: https://www.youtube.com/results?search_query=Learning+Lounge%3A+Ask+It%21+Kubernetes+and+Cloud+Native+Associate+%28KCNA%29+%26+Kubernetes+and+Cloud+Native+Security+Associate+%28KCSA%29+CNCF+KubeCon+2024
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: native, associate, learning, lounge, security
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

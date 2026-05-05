@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncchn2025.sched.com/event/1x5jh/china-mobiles-panji-platform-observability-practices-and-implementations-for-llm-applications-base-jing-shang-china-mobile-casey-li-yunshan-networks-inc
 - YouTube search: https://www.youtube.com/results?search_query=China+Mobile%27s+Panji+Platform%3A+Observability+Practices+and+Implementations+for+LLM+Applications+Base+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=zN1j4EpVwjY
+- YouTube title: China Mobile's Panji Platform: Observability Practices and Implementations... Jing Shang & Casey Li
+- Match score: 0.912
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: mobile, platform, observability, practices, implementations, llm, applications
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

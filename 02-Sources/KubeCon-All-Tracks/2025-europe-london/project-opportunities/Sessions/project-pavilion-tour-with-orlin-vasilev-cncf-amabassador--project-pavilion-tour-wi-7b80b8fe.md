@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1vTiQ/project-pavilion-tour-with-orlin-vasilev-cncf-amabassador
 - YouTube search: https://www.youtube.com/results?search_query=Project+Pavilion+Tour+with+Orlin+Vasilev%2C+CNCF+Amabassador+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: pavilion, vasilev, amabassador
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

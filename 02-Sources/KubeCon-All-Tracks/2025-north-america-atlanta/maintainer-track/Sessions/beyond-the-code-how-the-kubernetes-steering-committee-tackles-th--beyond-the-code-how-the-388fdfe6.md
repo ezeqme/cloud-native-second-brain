@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/27NmS/beyond-the-code-how-the-kubernetes-steering-committee-tackles-the-hard-non-technical-problems-antonio-ojea-benjamin-elder-google
 - YouTube search: https://www.youtube.com/results?search_query=Beyond+the+Code%3A+How+the+Kubernetes+Steering+Committee+Tackles+the+Hard%2C+Non-Technical+Problems+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: beyond, steering, committee, tackles, non-technical, problems
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

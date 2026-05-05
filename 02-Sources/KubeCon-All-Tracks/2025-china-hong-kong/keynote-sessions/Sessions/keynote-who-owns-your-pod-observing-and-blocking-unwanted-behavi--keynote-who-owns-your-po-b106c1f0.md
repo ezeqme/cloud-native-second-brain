@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncchn2025.sched.com/event/1x5jM/keynote-who-owns-your-pod-observing-and-blocking-unwanted-behavior-at-ebay-with-ebpf-jianlin-lv-ebay-liyi-huang-isovalent-at-cisco
 - YouTube search: https://www.youtube.com/results?search_query=Keynote%3A+Who+Owns+Your+Pod%3F+Observing+and+Blocking+Unwanted+Behavior+at+eBay+With+eBPF+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=xEa4KFf5FzY
+- YouTube title: Keynote: Who Owns Your Pod? Observing and Blocking Unwanted Behavior at e... Jianlin Lv & Liyi Huang
+- Match score: 0.927
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: keynote, observing, blocking, unwanted, behavior, ebpf
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

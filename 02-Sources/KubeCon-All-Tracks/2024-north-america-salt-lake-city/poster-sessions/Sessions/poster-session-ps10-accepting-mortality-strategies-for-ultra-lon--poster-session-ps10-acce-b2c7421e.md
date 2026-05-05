@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2024.sched.com/event/1i7mo/poster-session-ps10-accepting-mortality-strategies-for-ultra-long-running-stateful-workloads-in-k8s-sebastian-beyvers-maria-hansen-giessen-university
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%AA%A7+Poster+Session+%28PS10%29%3A+Accepting+Mortality%3A+Strategies+for+Ultra-Long+Running+Stateful+Workloads+in+K8s+CNCF+KubeCon+2024
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: poster, session, accepting, mortality, strategies, ultra-long, running, stateful, workloads
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

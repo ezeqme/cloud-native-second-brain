@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/27FYk/agent-driven-mcp-for-ai-workloads-on-kubernetes-ganeshkumar-ashokavardhanan-qinghui-zhuang-microsoft
 - YouTube search: https://www.youtube.com/results?search_query=Agent-Driven+MCP+for+AI+Workloads+on+Kubernetes+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=KiFnN4h2zKE
+- YouTube title: KubeCon NA 2025: Agent-Driven MCP for AI Workloads on Kubernetes
+- Match score: 0.915
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: agent-driven, workloads
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

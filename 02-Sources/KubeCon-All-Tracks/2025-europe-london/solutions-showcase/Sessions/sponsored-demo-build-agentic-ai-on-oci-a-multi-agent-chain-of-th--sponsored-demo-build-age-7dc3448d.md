@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1x0Gt/sponsored-demo-build-agentic-ai-on-oci-a-multi-agent-chain-of-thought-system-for-intelligent-document-analysis-and-knowledge-retrieval-nacho-martinez-oracle
 - YouTube search: https://www.youtube.com/results?search_query=Sponsored+Demo%3A+Build+Agentic+AI+on+OCI%3A+A+Multi-Agent+Chain-of-Thought+System+for+Intelligent+Document+Analysis+and+Knowledge+Retrieval+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sponsored, agentic, multi-agent, chain-of-thought, intelligent, document, analysis, knowledge, retrieval
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

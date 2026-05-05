@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2EF7d/contribfest-bring-agentic-ai-to-cloud-native-one-pr-at-a-time-with-kagent-lin-sun-peter-jausovec-eitan-yarmush-soloio-dmytriy-rashko-amdocs
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%9A%A8+Contribfest%3A+Bring+Agentic+AI+To+Cloud+Native%2C+One+PR+at+a+Time+With+Kagent+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: contribfest, agentic, native, kagent
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

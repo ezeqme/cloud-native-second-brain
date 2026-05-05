@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncchn2025.sched.com/event/1x5hZ/building-custom-gpu-clusters-at-scale-using-kubespray-to-create-high-performance-ai-infrastructure-kay-yan-daocloud-rong-zhang-vivo
 - YouTube search: https://www.youtube.com/results?search_query=Building+Custom+GPU+Clusters+at+Scale%3A+Using+Kubespray+To+Create+High-Performance+AI+Infrastructure+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=xj56NvrvN5A
+- YouTube title: Building Custom GPU Clusters at Scale: Using Kubespray To Create High-Perfor... Kay Yan & Rong Zhang
+- Match score: 0.913
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: custom, gpu, clusters, kubespray, create, high-performance, infrastructure
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

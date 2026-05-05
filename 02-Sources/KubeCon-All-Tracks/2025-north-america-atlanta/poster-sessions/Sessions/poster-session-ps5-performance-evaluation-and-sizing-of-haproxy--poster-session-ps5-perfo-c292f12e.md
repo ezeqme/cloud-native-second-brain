@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/27FYS/poster-session-ps5-performance-evaluation-and-sizing-of-haproxy-for-http-communication-in-5g-core-networks-diep-pham-quang-viettel-high-technology
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%AA%A7+Poster+Session+%28PS5%29%3A+Performance+Evaluation+and+Sizing+of+HAProxy+for+HTTP+Communication+in+5G+Core+Networks+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: poster, session, performance, evaluation, sizing, haproxy, communication, networks
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

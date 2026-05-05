@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1txDo/poster-session-ps-04-migrate-smarter-not-harder-mastering-object-storage-with-chorus-artem-torubarov-andrei-ivashchenko-clyso-gmbh
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%AA%A7+Poster+Session+%28PS+04%29%3A+Migrate+Smarter%2C+Not+Harder%3A+Mastering+Object+Storage+With+Chorus+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: poster, session, migrate, smarter, harder, mastering, object, storage, chorus
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

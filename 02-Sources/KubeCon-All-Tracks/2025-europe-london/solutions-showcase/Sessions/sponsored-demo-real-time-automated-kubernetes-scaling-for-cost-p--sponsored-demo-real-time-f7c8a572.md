@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1xu4G/sponsored-demo-real-time-automated-kubernetes-scaling-for-cost-performance-efficiency-ben-grady-scaleops
 - YouTube search: https://www.youtube.com/results?search_query=Sponsored+Demo%3A+Real-Time%2C+Automated+Kubernetes+Scaling+for+Cost+%26+Performance+Efficiency+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sponsored, real-time, automated, scaling, cost, performance, efficiency
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

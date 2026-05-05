@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2CW0t/poster-session-lets-embrace-green-cloud-native-engineering-henrik-rexed-dynatrace
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%AA%A7+Poster+Session%3A+Let%E2%80%99s+Embrace+Green+Cloud+Native+Engineering+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: poster, session, embrace, native, engineering
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

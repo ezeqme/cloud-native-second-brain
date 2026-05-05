@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2CW7Q/sbm-making-sboms-play-together-jacopo-bufalino-cnam-agathe-blaise-thales-six-gts-france
 - YouTube search: https://www.youtube.com/results?search_query=SB%F0%9F%92%A3%F0%9F%92%A3M%3A+Making+SBOMs+Play+Together+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: making, together
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

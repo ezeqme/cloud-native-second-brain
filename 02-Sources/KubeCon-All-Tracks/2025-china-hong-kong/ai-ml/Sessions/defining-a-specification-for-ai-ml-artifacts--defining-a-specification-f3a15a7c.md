@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncchn2025.sched.com/event/1x5hr/defining-a-specification-for-aiml-artifacts-fog-dong-bentoml-peng-tao-chlins-zhang-ant-group-xudong-wang-paypal
 - YouTube search: https://www.youtube.com/results?search_query=Defining+a+Specification+for+AI%2FML+Artifacts+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=dYVgmr7S-rE
+- YouTube title: Defining a Specification for AI/ML Artifacts - Fog Dong, Peng Tao, Chlins Zhang & Xudong Wang
+- Match score: 0.752
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: defining, specification, artifacts
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1tcwO/project-lightning-talk-the-bipoc-initiative-building-an-inclusive-cloud-native-future-william-rizzo
 - YouTube search: https://www.youtube.com/results?search_query=Project+Lightning+Talk%3A+The+BIPOC+Initiative%3A+Building+an+Inclusive+Cloud+Native+Future+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: lightning, initiative, inclusive, native, future
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

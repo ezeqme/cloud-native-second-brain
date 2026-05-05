@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1xu4D/sponsored-demo-learn-about-and-experiment-with-arm-based-nodes-in-your-kubernetes-cluster-geremy-cohen-arm
 - YouTube search: https://www.youtube.com/results?search_query=Sponsored+Demo%3A+Learn+About+and+Experiment+with+Arm-based+Nodes+in+Your+Kubernetes+Cluster+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sponsored, experiment, arm-based, cluster
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

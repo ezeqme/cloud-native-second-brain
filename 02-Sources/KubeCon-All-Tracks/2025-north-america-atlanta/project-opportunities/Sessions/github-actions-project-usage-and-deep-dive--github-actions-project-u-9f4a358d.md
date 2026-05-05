@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/29LZ0/github-actions-project-usage-and-deep-dive-jeremy-rickard-microsoft-jeffrey-sica-cncf
 - YouTube search: https://www.youtube.com/results?search_query=GitHub+Actions%3A+Project+Usage+and+Deep+Dive+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: github, actions
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

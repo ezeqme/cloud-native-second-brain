@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1zuR1/cncf-project-demo-headlamp-the-kubernetes-ui-for-everyone
 - YouTube search: https://www.youtube.com/results?search_query=CNCF+Project+Demo+%7C+Headlamp%2C+the+Kubernetes+UI+for+Everyone+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: headlamp, everyone
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

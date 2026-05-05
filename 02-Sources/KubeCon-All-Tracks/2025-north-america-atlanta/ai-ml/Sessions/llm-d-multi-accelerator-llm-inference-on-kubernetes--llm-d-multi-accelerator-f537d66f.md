@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/27Fee/llm-d-multi-accelerator-llm-inference-on-kubernetes-erwan-gallen-red-hat
 - YouTube search: https://www.youtube.com/results?search_query=Llm-d%3A+Multi-Accelerator+LLM+Inference+on+Kubernetes+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=g8_snJA_ESU
+- YouTube title: Llm-d: Multi-Accelerator LLM Inference on Kubernetes - Erwan Gallen, Red Hat
+- Match score: 0.909
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: multi-accelerator, llm, inference
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

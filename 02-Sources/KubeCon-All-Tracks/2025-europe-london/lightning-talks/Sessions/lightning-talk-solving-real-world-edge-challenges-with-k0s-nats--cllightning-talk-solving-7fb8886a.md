@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1txD5/cllightning-talk-solving-real-world-edge-challenges-with-k0s-nats-and-raspberry-pi-clusters-prashant-ramhit-mirantis-inc
 - YouTube search: https://www.youtube.com/results?search_query=%E2%9A%A1Lightning+Talk%3A+Solving+Real-World+Edge+Challenges+With+K0s%2C+NATS%2C+and+Raspberry+Pi+Clusters+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: lightning, solving, real-world, challenges, raspberry, clusters
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

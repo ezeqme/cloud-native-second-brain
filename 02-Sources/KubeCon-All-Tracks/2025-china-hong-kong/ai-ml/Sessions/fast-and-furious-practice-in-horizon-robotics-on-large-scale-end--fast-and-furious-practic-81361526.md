@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncchn2025.sched.com/event/1x5hx/fast-and-furious-practice-in-horizon-robotics-on-large-scale-end-to-end-model-training-chen-yangxue-horizon-robotics-zhihao-xu-alibaba-cloud
 - YouTube search: https://www.youtube.com/results?search_query=Fast+and+Furious%3A+Practice+in+Horizon+Robotics+on+Large-scale+End-to-end+Model+Training+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=fESU-jZHpjg
+- YouTube title: Fast and Furious: Practice in Horizon Robotics on Large-scale End-to-e... Chen Yangxue,  & Zhihao Xu
+- Match score: 0.911
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: furious, practice, horizon, robotics, large-scale, end-to-end, training
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

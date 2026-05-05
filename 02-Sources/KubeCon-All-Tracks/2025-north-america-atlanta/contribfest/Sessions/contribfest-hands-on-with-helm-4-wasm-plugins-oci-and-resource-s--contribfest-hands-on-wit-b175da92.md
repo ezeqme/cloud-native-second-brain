@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/27Nl0/contribfest-hands-on-with-helm-4-wasm-plugins-oci-and-resource-sequencing-oh-my-andrew-block-red-hat-scott-rigby-replicated-george-jenkins-bloomberg
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%9A%A8+Contribfest%3A+Hands-On+With+Helm+4%3A+Wasm+Plugins%2C+OCI%2C+and+Resource+Sequencing.+Oh+My%21+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: contribfest, hands-on, wasm, plugins, resource, sequencing
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

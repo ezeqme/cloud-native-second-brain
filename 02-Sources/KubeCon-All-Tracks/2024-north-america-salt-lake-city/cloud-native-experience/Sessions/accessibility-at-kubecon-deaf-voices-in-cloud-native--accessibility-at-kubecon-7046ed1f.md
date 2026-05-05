@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2024.sched.com/event/1i7qA/accessibility-at-kubecon-deaf-voices-in-cloud-native-alfonso-torres-deaftech-jay-jackson-callrevu-destiny-oconnor-women-blessing-women-travis-johnson-convo-communications-rob-koch-slalom-build
 - YouTube search: https://www.youtube.com/results?search_query=Accessibility+at+KubeCon%3A+Deaf+Voices+in+Cloud+Native+CNCF+KubeCon+2024
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=-7Ax36iIiHU
+- YouTube title: Accessibility at KubeCon: Deaf Voices in Cloud Native - Panel
+- Match score: 1.065
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: accessibility, kubecon, voices, native
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

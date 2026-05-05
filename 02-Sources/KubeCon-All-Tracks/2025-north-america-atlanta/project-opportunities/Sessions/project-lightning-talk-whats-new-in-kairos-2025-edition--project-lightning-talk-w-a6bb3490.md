@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/27d4l/project-lightning-talk-whats-new-in-kairos-2025-edition-mauro-morales-maintainer
 - YouTube search: https://www.youtube.com/results?search_query=Project+Lightning+Talk%3A+What%E2%80%99s+New+In+Kairos%2C+2025+Edition+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=4i5QWIjYf1A
+- YouTube title: Project Lightning Talk: What’s New In Kairos, 2025 Edition - Mauro Morales, Maintainer
+- Match score: 0.915
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: lightning, kairos, edition
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

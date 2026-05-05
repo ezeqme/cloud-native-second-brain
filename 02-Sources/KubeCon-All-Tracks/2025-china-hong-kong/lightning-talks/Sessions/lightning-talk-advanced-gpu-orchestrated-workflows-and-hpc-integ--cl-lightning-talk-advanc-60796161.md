@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncchn2025.sched.com/event/1x5iO/cl-lightning-talk-advanced-gpu-orchestrated-workflows-and-hpc-integrations-on-k8s-for-distributed-aiml-at-scale-brandon-kang-akamai-technologies
 - YouTube search: https://www.youtube.com/results?search_query=%E2%9A%A1+Lightning+Talk%3A+Advanced+GPU-Orchestrated+Workflows+and+HPC+Integrations+on+K8s+for+Distributed+AI%2FML+at+Scale+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: lightning, advanced, gpu-orchestrated, workflows, integrations, distributed
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

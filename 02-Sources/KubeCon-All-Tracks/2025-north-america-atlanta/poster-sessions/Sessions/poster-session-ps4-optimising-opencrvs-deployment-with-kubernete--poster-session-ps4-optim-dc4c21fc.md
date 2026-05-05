@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/27FYP/poster-session-ps4-optimising-opencrvs-deployment-with-kubernetes-lessons-for-dpi-adoption-in-the-global-south-andrew-amstrong-musoke-samuel-emmanuel-upanzi-network
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%AA%A7+Poster+Session+%28PS4%29%3A+Optimising+OpenCRVS+Deployment+With+Kubernetes%3A+Lessons+for+DPI+Adoption+in+the+Global+South+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: poster, session, optimising, opencrvs, deployment, lessons, adoption, global
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

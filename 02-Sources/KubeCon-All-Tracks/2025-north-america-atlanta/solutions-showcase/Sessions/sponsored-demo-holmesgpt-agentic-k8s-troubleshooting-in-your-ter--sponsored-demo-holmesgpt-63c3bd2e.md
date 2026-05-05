@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/2A7EB/sponsored-demo-holmesgpt-agentic-k8s-troubleshooting-in-your-terminal
 - YouTube search: https://www.youtube.com/results?search_query=Sponsored+Demo%3A+HolmesGPT%3A+Agentic+K8s+troubleshooting+in+your+terminal+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sponsored, holmesgpt, agentic, troubleshooting, terminal
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

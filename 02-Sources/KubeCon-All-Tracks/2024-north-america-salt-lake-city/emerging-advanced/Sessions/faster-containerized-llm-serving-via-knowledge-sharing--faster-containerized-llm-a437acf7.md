@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2024.sched.com/event/1i7qs/faster-containerized-llm-serving-via-knowledge-sharing-junchen-jiang-university-of-chicago-zhou-sun-mooncake-labs
 - YouTube search: https://www.youtube.com/results?search_query=Faster+Containerized+LLM+Serving+via+Knowledge+Sharing+CNCF+KubeCon+2024
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: faster, containerized, llm, serving, knowledge, sharing
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

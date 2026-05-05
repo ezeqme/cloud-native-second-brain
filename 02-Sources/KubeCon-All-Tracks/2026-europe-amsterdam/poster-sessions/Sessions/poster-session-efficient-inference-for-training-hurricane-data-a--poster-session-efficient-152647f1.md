@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2CW0e/poster-session-efficient-inference-for-training-hurricane-data-and-predicting-future-movement-avery-yang-north-carolina-school-of-science-and-mathematics
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%AA%A7+Poster+Session%3A+Efficient+Inference+for+Training+Hurricane+Data+and+Predicting+Future+Movement+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: poster, session, efficient, inference, training, hurricane, predicting, future, movement
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

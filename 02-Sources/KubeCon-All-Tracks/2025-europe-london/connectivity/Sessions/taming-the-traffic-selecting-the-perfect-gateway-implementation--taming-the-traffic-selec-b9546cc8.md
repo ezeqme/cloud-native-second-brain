@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1txAr/taming-the-traffic-selecting-the-perfect-gateway-implementation-for-you-spencer-hance-google-arko-dasgupta-tetrate-christine-kim-isovalent-at-cisco-kate-osborn-nginxf5-mike-morris-microsoft
 - YouTube search: https://www.youtube.com/results?search_query=Taming+the+Traffic%3A+Selecting+the+Perfect+Gateway+Implementation+for+You+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: taming, traffic, selecting, perfect, gateway, implementation
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

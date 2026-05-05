@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2IEHd/sponsored-demo-ctrl+alt+deploy-windows-workloads-as-a-service-powered-by-kubevirt
 - YouTube search: https://www.youtube.com/results?search_query=Sponsored+Demo%3A+Ctrl%2BAlt%2BDeploy%3A+Windows+Workloads+as+a+Service+powered+by+kubeVirt+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sponsored, ctrl+alt+deploy, windows, workloads, powered, kubevirt
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2024.sched.com/event/1iZOk/mastering-data-management-for-kubernetes-hosted-by-portworx-by-pure-storage
 - YouTube search: https://www.youtube.com/results?search_query=Mastering+Data+Management+for+Kubernetes+Hosted+by+Portworx+by+Pure+Storage+CNCF+KubeCon+2024
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: mastering, management, hosted, portworx, storage
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

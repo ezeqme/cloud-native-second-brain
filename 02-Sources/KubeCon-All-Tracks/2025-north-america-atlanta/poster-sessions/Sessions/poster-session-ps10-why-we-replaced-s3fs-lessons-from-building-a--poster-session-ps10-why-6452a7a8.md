@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/27FYe/poster-session-ps10-why-we-replaced-s3fs-lessons-from-building-a-better-filesystem-for-ai-workloads-on-kubernetes-rui-su-juicedata-inc
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%AA%A7+Poster+Session+%28PS10%29%3A+Why+We+Replaced+S3FS%3A+Lessons+From+Building+a+Better+Filesystem+for+AI+Workloads+on+Kubernetes+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: poster, session, replaced, lessons, better, filesystem, workloads
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

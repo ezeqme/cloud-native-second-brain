@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1txDZ/poster-session-ps-05-extensible-kubernetes-crds-via-inheritance-for-modularity-and-reuse-nik-dijkema-mostafa-hadadian-university-of-groningen
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%AA%A7+Poster+Session+%28PS+05%29%3A+Extensible+Kubernetes+CRDs+Via+Inheritance+for+Modularity+and+Reuse+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: poster, session, extensible, inheritance, modularity
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

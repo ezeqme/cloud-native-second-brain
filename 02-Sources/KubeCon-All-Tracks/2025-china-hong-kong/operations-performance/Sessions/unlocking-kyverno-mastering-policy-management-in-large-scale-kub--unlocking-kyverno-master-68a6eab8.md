@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncchn2025.sched.com/event/1x5i9/unlocking-kyverno-mastering-policy-management-in-large-scale-kubernetes-clusters-di-xu-xiaohongshu-xu-liu-rednote
 - YouTube search: https://www.youtube.com/results?search_query=Unlocking+Kyverno%3A+Mastering+Policy+Management+in+Large-Scale+Kubernetes+Clusters+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=_KQijmHBk6E
+- YouTube title: Unlocking Kyverno: Mastering Policy Management in Large-Scale Kubernetes Clusters - Di Xu & Xu Liu
+- Match score: 1.005
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: unlocking, kyverno, mastering, policy, management, large-scale, clusters
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

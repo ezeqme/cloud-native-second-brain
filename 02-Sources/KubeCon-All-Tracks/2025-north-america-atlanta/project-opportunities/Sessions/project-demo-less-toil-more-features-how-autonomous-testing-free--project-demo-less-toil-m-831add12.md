@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/2AXKs/project-demo-less-toil-more-features-how-autonomous-testing-freed-etcd-maintainers-marek-siarkowicz-etcd-tech-lead
 - YouTube search: https://www.youtube.com/results?search_query=Project+Demo%3A+Less+Toil%2C+More+Features%3A+How+Autonomous+Testing+Freed+etcd+Maintainers+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: features, autonomous, testing, maintainers
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

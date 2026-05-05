@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/27Nla/sig-node-intro-and-deep-dive-peter-hunt-red-hat-sergey-kanzhelev-google-mrunal-patel-red-hat
 - YouTube search: https://www.youtube.com/results?search_query=SIG-Node%3A+Intro+and+Deep+Dive+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sig-node
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

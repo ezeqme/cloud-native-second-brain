@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/2A7De/sponsored-demo-kubernetes-ingress-or-gateway-api-it-depends
 - YouTube search: https://www.youtube.com/results?search_query=Sponsored+Demo%3A+Kubernetes+Ingress+or+Gateway+API+%E2%80%93+It+depends%21+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sponsored, ingress, gateway, depends
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2CVy8/canceled-5000-kubernetes-clusters-5-minutes-walmarts-secret-to-rapid-edge-deployments-with-argo-yug-gupta-walmart-global-tech
 - YouTube search: https://www.youtube.com/results?search_query=CANCELED%3A+5000+Kubernetes+Clusters%2C+5+Minutes%3A+Walmart%E2%80%99s+Secret+to+Rapid+Edge+Deployments+with+Argo+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: canceled, clusters, minutes, walmart, secret, deployments, argo
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

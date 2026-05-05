@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1txE0/poster-session-ps-05-navigating-the-cncf-wilderness-a-survival-guide-to-container-signing-and-verification-ivan-wallis-cyberark
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%AA%A7+Poster+Session+%28PS+05%29%3A+Navigating+the+CNCF+Wilderness%3A+A+Survival+Guide+To+Container+Signing+and+Verification+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: poster, session, navigating, wilderness, survival, container, signing, verification
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

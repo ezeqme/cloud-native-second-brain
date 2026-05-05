@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2024.sched.com/event/1qE6b/kubernetes-sig-storage-whats-coming-in-kubernetes-storage-project-lightning-talk
 - YouTube search: https://www.youtube.com/results?search_query=Kubernetes+%28SIG+Storage%29%3A+What%27s+Coming+in+Kubernetes+Storage+%7C+Project+Lightning+Talk+CNCF+KubeCon+2024
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=HcoZ6kX343c
+- YouTube title: Kubernetes (SIG Storage): What's Coming in Kubernetes Storage | Project Lightning Talk
+- Match score: 1.08
+- Transcript file: _sources/transcripts/youtube-enriched/kubecon/2024/kubernetes-sig-storage-whats-coming-in-kubernetes-storage-project-ligh/HcoZ6kX343c.txt
+- Transcript chars: 2811
+- Keywords: storage, object, volume, access, feature, release, support, buckets, vendor, trying, volumes, coming, lightning, exciting, defines, interfaces, driver, provides
+
+### Resumo baseado na transcript
+
+thank you for coming to the kuet six storage project lightning talk my name is shinyang I work at vml by Brom in six storage start myself our co-chairs Michelle and Y at tech leads other than the leads we also have many other contributors in six Storage storage seems like a topic that may not have much going on in kubernetes world anymore but the Sig actually has a number of big initiatives and I want to share with you three exciting projects that S Storage has been working
+
+### Excerpt da transcript
+
+thank you for coming to the kuet six storage project lightning talk my name is shinyang I work at vml by Brom in six storage start myself our co-chairs Michelle and Y at tech leads other than the leads we also have many other contributors in six Storage storage seems like a topic that may not have much going on in kubernetes world anymore but the Sig actually has a number of big initiatives and I want to share with you three exciting projects that S Storage has been working on CSI defines common interfaces so that a St vender can ride the driver and have the underlying block F storage to be consumed by containers running in kubernetes CSI was very successful with more than a drivers CSI is for block and file storage Coy was aimed at adding support for object storage in kues KY provides Kates apis to provision object buckets and allow those parts to access those buckets COI also defines grpc interfaces so that a stud vendor can and WR a driver to provision buckets object storage Works differently from block and file storage a part can access data directly by mounting a block file volume but object but a pod can only access object storage through apis so we need to provide a way to do authentication and authorization and allow those parts to access Object Store backends and we introduced this feature back in 1.25 release we are now trying to move it it to we1 uh ARR 2 CSI already provides a standard way for parts to consume block and fire volumes however efficient volume backups are still vendor specific so the goal of the change block tracking project is to enable vendor ofn stick tooling to support efficient volume backups we encountered many challenges when we try to introduce this feature for example potentially you could have about like 5 gabes of metadata per one terabytes of volume data in the worst case scenario if every block is changed and that could overwhelm the Coates API server so we came up with the design design that allows us to retrieve change blocks efficiently without overloading the kuat's API server and we got the cap merg in 1.31 release we are now trying to move the feature to Alpa in 1.32 release kubernetes CSI already supports creating a snapshot of a volume but an application may contain multiple volumes and require that a snapshot to be taken at the same point in time across all the volumes to ensure right order consistency that's why we introduced new apis to support volume group snapshots and this feature has been Alpha since 1.

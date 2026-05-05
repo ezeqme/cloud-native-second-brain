@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2CW12/poster-session-reimagining-auto-instrumentation-prototyping-distributed-tracing-without-header-propagation-on-k8s-kenta-iijima-ntt-inc
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%AA%A7+Poster+Session%3A+Reimagining+Auto-Instrumentation%3A+Prototyping+Distributed+Tracing+Without+Header+Propagation+on+K8s+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: poster, session, reimagining, auto-instrumentation, prototyping, distributed, tracing, without, header, propagation
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

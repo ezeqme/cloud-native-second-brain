@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncchn2025.sched.com/event/1xjzB/project-lightning-talk-k8s-issue-#52757-sharing-gpus-among-multiple-containers-xiao-zhang-maintainer
 - YouTube search: https://www.youtube.com/results?search_query=Project+Lightning+Talk%3A+K8s+issue+%2352757%3A+Sharing+GPUs+Among+Multiple+Containers+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=8b7FynnPYLk
+- YouTube title: Project Lightning Talk: K8s issue #52757: Sharing GPUs Among Multiple Containers - Xiao Zhang
+- Match score: 1.013
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: lightning, sharing, multiple, containers
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

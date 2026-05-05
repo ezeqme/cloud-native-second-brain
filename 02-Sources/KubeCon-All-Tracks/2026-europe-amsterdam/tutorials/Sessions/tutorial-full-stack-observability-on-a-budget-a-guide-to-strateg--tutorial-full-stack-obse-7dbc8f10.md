@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2CW3t/tutorial-full-stack-observability-on-a-budget-a-guide-to-strategic-sampling-and-data-optimization-pavol-loffay-red-hat
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%93%9A+Tutorial%3A+Full-Stack+Observability+on+a+Budget%3A+A+Guide+to+Strategic+Sampling+and+Data+Optimization+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: tutorial, full-stack, observability, budget, strategic, sampling, optimization
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

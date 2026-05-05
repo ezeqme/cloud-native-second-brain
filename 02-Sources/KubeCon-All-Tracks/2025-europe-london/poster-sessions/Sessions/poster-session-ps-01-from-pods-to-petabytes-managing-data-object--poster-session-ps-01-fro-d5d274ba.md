@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1txDl/poster-session-ps-01-from-pods-to-petabytes-managing-data-objects-as-kubernetes-resources-sebastian-beyvers-jannis-hochmuth-giessen-university
 - YouTube search: https://www.youtube.com/results?search_query=%F0%9F%AA%A7+Poster+Session+%28PS+01%29%3A+From+Pods+To+Petabytes%3A+Managing+Data+Objects+as+Kubernetes+Resources+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: poster, session, petabytes, managing, objects, resources
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

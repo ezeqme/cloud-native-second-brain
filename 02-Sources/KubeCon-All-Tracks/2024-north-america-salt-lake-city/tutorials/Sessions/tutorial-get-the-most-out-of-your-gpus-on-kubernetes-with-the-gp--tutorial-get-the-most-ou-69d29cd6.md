@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2024.sched.com/event/1i7lz/tutorial-get-the-most-out-of-your-gpus-on-kubernetes-with-the-gpu-operator-eduardo-arango-gutierrez-tariq-ibrahim-amanda-moran-christopher-desiniotis-nvidia-david-porter-google
 - YouTube search: https://www.youtube.com/results?search_query=Tutorial%3A+Get+the+Most+Out+of+Your+GPUs+on+Kubernetes+with+the+GPU+Operator+CNCF+KubeCon+2024
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: tutorial, gpu, operator
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

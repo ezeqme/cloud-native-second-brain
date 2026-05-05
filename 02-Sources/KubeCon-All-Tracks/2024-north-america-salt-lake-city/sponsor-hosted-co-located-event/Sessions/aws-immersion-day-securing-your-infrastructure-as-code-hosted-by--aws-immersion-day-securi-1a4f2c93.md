@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2024.sched.com/event/1nzk9/aws-immersion-day-securing-your-infrastructure-as-code-hosted-by-snyk-hashicorp-aws
 - YouTube search: https://www.youtube.com/results?search_query=AWS+Immersion+Day%3A+Securing+your+Infrastructure+as+Code+Hosted+by+Snyk%2C+HashiCorp%2C+AWS+CNCF+KubeCon+2024
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: immersion, securing, infrastructure, hosted, hashicorp
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

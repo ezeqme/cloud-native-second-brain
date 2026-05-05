@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/27Nlv/navigating-the-rapid-evolution-of-large-model-inference-where-does-kubernetes-fit-jiaxin-shan-bytedance-yuan-tang-red-hat-sergey-kanzhelev-google-rita-zhang-microsoft
 - YouTube search: https://www.youtube.com/results?search_query=Navigating+the+Rapid+Evolution+of+Large+Model+Inference%3A+Where+Does+Kubernetes+Fit%3F+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: navigating, evolution, inference
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

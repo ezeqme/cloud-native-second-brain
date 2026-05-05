@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/27FaC/beyond-the-dashboard-modern-observability-for-platform-engineering-at-scale-danielle-cook-akamai-whitney-lee-datadog-stevie-caldwell-fairwinds-khallai-taylor-eon-digital-technology-gmbh-payal-bagga-intuit
 - YouTube search: https://www.youtube.com/results?search_query=Beyond+the+Dashboard%3A+Modern+Observability+for+Platform+Engineering+at+Scale+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: beyond, dashboard, modern, observability, platform, engineering
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

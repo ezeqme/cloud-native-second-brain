@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1txBa/sponsored-keynote-the-science-of-winning-oracle-red-bull-racings-formula-with-open-source-kubernetes-and-ai-sudha-raghavan-svp-of-oci-developer-platform-oracle
 - YouTube search: https://www.youtube.com/results?search_query=Sponsored+Keynote%3A+The+Science+of+Winning%3A+Oracle+Red+Bull+Racing%E2%80%99s+Formula+with+Open+Source%2C+Kubernetes+and+AI+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=g7KIuv7KipE
+- YouTube title: Sponsored Keynote: The Science of Winning: Oracle Red Bull Racing’s Formula with O... Sudha Raghavan
+- Match score: 0.926
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sponsored, keynote, science, winning, oracle, racing, formula, source
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

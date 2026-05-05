@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/2BQEQ/project-demo-whats-up-with-podman-a-rootless-daemonless-container-tool
 - YouTube search: https://www.youtube.com/results?search_query=Project+Demo%3A+What%27s+Up+With+Podman%3F+A+Rootless+Daemonless+Container+Tool+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: podman, rootless, daemonless, container
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

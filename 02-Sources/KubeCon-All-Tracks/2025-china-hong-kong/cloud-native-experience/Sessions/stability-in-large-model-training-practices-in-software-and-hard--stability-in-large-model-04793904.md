@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncchn2025.sched.com/event/1x5k5/stability-in-large-model-training-practices-in-software-and-hardware-fault-self-healing-yang-cao-ant-group
 - YouTube search: https://www.youtube.com/results?search_query=Stability+in+Large+Model+Training%3A+Practices+in+Software+and+Hardware+Fault+Self-Healing+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=Jdbvo5NSZ9U
+- YouTube title: Stability in Large Model Training: Practices in Software and Hardware Fault Self-Healing - Yang Cao
+- Match score: 1.031
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: stability, training, practices, software, hardware, self-healing
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2024.sched.com/event/1how2/linkerd-update-ingress-egress-ipv6-enhanced-multicluster-rust-and-more-william-morgan-buoyant
 - YouTube search: https://www.youtube.com/results?search_query=Linkerd+Update%3A+Ingress%2C+Egress%2C+IPv6%2C+Enhanced+Multicluster%2C+Rust%2C+and+More+CNCF+KubeCon+2024
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: linkerd, update, ingress, egress, enhanced, multicluster
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

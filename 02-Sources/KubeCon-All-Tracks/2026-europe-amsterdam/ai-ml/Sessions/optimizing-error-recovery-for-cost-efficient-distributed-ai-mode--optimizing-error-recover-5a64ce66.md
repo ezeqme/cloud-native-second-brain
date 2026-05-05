@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2CW7Z/optimizing-error-recovery-for-cost-efficient-distributed-ai-model-training-with-kubernetes-radostin-stoyanov-university-of-oxford-andrey-velichkevich-apple-viktoria-spisakova-masaryk-university
 - YouTube search: https://www.youtube.com/results?search_query=Optimizing+Error+Recovery+for+Cost-Efficient+Distributed+AI+Model+Training+with+Kubernetes+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: optimizing, recovery, cost-efficient, distributed, training
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

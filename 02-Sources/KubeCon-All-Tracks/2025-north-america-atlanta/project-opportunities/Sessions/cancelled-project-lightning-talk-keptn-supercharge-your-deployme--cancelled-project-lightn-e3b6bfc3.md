@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2025.sched.com/event/27d5p/cancelled-project-lightning-talk-keptn-supercharge-your-deployments-rakshit-gondwal-maintainer
 - YouTube search: https://www.youtube.com/results?search_query=CANCELLED%3A+Project+Lightning+Talk%3A+Keptn%3A+Supercharge+Your+Deployments%21+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: cancelled, lightning, supercharge, deployments
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

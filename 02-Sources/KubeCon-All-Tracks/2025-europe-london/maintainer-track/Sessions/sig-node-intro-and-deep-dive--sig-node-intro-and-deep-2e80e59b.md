@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1tcy2/sig-node-intro-and-deep-dive-sergey-kanzhelev-google-francesco-romani-peter-hunt-red-hat
 - YouTube search: https://www.youtube.com/results?search_query=SIG-Node%3A+Intro+and+Deep+Dive+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: sig-node
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

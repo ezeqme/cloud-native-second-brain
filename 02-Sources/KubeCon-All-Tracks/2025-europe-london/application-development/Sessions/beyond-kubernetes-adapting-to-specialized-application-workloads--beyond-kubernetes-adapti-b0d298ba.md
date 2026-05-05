@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1txEd/beyond-kubernetes-adapting-to-specialized-application-workloads-rags-srinivas-independent-dawn-chen-google-sachi-desai-microsoft-vara-bonthu-aws-erin-boyd-nvidia
 - YouTube search: https://www.youtube.com/results?search_query=Beyond+Kubernetes%3A+Adapting+To+Specialized+Application+Workloads+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: beyond, adapting, specialized, application, workloads
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

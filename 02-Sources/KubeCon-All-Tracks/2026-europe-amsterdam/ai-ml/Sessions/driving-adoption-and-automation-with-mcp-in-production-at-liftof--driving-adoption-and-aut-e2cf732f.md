@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2026.sched.com/event/2CVz0/driving-adoption-and-automation-with-mcp-in-production-at-liftoff-tommy-nguyen-liftoff-mobile
 - YouTube search: https://www.youtube.com/results?search_query=Driving+Adoption+and+Automation+With+MCP+in+Production+at+Liftoff+CNCF+KubeCon+2026
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=ni6hMzibnko
+- YouTube title: Driving Adoption and Automation With MCP in Production at Liftoff - Tommy Nguyen, Liftoff Mobile
+- Match score: 0.903
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: driving, adoption, automation, production, liftoff
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

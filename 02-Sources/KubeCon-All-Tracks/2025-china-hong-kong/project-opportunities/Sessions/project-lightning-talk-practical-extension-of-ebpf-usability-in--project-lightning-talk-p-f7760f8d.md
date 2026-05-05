@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncchn2025.sched.com/event/1xjzE/project-lightning-talk-practical-extension-of-ebpf-usability-in-kubecon-lizhencheng-maintainer
 - YouTube search: https://www.youtube.com/results?search_query=Project+Lightning+Talk%3A+Practical+Extension+of+eBPF+Usability+in+KubeCon+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: https://www.youtube.com/watch?v=c9AQ2kVTcuc
+- YouTube title: Project Lightning Talk: Practical Extension of eBPF Usability in KubeCon - Lizhencheng, Maintainer
+- Match score: 0.981
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: lightning, practical, extension, ebpf, usability, kubecon
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

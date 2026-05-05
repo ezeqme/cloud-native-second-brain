@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccncna2024.sched.com/event/1oWAL/kong-ai-gateway-insomnia-workshop-ai-success-through-api-heroics-hosted-by-kong-sold-out
 - YouTube search: https://www.youtube.com/results?search_query=Kong+AI+Gateway+%26+Insomnia+Workshop%3A+AI+Success+Through+API+Heroics+Hosted+by+Kong+CNCF+KubeCon+2024
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: gateway, insomnia, workshop, success, heroics, hosted
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._

@@ -40,3 +40,19 @@ _Descrição oficial não encontrada._
 
 - Schedule oficial: https://kccnceu2025.sched.com/event/1tx6n/tutorial-mind-your-pods-business-network-isolation-workshop-surya-seetharaman-miguel-duarte-barroso-red-hat-keith-burdis-goldman-sachs
 - YouTube search: https://www.youtube.com/results?search_query=Tutorial%3A+Mind+Your+Pod%27s+Business%3A+Network+Isolation+Workshop+CNCF+KubeCon+2025
+## YouTube enrichment
+
+- YouTube: Não encontrado
+- YouTube title: N/A
+- Match score: N/A
+- Transcript file: N/A
+- Transcript chars: 0
+- Keywords: tutorial, business, network, isolation, workshop
+
+### Resumo baseado na transcript
+
+_Transcript indisponível; enriquecimento baseado apenas em metadados._
+
+### Excerpt da transcript
+
+_Sem transcript disponível._
