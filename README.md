@@ -55,11 +55,31 @@ scripts/                   Automação de coleta, indexação e enriquecimento
 
 ### No Obsidian
 
-1. Clone o repositório.
-2. Abra a pasta como vault no Obsidian.
-3. Comece pelos arquivos em `01-Maps/`.
-4. Navegue pelas sessões em `02-Sources/`.
-5. Promova aprendizados relevantes para `03-Topics/`.
+Este repositório já está organizado como um vault Obsidian. Para abrir:
+
+1. Clone o repositório:
+
+   ```bash
+   git clone <repo-url>
+   cd cloud-native-second-brain
+   ```
+
+2. Abra o Obsidian.
+3. Clique em **Open folder as vault** / **Abrir pasta como cofre**.
+4. Selecione a pasta `cloud-native-second-brain` clonada.
+5. Quando o vault abrir, comece pelos mapas em `01-Maps/`:
+   - `01-Maps/KubeCon All Tracks.md`
+   - `01-Maps/Observability.md`
+   - `01-Maps/PromCon.md`
+6. Navegue pelas sessões em `02-Sources/`.
+7. Promova aprendizados relevantes para `03-Topics/`.
+
+Dicas:
+
+- Use o **Graph View** do Obsidian para visualizar conexões entre eventos, trilhas e temas.
+- Use a busca global do Obsidian para encontrar projetos, tecnologias e speakers.
+- Os links internos usam o formato wiki `[[Nome da nota]]`, compatível com Obsidian.
+- A pasta `_sources/` contém dados brutos/manifests e pode ser ignorada na leitura diária.
 
 ### Via terminal
 
