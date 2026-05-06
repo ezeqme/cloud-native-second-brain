@@ -1,39 +1,131 @@
 # Cloud Native Second Brain
 
-Base Obsidian para estudos de observabilidade a partir de conferências Cloud Native/KubeCon.
+Base de conhecimento em formato Obsidian para estudar, pesquisar e conectar conteúdos do ecossistema cloud native.
 
-## Escopo atual
+O repositório começou focado em observabilidade, mas agora cobre trilhas completas de Cloud Native/KubeCon, PromCon e eventos relacionados da CNCF: Kubernetes, plataforma, segurança, networking, service mesh, runtime, storage, performance, operações, observabilidade, AI/ML e outros temas do ecossistema.
 
-- Evento: Observability Day Europe 2026
-- Local: KubeCon + CloudNativeCon Europe 2026, Amsterdam
-- Fonte de agenda: Linux Foundation / Sched
-- Fonte de vídeos/transcrições: CNCF YouTube Channel
+## Objetivo
+
+Transformar agendas, vídeos, metadados e transcrições públicas de conferências cloud native em um vault navegável para:
+
+- estudar tendências técnicas do ecossistema CNCF;
+- encontrar talks por evento, trilha, projeto ou tema;
+- construir mapas de conhecimento reutilizáveis;
+- apoiar pesquisa, escrita, talks, treinamentos e decisões técnicas;
+- acompanhar a evolução histórica de temas cloud native.
+
+## Conteúdo atual
+
+- KubeCon + CloudNativeCon com múltiplas trilhas e edições históricas.
+- Observability Day e trilhas históricas de observabilidade.
+- PromCon e conteúdos relacionados a Prometheus.
+- Metadados, links, manifests e automações para enriquecimento via YouTube/CNCF.
+- Estrutura compatível com Obsidian, usando links wiki (`[[...]]`) e mapas de conteúdo.
+
+Resumo aproximado do vault no momento:
+
+- `02-Sources/KubeCon-All-Tracks/`: 4.865 notas de sessões.
+- `02-Sources/KubeCon/`: 220 notas focadas em KubeCon/observabilidade e eventos colocalizados.
+- `02-Sources/PromCon/`: 215 notas de PromCon.
+- Total: mais de 5.400 arquivos Markdown.
 
 ## Estrutura
 
 ```text
 00-Inbox/                  Capturas rápidas e notas ainda não processadas
-01-Maps/                   MOCs / mapas de conteúdo
-02-Sources/                Fontes primárias por evento
-03-Topics/                 Notas permanentes por tema
-04-Projects/               Trilhas de pesquisa e outputs futuros
+01-Maps/                   MOCs / mapas de conteúdo por tema, evento ou trilha
+02-Sources/                Fontes primárias organizadas por evento e sessão
+03-Topics/                 Notas permanentes por tema cloud native
+04-Projects/               Trilhas de pesquisa, outputs futuros e trabalhos derivados
 05-Templates/              Templates Obsidian
-_sources/                  Dados brutos e manifests para reprocessamento
-scripts/                   Automação de coleta/indexação
+_sources/                  Dados brutos, manifests e arquivos de reprocessamento
+scripts/                   Automação de coleta, indexação e enriquecimento
 ```
-
-## Fluxo recomendado
-
-1. Baixar agenda e transcrições com `scripts/index_observability_day_2026.py`.
-2. Ler notas em `02-Sources/.../Sessions/`.
-3. Promover insights para `03-Topics/`.
-4. Manter mapas em `01-Maps/` atualizados.
-
-> Nota: os vídeos/transcrições são conteúdo de terceiros. Este vault guarda metadados, links e transcrições para uso de pesquisa/estudo. Verifique direitos antes de redistribuir publicamente.
 
 ## Mapas principais
 
-- [[Observability]]
-- [[KubeCon All Tracks]]
-- [[PromCon]]
-- [[KubeCon Historical Observability]]
+- `01-Maps/KubeCon All Tracks.md`
+- `01-Maps/Observability.md`
+- `01-Maps/KubeCon Historical Observability.md`
+- `01-Maps/PromCon.md`
+- `01-Maps/KubeCon-Themes/`
+- `01-Maps/PromCon-Themes/`
+
+## Como usar
+
+### No Obsidian
+
+1. Clone o repositório.
+2. Abra a pasta como vault no Obsidian.
+3. Comece pelos arquivos em `01-Maps/`.
+4. Navegue pelas sessões em `02-Sources/`.
+5. Promova aprendizados relevantes para `03-Topics/`.
+
+### Via terminal
+
+```bash
+git clone <repo-url>
+cd cloud-native-second-brain
+```
+
+Use busca textual, `ripgrep`, scripts próprios ou ferramentas de IA/local RAG sobre os arquivos Markdown.
+
+Exemplos:
+
+```bash
+rg "OpenTelemetry" 02-Sources/
+rg "platform engineering" 01-Maps/ 02-Sources/
+```
+
+## Automação
+
+Os scripts em `scripts/` ajudam a coletar, indexar e enriquecer dados de eventos e vídeos.
+
+Principais scripts:
+
+- `scripts/index_kubecon_all_tracks.py` — indexa múltiplas trilhas da KubeCon.
+- `scripts/index_historical_observability.py` — indexa histórico de observabilidade.
+- `scripts/index_observability_day_2026.py` — indexa Observability Day Europe 2026.
+- `scripts/index_promcon.py` — indexa PromCon.
+- `scripts/sync_cncf_playlists.py` — sincroniza playlists públicas da CNCF.
+- `scripts/enrich_from_youtube.py` — enriquece notas com dados/transcrições do YouTube quando disponíveis.
+
+> Os scripts podem depender de ferramentas externas, dados públicos e disponibilidade das fontes originais. Rode com cuidado e revise os diffs antes de publicar alterações grandes.
+
+## Fontes
+
+Este vault usa principalmente fontes públicas como:
+
+- agendas da Linux Foundation / Sched;
+- canal da CNCF no YouTube;
+- playlists e páginas públicas de eventos;
+- metadados e transcrições disponíveis publicamente.
+
+## Aviso sobre conteúdo de terceiros
+
+Este repositório organiza metadados, links, resumos e material de estudo baseado em conteúdo público de terceiros.
+
+Vídeos, slides, transcrições, nomes de eventos, marcas e demais materiais originais continuam pertencendo aos seus respectivos autores, palestrantes, organizações ou plataformas. Antes de redistribuir transcrições completas, gerar material comercial ou republicar conteúdo derivado, verifique os direitos e licenças aplicáveis das fontes originais.
+
+## Contribuição
+
+Contribuições são bem-vindas, especialmente para:
+
+- corrigir metadados de sessões;
+- melhorar mapas de conteúdo;
+- adicionar links para vídeos/slides oficiais;
+- organizar temas cloud native;
+- melhorar scripts de indexação;
+- reduzir duplicações e inconsistências de nomenclatura.
+
+Sugestão de fluxo:
+
+1. Abra uma issue descrevendo o problema ou melhoria.
+2. Envie um pull request com alterações pequenas e revisáveis.
+3. Evite adicionar conteúdo protegido por direitos autorais sem permissão clara.
+
+## Licença
+
+O código, scripts, estrutura do vault e notas originais deste repositório estão disponíveis sob a licença MIT. Veja [`LICENSE`](LICENSE).
+
+Conteúdos de terceiros referenciados, transcritos ou linkados não são relicenciados por este projeto e permanecem sujeitos às licenças e termos de seus respectivos donos.
