@@ -1,9 +1,17 @@
+# License
+
+This repository uses a dual-license model because it contains both software and knowledge-base content.
+
+## Code and automation
+
+The source code, scripts, and automation files in this repository are licensed under the MIT License.
+
 MIT License
 
 Copyright (c) 2026 Ezequiel Barros
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
+of the software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
@@ -12,12 +20,6 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-Third-party conference content, videos, slides, transcripts, trademarks, event
-names, speaker names, and source materials referenced, linked, summarized, or
-collected by this repository are not relicensed by this License. They remain
-subject to the terms, licenses, and rights of their respective owners and
-source platforms.
-
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
@@ -25,3 +27,19 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## Original knowledge-base content
+
+Original notes, maps, documentation, and vault structure created for this repository are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+License text: https://creativecommons.org/licenses/by/4.0/
+
+You may share and adapt this original content, including for commercial use, provided that appropriate attribution is given.
+
+## Third-party content
+
+Third-party conference content, videos, slides, transcripts, trademarks, event names, speaker names, and source materials referenced, linked, summarized, transcribed, or collected by this repository are not relicensed by this repository.
+
+They remain subject to the licenses, terms, and rights of their respective owners and source platforms. Where source videos or materials are available under a Creative Commons license, derived material should preserve the required attribution and any additional obligations of the original license.
+
+See `NOTICE.md` for source and attribution guidance.

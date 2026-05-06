@@ -126,6 +126,13 @@ Sugestão de fluxo:
 
 ## Licença
 
-O código, scripts, estrutura do vault e notas originais deste repositório estão disponíveis sob a licença MIT. Veja [`LICENSE`](LICENSE).
+Este repositório usa um modelo de licença dual:
 
-Conteúdos de terceiros referenciados, transcritos ou linkados não são relicenciados por este projeto e permanecem sujeitos às licenças e termos de seus respectivos donos.
+- **Código, scripts e automações:** MIT License.
+- **Notas originais, mapas, documentação e estrutura do vault:** Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+Veja [`LICENSE`](LICENSE).
+
+Conteúdos de terceiros referenciados, resumidos, transcritos ou linkados não são relicenciados por este projeto. Eles permanecem sujeitos às licenças e termos de seus respectivos donos e plataformas de origem.
+
+Para orientações de atribuição, veja [`NOTICE.md`](NOTICE.md).
