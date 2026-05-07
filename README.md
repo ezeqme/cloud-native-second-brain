@@ -2,6 +2,8 @@
 
 Base de conhecimento em formato Obsidian para estudar, pesquisar e conectar conteúdos do ecossistema cloud native.
 
+🌐 **Site público:** https://ezeqme.github.io/cloud-native-second-brain/
+
 O repositório começou focado em observabilidade, mas agora cobre trilhas completas de Cloud Native/KubeCon, PromCon e eventos relacionados da CNCF: Kubernetes, plataforma, segurança, networking, service mesh, runtime, storage, performance, operações, observabilidade, AI/ML e outros temas do ecossistema.
 
 ## Objetivo
@@ -101,6 +103,7 @@ rg "platform engineering" 01-Maps/ 02-Sources/
 
 Este repositório inclui uma primeira configuração para publicar o vault como site estático com Quartz e GitHub Pages.
 
+- Acesse: https://ezeqme.github.io/cloud-native-second-brain/
 - A publicação acontece pelo workflow `.github/workflows/deploy-pages.yml` em pushes para `main`.
 - O workflow baixa o Quartz v4, copia apenas arquivos Markdown do vault para o build e exclui `_sources/`, `bin/`, `scripts/`, `.git`, `.github`, `05-Templates/` e saídas locais.
 - A configuração fica em `.github/quartz/`, com Graph View habilitado e parâmetros mais conservadores para um vault grande.
