@@ -4,6 +4,9 @@ Base de conhecimento em formato Obsidian para estudar, pesquisar e conectar cont
 
 🌐 **Site público:** https://ezeqme.github.io/cloud-native-second-brain/
 
+> [!WARNING]
+> Este projeto ainda está em desenvolvimento. A estrutura do vault, nomes de pastas, mapas, notas e automações podem mudar sem aviso prévio.
+
 O repositório começou focado em observabilidade, mas agora cobre trilhas completas de Cloud Native/KubeCon, PromCon e eventos relacionados da CNCF: Kubernetes, plataforma, segurança, networking, service mesh, runtime, storage, performance, operações, observabilidade, AI/ML e outros temas do ecossistema.
 
 ## Objetivo
