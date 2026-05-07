@@ -6,6 +6,10 @@ title: Cloud Native Second Brain
 
 Base de conhecimento navegável sobre o ecossistema cloud native, com foco em KubeCon, PromCon, observabilidade, Kubernetes, plataforma, segurança, networking, service mesh, runtime, storage, AI/ML e temas relacionados.
 
+## Graph View
+
+O grafo aparece logo acima desta seção em todas as páginas publicadas. Clique no ícone no canto superior direito do grafo para abrir o **Global Graph** em tela cheia.
+
 ## Comece por aqui
 
 - [[01-Maps/KubeCon All Tracks|KubeCon All Tracks]]

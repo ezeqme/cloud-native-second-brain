@@ -45,6 +45,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    graph,
   ],
   left: [
     Component.PageTitle(),
@@ -61,11 +62,11 @@ export const defaultContentPageLayout: PageLayout = {
       folderDefaultState: "collapsed",
     }),
   ],
-  right: [graph, Component.DesktopOnly(Component.TableOfContents()), Component.Backlinks()],
+  right: [Component.DesktopOnly(Component.TableOfContents()), Component.Backlinks()],
 }
 
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta(), graph],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -77,5 +78,5 @@ export const defaultListPageLayout: PageLayout = {
       folderDefaultState: "collapsed",
     }),
   ],
-  right: [graph],
+  right: [],
 }
