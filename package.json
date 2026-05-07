@@ -1,0 +1,12 @@
+{
+  "name": "cloud-native-second-brain",
+  "private": true,
+  "scripts": {
+    "site:build": "scripts/build_quartz_site.sh build",
+    "site:serve": "scripts/build_quartz_site.sh serve"
+  },
+  "engines": {
+    "node": ">=22",
+    "npm": ">=10.9.2"
+  }
+}

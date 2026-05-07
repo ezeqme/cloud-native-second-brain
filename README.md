@@ -97,6 +97,29 @@ rg "OpenTelemetry" 02-Sources/
 rg "platform engineering" 01-Maps/ 02-Sources/
 ```
 
+### Site público com GitHub Pages
+
+Este repositório inclui uma primeira configuração para publicar o vault como site estático com Quartz e GitHub Pages.
+
+- A publicação acontece pelo workflow `.github/workflows/deploy-pages.yml` em pushes para `main`.
+- O workflow baixa o Quartz v4, copia apenas arquivos Markdown do vault para o build e exclui `_sources/`, `bin/`, `scripts/`, `.git`, `.github`, `05-Templates/` e saídas locais.
+- A configuração fica em `.github/quartz/`, com Graph View habilitado e parâmetros mais conservadores para um vault grande.
+- No GitHub, habilite **Settings > Pages > Source > GitHub Actions** antes do primeiro deploy.
+
+Build local:
+
+```bash
+npm run site:build
+```
+
+Preview local:
+
+```bash
+npm run site:serve
+```
+
+Esses comandos exigem Node.js 22+, npm 10.9.2+ e acesso ao GitHub/npm para baixar o Quartz e suas dependências na primeira execução. A saída local fica em `.quartz/public/` e não deve ser commitada.
+
 ## Automação
 
 Os scripts em `scripts/` ajudam a coletar, indexar e enriquecer dados de eventos e vídeos.

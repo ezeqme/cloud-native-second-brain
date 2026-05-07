@@ -1,0 +1,84 @@
+name: Deploy Quartz site to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Checkout vault
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Checkout Quartz
+        uses: actions/checkout@v4
+        with:
+          repository: jackyzha0/quartz
+          ref: v4
+          path: .quartz
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: .quartz/package-lock.json
+
+      - name: Install Quartz dependencies
+        working-directory: .quartz
+        run: npm ci
+
+      - name: Prepare Quartz content
+        run: |
+          rm -rf .quartz/content
+          mkdir -p .quartz/content
+          rsync -a --delete --prune-empty-dirs \
+            --exclude='/.git/**' \
+            --exclude='/.github/**' \
+            --exclude='/.quartz/**' \
+            --exclude='/bin/**' \
+            --exclude='/node_modules/**' \
+            --exclude='/public/**' \
+            --exclude='/scripts/**' \
+            --exclude='/_sources/**' \
+            --exclude='/05-Templates/**' \
+            --include='*/' \
+            --include='*.md' \
+            --exclude='*' \
+            ./ .quartz/content/
+          cp .github/quartz/quartz.config.ts .quartz/quartz.config.ts
+          cp .github/quartz/quartz.layout.ts .quartz/quartz.layout.ts
+
+      - name: Build Quartz
+        working-directory: .quartz
+        run: npx quartz build --directory content --output public --concurrency 2
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .quartz/public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

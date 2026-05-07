@@ -41,6 +41,10 @@ secrets.*
 # Local binaries/tools
 bin/
 
+# Local Quartz checkout/build output
+.quartz/
+public/
+
 # Raw fetch caches (rebuildable)
 _sources/raw/
 
