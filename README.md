@@ -7,6 +7,9 @@ Base de conhecimento em formato Obsidian para estudar, pesquisar e conectar cont
 > [!WARNING]
 > Este projeto ainda está em desenvolvimento. A estrutura do vault, nomes de pastas, mapas, notas e automações podem mudar sem aviso prévio.
 
+> [!NOTE]
+> Este é um projeto experimental de **vibe coding**, construído integralmente com apoio de IA e curadoria humana de Ezequiel Barros. Podem existir erros, lacunas ou classificações imprecisas. Se encontrar algum problema, por favor abra uma issue ou envie uma correção para que o conteúdo possa ser revisado.
+
 O repositório começou focado em observabilidade, mas agora cobre trilhas completas de Cloud Native/KubeCon, PromCon e eventos relacionados da CNCF: Kubernetes, plataforma, segurança, networking, service mesh, runtime, storage, performance, operações, observabilidade, AI/ML e outros temas do ecossistema.
 
 ## Objetivo
